@@ -2,7 +2,7 @@
 
 The newest live US internship and co-op jobs, read straight from employers' own career sites and refreshed every morning.
 
-Built by [VeritaHire](https://veritahire.com), which reads **around 2.5 million live US jobs from the career sites of 19,000+
+Built by [VeritaHire](https://veritahire.com), which reads **around 2.9 million live US jobs from the career sites of 25,000+
 employers** every day and re-checks each one: a job that leaves the employer's site is taken down within about 36 hours.
 
 - Every job below was confirmed on the employer's own career site in the last 3 days. No reposted board copies.
@@ -11,7 +11,7 @@ employers** every day and re-checks each one: a job that leaves the employer's s
 - At most 3 roles per employer, so one company can't fill the list.
 
 Star the repo to keep the list in your GitHub feed. Looking for something else (a city, a field, a state)? Search all
-around 2.5 million live jobs free at [veritahire.com](https://veritahire.com/search.php), or have your AI do it with the free
+around 2.9 million live jobs free at [veritahire.com](https://veritahire.com/search.php), or have your AI do it with the free
 [MCP server](https://veritahire.com/for-ai/) and the [Claude Code plugin](https://github.com/veritahire/jobhunt).
 
 Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritahire/us-entry-level-jobs) · [Remote Jobs in the US](https://github.com/veritahire/remote-jobs-us) · [US Nursing Jobs (RN, LPN/LVN, NP, CNA)](https://github.com/veritahire/nursing-jobs-us) · [US Jobs That Post Their Pay](https://github.com/veritahire/jobs-with-pay-us)
@@ -325,7 +325,7 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 
 ## Data and reuse
 
-`data/jobs.json` and `data/jobs.csv` hold today's list. Developers who need every live US job (around 2.5 million, with
+`data/jobs.json` and `data/jobs.csv` hold today's list. Developers who need every live US job (around 2.9 million, with
 descriptions, pay, requirements and a still-open check) can use the [job postings API](https://veritahire.com/developers/)
 ([GitHub](https://github.com/veritahire/job-postings-api)).
 
