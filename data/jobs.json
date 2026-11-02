@@ -1,11 +1,231 @@
 {
  "list": "us-internships",
  "title": "US internships and co-ops",
- "generated_at": "2026-11-01T05:50Z",
+ "generated_at": "2026-11-02T05:50Z",
  "count": 300,
  "source": "VeritaHire - live US jobs read straight from employers' own career sites, re-checked daily",
  "license": "CC BY 4.0 - credit \"VeritaHire (veritahire.com)\"",
  "jobs": [
+  {
+   "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
+   "employer": "Microsoft",
+   "location": "WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25.96 - $47.77 per hour",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 05:15",
+   "url": "https://veritahire.com/j/74828812"
+  },
+  {
+   "title": "Applied Compression Aero Intern",
+   "employer": "American Standard Heating & Air Conditioning",
+   "location": "La Crosse, WI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25.50/hr",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 05:10",
+   "url": "https://veritahire.com/j/74827932"
+  },
+  {
+   "title": "Undergraduate Intern - Research Focus",
+   "employer": "Federal Reserve System",
+   "location": "Minneapolis, MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$23.00/hour",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 03:52",
+   "url": "https://veritahire.com/j/74797332"
+  },
+  {
+   "title": "Undergraduate Intern - Facilities Focus",
+   "employer": "Federal Reserve System",
+   "location": "Minneapolis, MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$23.00/hour",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 03:52",
+   "url": "https://veritahire.com/j/74797331"
+  },
+  {
+   "title": "Undergraduate Intern - Technology Focus",
+   "employer": "Federal Reserve System",
+   "location": "Minneapolis, MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$23.00/hour",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 03:52",
+   "url": "https://veritahire.com/j/74797330"
+  },
+  {
+   "title": "2027 Future Talent Program - Digital Transformation Conversion - Intern",
+   "employer": "Merck",
+   "location": "PA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$39K–$111K",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 01:19",
+   "url": "https://veritahire.com/j/74728113"
+  },
+  {
+   "title": "INTERN, SCHOOL PSYCHOLOGIST (2027 - 2028 School Year)",
+   "employer": "Denver Public Schools",
+   "location": "Denver, CO",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$28.00 per hour",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 00:16",
+   "url": "https://veritahire.com/j/74610194"
+  },
+  {
+   "title": "Delivery Consultant Intern - Entry Level Sales Program 2027",
+   "employer": "IBM",
+   "location": "Austin",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 00:27",
+   "url": "https://veritahire.com/j/74625961"
+  },
+  {
+   "title": "2027 Spring Purchasing Co-op (Billerica, MA)",
+   "employer": "Applied Materials",
+   "location": "Billerica, MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$23 - $25 per hour",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 02:00",
+   "url": "https://veritahire.com/j/74025922"
+  },
+  {
+   "title": "2027 Spring Process Engineer Co-op (Billerica, MA)",
+   "employer": "Applied Materials",
+   "location": "Billerica, MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$31 - $41 per hour",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 02:00",
+   "url": "https://veritahire.com/j/74025920"
+  },
+  {
+   "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
+   "employer": "Applied Materials",
+   "location": "Billerica, MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$31 - $41 per hour",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 02:00",
+   "url": "https://veritahire.com/j/74025918"
+  },
+  {
+   "title": "Early Career Intern - Marketing (ETF)",
+   "employer": "Invesco",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$35/hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 00:26",
+   "url": "https://veritahire.com/j/73944008"
+  },
+  {
+   "title": "Early Career Intern - Marketing (Email Team)",
+   "employer": "Invesco",
+   "location": "Atlanta, GA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$35/hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 00:26",
+   "url": "https://veritahire.com/j/73944004"
+  },
+  {
+   "title": "Professional Student Nurse Intern",
+   "employer": "Uw Health",
+   "location": "Rockford, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18.00 / hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 23:03",
+   "url": "https://veritahire.com/j/73860555"
+  },
+  {
+   "title": "Microbiology Laboratory Internship",
+   "employer": "PCI Pharma Services",
+   "location": "Rockford, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20/hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 21:50",
+   "url": "https://veritahire.com/j/73791298"
+  },
+  {
+   "title": "Summer 2027 Nurse Internship",
+   "employer": "Allina Health",
+   "location": "MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$23.00 per hour",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 21:29",
+   "url": "https://veritahire.com/j/73765960"
+  },
+  {
+   "title": "Change Management Internship",
+   "employer": "Northwell Health",
+   "location": "Nassau, NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18/hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 21:20",
+   "url": "https://veritahire.com/j/73757622"
+  },
+  {
+   "title": "Development and Fundraising Internship",
+   "employer": "Northwell Health",
+   "location": "Nassau, NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22/hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 21:20",
+   "url": "https://veritahire.com/j/73757621"
+  },
+  {
+   "title": "Family Medicine Internship",
+   "employer": "Northwell Health",
+   "location": "Nassau, NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20/hr",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 21:20",
+   "url": "https://veritahire.com/j/73757620"
+  },
+  {
+   "title": "Pharmacy Intern",
+   "employer": "Walgreens",
+   "location": "McComb, MS",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$19.50 per hour",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 20:09",
+   "url": "https://veritahire.com/j/73693546"
+  },
   {
    "title": "2027 AI & Analytics Intern",
    "employer": "American Standard Heating & Air Conditioning",
@@ -14,7 +234,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.50–$30/hr",
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 02:57",
+   "last_confirmed": "2026-11-02 05:10",
    "url": "https://veritahire.com/j/73514423"
   },
   {
@@ -25,19 +245,140 @@
    "employment_type": "internship",
    "pay_as_posted": "$36/hour",
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 02:32",
+   "last_confirmed": "2026-11-02 05:01",
    "url": "https://veritahire.com/j/73503242"
   },
   {
-   "title": "Pharmacy Intern",
-   "employer": "Walgreens",
-   "location": "South River, NJ",
+   "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+   "employer": "Microsoft",
+   "location": "WA",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$19.50 per hour",
+   "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 00:42",
-   "url": "https://veritahire.com/j/73449870"
+   "last_confirmed": "2026-11-02 05:15",
+   "url": "https://veritahire.com/j/74286293"
+  },
+  {
+   "title": "Intern - Manufacturing Engineering",
+   "employer": "Ssi (us) Inc",
+   "location": "Ogden, UT",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 17:21",
+   "url": "https://veritahire.com/j/74235157"
+  },
+  {
+   "title": "Early Career Intern - Operations (Fund Reporting)",
+   "employer": "Invesco",
+   "location": "Houston, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 00:26",
+   "url": "https://veritahire.com/j/73943995"
+  },
+  {
+   "title": "Intern (60950)",
+   "employer": "First State Community Bank",
+   "location": "MO",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 00:18",
+   "url": "https://veritahire.com/j/73932354"
+  },
+  {
+   "title": "Adventureland Park - Workforce Management Intern",
+   "employer": "Festival Fun Parks, LLC",
+   "location": "IA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 23:45",
+   "url": "https://veritahire.com/j/73899069"
+  },
+  {
+   "title": "Adventureland Park - Marketing & Content Intern",
+   "employer": "Festival Fun Parks, LLC",
+   "location": "IA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 23:45",
+   "url": "https://veritahire.com/j/73899066"
+  },
+  {
+   "title": "Adventureland Park - IT Support Intern",
+   "employer": "Festival Fun Parks, LLC",
+   "location": "IA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 23:45",
+   "url": "https://veritahire.com/j/73899063"
+  },
+  {
+   "title": "Intern, Information Technology 2027",
+   "employer": "ConocoPhillips",
+   "location": "Anchorage, AK",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 23:23",
+   "url": "https://veritahire.com/j/73878031"
+  },
+  {
+   "title": "Intern - Process Integration - Advanced Packaging",
+   "employer": "Micron Technology",
+   "location": "Boise, ID",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:42",
+   "url": "https://veritahire.com/j/73651722"
+  },
+  {
+   "title": "Engineering Intern - Summer of 2027 (on-site position)",
+   "employer": "Weiler",
+   "location": "Knoxville, IA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:25",
+   "url": "https://veritahire.com/j/73647315"
+  },
+  {
+   "title": "Clinical Nurse Internship Program - Labor & Delivery - Mease Countryside Hospital",
+   "employer": "BayCare Health System",
+   "location": "Safety Harbor, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:09",
+   "url": "https://veritahire.com/j/73631269"
+  },
+  {
+   "title": "Clinical Nurse Internship Program - Labor & Delivery - Morton Plant Hospital",
+   "employer": "BayCare Health System",
+   "location": "Clearwater, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:09",
+   "url": "https://veritahire.com/j/73631268"
   },
   {
    "title": "IT Co-op Program Specialist",
@@ -47,7 +388,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 05:25",
+   "last_confirmed": "2026-11-01 18:35",
    "url": "https://veritahire.com/j/73611095"
   },
   {
@@ -58,7 +399,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 01:58",
+   "last_confirmed": "2026-11-02 04:05",
    "url": "https://veritahire.com/j/73483209"
   },
   {
@@ -69,7 +410,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 00:56",
+   "last_confirmed": "2026-11-02 03:12",
    "url": "https://veritahire.com/j/73452145"
   },
   {
@@ -80,7 +421,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28–$38/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:25",
+   "last_confirmed": "2026-11-01 22:41",
    "url": "https://veritahire.com/j/73211573"
   },
   {
@@ -91,7 +432,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$16.78 /HR",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:14",
+   "last_confirmed": "2026-11-01 21:29",
    "url": "https://veritahire.com/j/73150468"
   },
   {
@@ -102,7 +443,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$37/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:56",
+   "last_confirmed": "2026-11-02 01:56",
    "url": "https://veritahire.com/j/73111236"
   },
   {
@@ -113,7 +454,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$24/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:57",
+   "last_confirmed": "2026-11-02 05:10",
    "url": "https://veritahire.com/j/72903218"
   },
   {
@@ -124,7 +465,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27–$50/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:23",
+   "last_confirmed": "2026-11-02 01:39",
    "url": "https://veritahire.com/j/72764675"
   },
   {
@@ -135,7 +476,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$7.25/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:12",
+   "last_confirmed": "2026-11-02 01:18",
    "url": "https://veritahire.com/j/72757328"
   },
   {
@@ -146,7 +487,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$19.25–$34.75/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:24",
+   "last_confirmed": "2026-11-02 00:44",
    "url": "https://veritahire.com/j/72722937"
   },
   {
@@ -157,7 +498,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$21.50 to $39.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:24",
+   "last_confirmed": "2026-11-02 00:44",
    "url": "https://veritahire.com/j/72722919"
   },
   {
@@ -168,7 +509,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$21.50–$39/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:24",
+   "last_confirmed": "2026-11-02 00:44",
    "url": "https://veritahire.com/j/72722906"
   },
   {
@@ -179,7 +520,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22 -$ 23 hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:16",
+   "last_confirmed": "2026-11-02 00:44",
    "url": "https://veritahire.com/j/72721480"
   },
   {
@@ -190,7 +531,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$15.00 - $15.00 Hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:13",
+   "last_confirmed": "2026-11-02 00:32",
    "url": "https://veritahire.com/j/72699705"
   },
   {
@@ -201,7 +542,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28–$45/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:05",
+   "last_confirmed": "2026-11-02 00:16",
    "url": "https://veritahire.com/j/72695280"
   },
   {
@@ -212,7 +553,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.00 - $42.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:59",
+   "last_confirmed": "2026-11-02 00:15",
    "url": "https://veritahire.com/j/72687533"
   },
   {
@@ -223,7 +564,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$37K–$82K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:54",
+   "last_confirmed": "2026-11-02 00:12",
    "url": "https://veritahire.com/j/72686220"
   },
   {
@@ -234,8 +575,19 @@
    "employment_type": "full_time",
    "pay_as_posted": "$37K–$82K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:54",
+   "last_confirmed": "2026-11-02 00:12",
    "url": "https://veritahire.com/j/72686195"
+  },
+  {
+   "title": "2027 Summer Intern - Systems & Hardware Development",
+   "employer": "Ventana Medical Systems",
+   "location": "Tucson, AZ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25–$52/hr",
+   "first_seen": "2026-10-31",
+   "last_confirmed": "2026-11-02 00:09",
+   "url": "https://veritahire.com/j/72683887"
   },
   {
    "title": "Mold Simulation Intern",
@@ -245,7 +597,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$26–$28/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:54",
+   "last_confirmed": "2026-11-02 00:22",
    "url": "https://veritahire.com/j/72680723"
   },
   {
@@ -256,8 +608,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$16.00 - $33.44 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:52",
+   "last_confirmed": "2026-11-02 00:09",
    "url": "https://veritahire.com/j/72679408"
+  },
+  {
+   "title": "Pharmacy Student Intern",
+   "employer": "Albertsons",
+   "location": "McKinney, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$19.25/hr",
+   "first_seen": "2026-10-31",
+   "last_confirmed": "2026-11-01 16:41",
+   "url": "https://veritahire.com/j/72676497"
   },
   {
    "title": "Pharmacy Intern",
@@ -267,7 +630,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28.25–$31.50/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 00:29",
+   "last_confirmed": "2026-11-01 16:35",
    "url": "https://veritahire.com/j/72663042"
   },
   {
@@ -278,7 +641,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$13–$15/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:42",
+   "last_confirmed": "2026-11-01 23:58",
    "url": "https://veritahire.com/j/72661600"
   },
   {
@@ -289,7 +652,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$46,140 - $71,904/yr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 08:20",
+   "last_confirmed": "2026-11-01 08:21",
    "url": "https://veritahire.com/j/72654389"
   },
   {
@@ -300,7 +663,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.75/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:17",
+   "last_confirmed": "2026-11-01 23:34",
    "url": "https://veritahire.com/j/72651098"
   },
   {
@@ -311,7 +674,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.75/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:17",
+   "last_confirmed": "2026-11-01 23:34",
    "url": "https://veritahire.com/j/72651097"
   },
   {
@@ -322,7 +685,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.75/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:17",
+   "last_confirmed": "2026-11-01 23:34",
    "url": "https://veritahire.com/j/72651096"
   },
   {
@@ -333,7 +696,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$45K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:19",
+   "last_confirmed": "2026-11-01 23:40",
    "url": "https://veritahire.com/j/72651037"
   },
   {
@@ -344,19 +707,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.00 to $48.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:09",
+   "last_confirmed": "2026-11-01 23:25",
    "url": "https://veritahire.com/j/72650078"
-  },
-  {
-   "title": "Assurance Intern - Winter 2027",
-   "employer": "RSM US",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$34 - $40 per hour",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:07",
-   "url": "https://veritahire.com/j/72640998"
   },
   {
    "title": "Electrical Engineering Intern - Summer 2027",
@@ -366,7 +718,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.03–$29.96/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:58",
+   "last_confirmed": "2026-11-01 23:15",
    "url": "https://veritahire.com/j/72640877"
   },
   {
@@ -377,7 +729,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$16.00 - $33.44 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:36",
+   "last_confirmed": "2026-11-01 22:53",
    "url": "https://veritahire.com/j/72630382"
   },
   {
@@ -388,7 +740,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:16",
+   "last_confirmed": "2026-11-01 22:32",
    "url": "https://veritahire.com/j/72587932"
   },
   {
@@ -399,7 +751,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25–$32.45/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:25",
+   "last_confirmed": "2026-11-01 21:41",
    "url": "https://veritahire.com/j/72558139"
   },
   {
@@ -410,7 +762,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$22/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550748"
   },
   {
@@ -421,7 +773,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$22/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550745"
   },
   {
@@ -432,7 +784,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$22/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550743"
   },
   {
@@ -443,7 +795,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28–$28.50/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:07",
+   "last_confirmed": "2026-11-01 21:17",
    "url": "https://veritahire.com/j/72542486"
   },
   {
@@ -454,7 +806,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$26–$28/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:07",
+   "last_confirmed": "2026-11-01 21:17",
    "url": "https://veritahire.com/j/72542480"
   },
   {
@@ -465,7 +817,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$15–$15.50/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:07",
+   "last_confirmed": "2026-11-01 21:17",
    "url": "https://veritahire.com/j/72542458"
   },
   {
@@ -476,7 +828,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$26.50–$28/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:55",
+   "last_confirmed": "2026-11-01 21:10",
    "url": "https://veritahire.com/j/72539919"
   },
   {
@@ -487,7 +839,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27–$35/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:56",
+   "last_confirmed": "2026-11-01 21:06",
    "url": "https://veritahire.com/j/72537732"
   },
   {
@@ -498,7 +850,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$85/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:35",
+   "last_confirmed": "2026-11-01 20:46",
    "url": "https://veritahire.com/j/72528301"
   },
   {
@@ -509,7 +861,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:51",
+   "last_confirmed": "2026-11-01 20:24",
    "url": "https://veritahire.com/j/72518202"
   },
   {
@@ -520,7 +872,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$29.60–$31.80/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:51",
+   "last_confirmed": "2026-11-01 20:26",
    "url": "https://veritahire.com/j/72516264"
   },
   {
@@ -531,7 +883,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$53–$57/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:43",
+   "last_confirmed": "2026-11-01 20:31",
    "url": "https://veritahire.com/j/72508925"
   },
   {
@@ -542,7 +894,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27–$31/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:38",
+   "last_confirmed": "2026-11-01 19:56",
    "url": "https://veritahire.com/j/72504505"
   },
   {
@@ -553,7 +905,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25 - $25",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:23",
+   "last_confirmed": "2026-11-01 19:48",
    "url": "https://veritahire.com/j/72495523"
   },
   {
@@ -564,7 +916,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$40–$45/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:25",
+   "last_confirmed": "2026-11-01 19:41",
    "url": "https://veritahire.com/j/72492928"
   },
   {
@@ -575,7 +927,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20-$25 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:25",
+   "last_confirmed": "2026-11-01 19:51",
    "url": "https://veritahire.com/j/72491667"
   },
   {
@@ -586,7 +938,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25/ hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:12",
+   "last_confirmed": "2026-11-01 19:36",
    "url": "https://veritahire.com/j/72488457"
   },
   {
@@ -597,7 +949,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22 - $29/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:12",
+   "last_confirmed": "2026-11-01 19:36",
    "url": "https://veritahire.com/j/72488454"
   },
   {
@@ -608,7 +960,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28–$34/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:14",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72483391"
   },
   {
@@ -619,7 +971,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.50/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
+   "last_confirmed": "2026-11-01 19:42",
    "url": "https://veritahire.com/j/72474492"
   },
   {
@@ -630,7 +982,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.50 - $25.50 hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:41",
    "url": "https://veritahire.com/j/72472155"
   },
   {
@@ -641,7 +993,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
+   "last_confirmed": "2026-11-01 19:45",
    "url": "https://veritahire.com/j/72467308"
   },
   {
@@ -652,7 +1004,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$16.00/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:58",
+   "last_confirmed": "2026-11-01 19:41",
    "url": "https://veritahire.com/j/72463811"
   },
   {
@@ -663,7 +1015,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$43.15 - $43.15 an hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:55",
+   "last_confirmed": "2026-11-01 19:42",
    "url": "https://veritahire.com/j/72455139"
   },
   {
@@ -674,7 +1026,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$24/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:46",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72447016"
   },
   {
@@ -685,7 +1037,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:44",
+   "last_confirmed": "2026-11-01 18:58",
    "url": "https://veritahire.com/j/72430585"
   },
   {
@@ -696,7 +1048,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$33-34 hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72428099"
   },
   {
@@ -707,7 +1059,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$19.00 - $23.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:26",
+   "last_confirmed": "2026-11-01 18:36",
    "url": "https://veritahire.com/j/72426954"
   },
   {
@@ -718,7 +1070,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.91–$28/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:27",
+   "last_confirmed": "2026-11-01 18:36",
    "url": "https://veritahire.com/j/72426880"
   },
   {
@@ -729,7 +1081,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$40.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:19",
    "url": "https://veritahire.com/j/72411880"
   },
   {
@@ -740,7 +1092,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$40.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:19",
    "url": "https://veritahire.com/j/72411879"
   },
   {
@@ -751,7 +1103,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:19",
    "url": "https://veritahire.com/j/72411877"
   },
   {
@@ -762,7 +1114,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$18 - $32 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:27",
    "url": "https://veritahire.com/j/72406468"
   },
   {
@@ -773,7 +1125,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$29–$35/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:21",
+   "last_confirmed": "2026-11-01 18:34",
    "url": "https://veritahire.com/j/72406329"
   },
   {
@@ -784,7 +1136,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27-$32 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:16",
+   "last_confirmed": "2026-11-01 18:29",
    "url": "https://veritahire.com/j/72404885"
   },
   {
@@ -795,7 +1147,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$26–$28/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:04",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72404860"
   },
   {
@@ -806,7 +1158,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$26–$28/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:04",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72404859"
   },
   {
@@ -817,7 +1169,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28–$30/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:04",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72404856"
   },
   {
@@ -828,7 +1180,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$19–$30/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:56",
+   "last_confirmed": "2026-11-01 18:05",
    "url": "https://veritahire.com/j/72389269"
   },
   {
@@ -839,7 +1191,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23–$35/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:41",
+   "last_confirmed": "2026-11-01 17:54",
    "url": "https://veritahire.com/j/72382619"
   },
   {
@@ -850,7 +1202,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23–$35/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:41",
+   "last_confirmed": "2026-11-01 17:54",
    "url": "https://veritahire.com/j/72382617"
   },
   {
@@ -861,7 +1213,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$39–$45/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:40",
+   "last_confirmed": "2026-11-01 17:51",
    "url": "https://veritahire.com/j/72378558"
   },
   {
@@ -872,7 +1224,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.00-$20.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:38",
+   "last_confirmed": "2026-11-01 17:42",
    "url": "https://veritahire.com/j/72369535"
   },
   {
@@ -883,7 +1235,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$26–$51/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:56",
+   "last_confirmed": "2026-11-02 01:57",
    "url": "https://veritahire.com/j/72352041"
   },
   {
@@ -894,7 +1246,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$21–$40/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:56",
+   "last_confirmed": "2026-11-02 01:57",
    "url": "https://veritahire.com/j/72352040"
   },
   {
@@ -905,7 +1257,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$29–$35/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:20",
+   "last_confirmed": "2026-11-01 17:24",
    "url": "https://veritahire.com/j/72351785"
   },
   {
@@ -916,7 +1268,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$37.53–$39.17/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:10",
+   "last_confirmed": "2026-11-01 17:13",
    "url": "https://veritahire.com/j/72351441"
   },
   {
@@ -927,7 +1279,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.85 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:11",
+   "last_confirmed": "2026-11-01 17:13",
    "url": "https://veritahire.com/j/72351428"
   },
   {
@@ -938,7 +1290,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.85 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:11",
+   "last_confirmed": "2026-11-01 17:13",
    "url": "https://veritahire.com/j/72351424"
   },
   {
@@ -949,7 +1301,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.85 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:11",
+   "last_confirmed": "2026-11-01 17:13",
    "url": "https://veritahire.com/j/72351420"
   },
   {
@@ -960,7 +1312,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.75/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:12",
+   "last_confirmed": "2026-11-01 17:15",
    "url": "https://veritahire.com/j/72350745"
   },
   {
@@ -971,7 +1323,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22 - $25/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:50",
+   "last_confirmed": "2026-11-01 16:53",
    "url": "https://veritahire.com/j/72339675"
   },
   {
@@ -982,7 +1334,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27 / hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:51",
+   "last_confirmed": "2026-11-01 16:54",
    "url": "https://veritahire.com/j/72324909"
   },
   {
@@ -993,7 +1345,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20–$24/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:52",
+   "last_confirmed": "2026-11-01 17:05",
    "url": "https://veritahire.com/j/72320389"
   },
   {
@@ -1004,7 +1356,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$16–$20/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:52",
+   "last_confirmed": "2026-11-01 17:06",
    "url": "https://veritahire.com/j/72320353"
   },
   {
@@ -1015,7 +1367,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$17–$46/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:41",
+   "last_confirmed": "2026-11-02 05:49",
    "url": "https://veritahire.com/j/72315479"
   },
   {
@@ -1026,19 +1378,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$20.10–$70.40/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:30",
+   "last_confirmed": "2026-11-02 05:38",
    "url": "https://veritahire.com/j/72310064"
-  },
-  {
-   "title": "The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer Internship",
-   "employer": "The Cigna Group",
-   "location": "St. Louis, MO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25.00 to $33.00 per hour",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:30",
-   "url": "https://veritahire.com/j/72304257"
   },
   {
    "title": "Field Engineer Internship - Summer 2027",
@@ -1048,7 +1389,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20-$21 /hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:51",
+   "last_confirmed": "2026-11-02 01:34",
    "url": "https://veritahire.com/j/72301584"
   },
   {
@@ -1059,7 +1400,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:19",
+   "last_confirmed": "2026-11-02 05:27",
    "url": "https://veritahire.com/j/72301418"
   },
   {
@@ -1070,7 +1411,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$15-$22 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:18",
+   "last_confirmed": "2026-11-02 05:27",
    "url": "https://veritahire.com/j/72296430"
   },
   {
@@ -1081,7 +1422,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20.00 - $22.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:07",
+   "last_confirmed": "2026-11-02 05:17",
    "url": "https://veritahire.com/j/72293364"
   },
   {
@@ -1092,7 +1433,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.50–$20.25/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:41",
+   "last_confirmed": "2026-11-01 16:52",
    "url": "https://veritahire.com/j/72291913"
   },
   {
@@ -1103,7 +1444,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.75–$42/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:41",
+   "last_confirmed": "2026-11-01 16:52",
    "url": "https://veritahire.com/j/72291565"
   },
   {
@@ -1114,7 +1455,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$17.71 - $24.28/Hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:08",
+   "last_confirmed": "2026-11-02 05:21",
    "url": "https://veritahire.com/j/72285571"
   },
   {
@@ -1125,7 +1466,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.00 to $31.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:57",
+   "last_confirmed": "2026-11-02 05:10",
    "url": "https://veritahire.com/j/72275003"
   },
   {
@@ -1136,7 +1477,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.00 to $31.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:57",
+   "last_confirmed": "2026-11-02 05:10",
    "url": "https://veritahire.com/j/72274991"
   },
   {
@@ -1147,19 +1488,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.00 to $31.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:57",
+   "last_confirmed": "2026-11-02 05:10",
    "url": "https://veritahire.com/j/72274984"
-  },
-  {
-   "title": "2027 Construction Project Management Intern",
-   "employer": "American Standard Heating & Air Conditioning",
-   "location": "Pine Brook, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$24.36–$34.80/hr",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:57",
-   "url": "https://veritahire.com/j/72274345"
   },
   {
    "title": "Summer 2027 Intern - Property & Casualty Claims - Claim Specialist - Proximity, CO",
@@ -1169,7 +1499,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$24.00/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:32",
+   "last_confirmed": "2026-11-02 05:00",
    "url": "https://veritahire.com/j/72255363"
   },
   {
@@ -1180,7 +1510,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$24.00/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:32",
+   "last_confirmed": "2026-11-02 05:00",
    "url": "https://veritahire.com/j/72255361"
   },
   {
@@ -1191,7 +1521,7 @@
    "employment_type": null,
    "pay_as_posted": "$20.10–$70.40/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:31",
+   "last_confirmed": "2026-11-02 05:38",
    "url": "https://veritahire.com/j/72310058"
   },
   {
@@ -1202,7 +1532,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:48",
+   "last_confirmed": "2026-11-02 00:07",
    "url": "https://veritahire.com/j/73287220"
   },
   {
@@ -1213,7 +1543,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:56",
+   "last_confirmed": "2026-11-01 21:06",
    "url": "https://veritahire.com/j/73131795"
   },
   {
@@ -1224,7 +1554,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:53",
+   "last_confirmed": "2026-11-01 17:55",
    "url": "https://veritahire.com/j/72973793"
   },
   {
@@ -1235,30 +1565,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 01:31",
+   "last_confirmed": "2026-11-02 04:19",
    "url": "https://veritahire.com/j/72849979"
-  },
-  {
-   "title": "Summer 2027 Mechanical Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
-   "employer": "Applied Materials",
-   "location": "Santa Clara, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:53",
-   "url": "https://veritahire.com/j/72782251"
-  },
-  {
-   "title": "Summer 2027 Electrical Radio Frequency Engineer Intern- Master's/PhD (Santa Clara, CA)",
-   "employer": "Applied Materials",
-   "location": "Santa Clara, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:53",
-   "url": "https://veritahire.com/j/72782250"
   },
   {
    "title": "Field Operations Intern (West Idaho)",
@@ -1268,7 +1576,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:36",
+   "last_confirmed": "2026-11-02 01:47",
    "url": "https://veritahire.com/j/72782048"
   },
   {
@@ -1279,7 +1587,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:36",
+   "last_confirmed": "2026-11-01 21:36",
    "url": "https://veritahire.com/j/72735814"
   },
   {
@@ -1290,7 +1598,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:36",
+   "last_confirmed": "2026-11-01 21:36",
    "url": "https://veritahire.com/j/72735760"
   },
   {
@@ -1301,19 +1609,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:13",
+   "last_confirmed": "2026-11-02 00:32",
    "url": "https://veritahire.com/j/72716386"
-  },
-  {
-   "title": "Pharmacy Student Intern",
-   "employer": "Albertsons",
-   "location": "McKinney, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 00:34",
-   "url": "https://veritahire.com/j/72676497"
   },
   {
    "title": "Supply Chain Intern - Summer 2027",
@@ -1323,7 +1620,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:44",
+   "last_confirmed": "2026-11-02 00:04",
    "url": "https://veritahire.com/j/72676348"
   },
   {
@@ -1334,7 +1631,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:44",
+   "last_confirmed": "2026-11-02 00:04",
    "url": "https://veritahire.com/j/72676331"
   },
   {
@@ -1345,7 +1642,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:38",
+   "last_confirmed": "2026-11-01 23:59",
    "url": "https://veritahire.com/j/72660081"
   },
   {
@@ -1356,7 +1653,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:38",
+   "last_confirmed": "2026-11-01 23:59",
    "url": "https://veritahire.com/j/72660079"
   },
   {
@@ -1367,7 +1664,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:37",
+   "last_confirmed": "2026-11-01 23:58",
    "url": "https://veritahire.com/j/72659360"
   },
   {
@@ -1378,7 +1675,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:29",
+   "last_confirmed": "2026-11-01 23:46",
    "url": "https://veritahire.com/j/72659112"
   },
   {
@@ -1389,7 +1686,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:29",
+   "last_confirmed": "2026-11-01 23:46",
    "url": "https://veritahire.com/j/72659111"
   },
   {
@@ -1400,7 +1697,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:29",
+   "last_confirmed": "2026-11-01 23:46",
    "url": "https://veritahire.com/j/72659110"
   },
   {
@@ -1411,7 +1708,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 00:24",
+   "last_confirmed": "2026-11-01 16:22",
    "url": "https://veritahire.com/j/72656569"
   },
   {
@@ -1422,7 +1719,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:09",
+   "last_confirmed": "2026-11-01 23:25",
    "url": "https://veritahire.com/j/72650081"
   },
   {
@@ -1433,7 +1730,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:07",
+   "last_confirmed": "2026-11-01 23:23",
    "url": "https://veritahire.com/j/72647517"
   },
   {
@@ -1444,7 +1741,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:07",
+   "last_confirmed": "2026-11-01 23:23",
    "url": "https://veritahire.com/j/72647511"
   },
   {
@@ -1455,7 +1752,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:58",
+   "last_confirmed": "2026-11-01 23:15",
    "url": "https://veritahire.com/j/72640876"
   },
   {
@@ -1466,7 +1763,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:58",
+   "last_confirmed": "2026-11-01 23:15",
    "url": "https://veritahire.com/j/72640873"
   },
   {
@@ -1477,7 +1774,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:41",
+   "last_confirmed": "2026-11-01 23:02",
    "url": "https://veritahire.com/j/72617552"
   },
   {
@@ -1488,7 +1785,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:44",
+   "last_confirmed": "2026-11-01 22:00",
    "url": "https://veritahire.com/j/72569919"
   },
   {
@@ -1499,7 +1796,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:38",
+   "last_confirmed": "2026-11-01 21:51",
    "url": "https://veritahire.com/j/72566768"
   },
   {
@@ -1510,7 +1807,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:30",
+   "last_confirmed": "2026-11-01 21:48",
    "url": "https://veritahire.com/j/72558813"
   },
   {
@@ -1521,7 +1818,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557432"
   },
   {
@@ -1532,7 +1829,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:16",
+   "last_confirmed": "2026-11-01 21:31",
    "url": "https://veritahire.com/j/72554505"
   },
   {
@@ -1543,7 +1840,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550588"
   },
   {
@@ -1554,7 +1851,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:31",
    "url": "https://veritahire.com/j/72546639"
   },
   {
@@ -1565,7 +1862,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:31",
    "url": "https://veritahire.com/j/72546633"
   },
   {
@@ -1576,7 +1873,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:42",
+   "last_confirmed": "2026-11-01 20:58",
    "url": "https://veritahire.com/j/72535112"
   },
   {
@@ -1587,7 +1884,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:49",
    "url": "https://veritahire.com/j/72527987"
   },
   {
@@ -1598,7 +1895,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:52",
+   "last_confirmed": "2026-11-01 20:36",
    "url": "https://veritahire.com/j/72515527"
   },
   {
@@ -1609,7 +1906,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:45",
+   "last_confirmed": "2026-11-01 20:13",
    "url": "https://veritahire.com/j/72511934"
   },
   {
@@ -1620,7 +1917,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:45",
+   "last_confirmed": "2026-11-01 20:13",
    "url": "https://veritahire.com/j/72511932"
   },
   {
@@ -1631,7 +1928,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:24",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72491503"
   },
   {
@@ -1642,7 +1939,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:24",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72491492"
   },
   {
@@ -1653,7 +1950,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:10",
+   "last_confirmed": "2026-11-01 19:44",
    "url": "https://veritahire.com/j/72488959"
   },
   {
@@ -1664,7 +1961,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:10",
+   "last_confirmed": "2026-11-01 19:39",
    "url": "https://veritahire.com/j/72485804"
   },
   {
@@ -1675,7 +1972,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:15",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72484146"
   },
   {
@@ -1686,7 +1983,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:45",
    "url": "https://veritahire.com/j/72476544"
   },
   {
@@ -1697,7 +1994,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:45",
    "url": "https://veritahire.com/j/72476542"
   },
   {
@@ -1708,7 +2005,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:45",
    "url": "https://veritahire.com/j/72476538"
   },
   {
@@ -1719,7 +2016,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:46",
+   "last_confirmed": "2026-11-01 19:09",
    "url": "https://veritahire.com/j/72453611"
   },
   {
@@ -1730,7 +2027,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:48",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72449424"
   },
   {
@@ -1741,7 +2038,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:40",
+   "last_confirmed": "2026-11-01 19:16",
    "url": "https://veritahire.com/j/72447601"
   },
   {
@@ -1752,7 +2049,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:40",
+   "last_confirmed": "2026-11-01 19:16",
    "url": "https://veritahire.com/j/72447600"
   },
   {
@@ -1763,7 +2060,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:36",
+   "last_confirmed": "2026-11-01 19:14",
    "url": "https://veritahire.com/j/72446146"
   },
   {
@@ -1774,7 +2071,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:33",
+   "last_confirmed": "2026-11-01 19:05",
    "url": "https://veritahire.com/j/72442969"
   },
   {
@@ -1785,7 +2082,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:33",
+   "last_confirmed": "2026-11-01 19:05",
    "url": "https://veritahire.com/j/72442959"
   },
   {
@@ -1796,7 +2093,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:41",
+   "last_confirmed": "2026-11-01 19:00",
    "url": "https://veritahire.com/j/72430862"
   },
   {
@@ -1807,7 +2104,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:44",
+   "last_confirmed": "2026-11-01 18:58",
    "url": "https://veritahire.com/j/72429363"
   },
   {
@@ -1818,7 +2115,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72429221"
   },
   {
@@ -1829,7 +2126,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72428111"
   },
   {
@@ -1840,7 +2137,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72428105"
   },
   {
@@ -1851,7 +2148,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72427796"
   },
   {
@@ -1862,7 +2159,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:26",
+   "last_confirmed": "2026-11-01 18:36",
    "url": "https://veritahire.com/j/72425109"
   },
   {
@@ -1873,7 +2170,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:18",
+   "last_confirmed": "2026-11-01 18:22",
    "url": "https://veritahire.com/j/72421252"
   },
   {
@@ -1884,7 +2181,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:00",
+   "last_confirmed": "2026-11-02 03:00",
    "url": "https://veritahire.com/j/72415859"
   },
   {
@@ -1895,7 +2192,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:00",
+   "last_confirmed": "2026-11-02 03:00",
    "url": "https://veritahire.com/j/72415856"
   },
   {
@@ -1906,7 +2203,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:00",
+   "last_confirmed": "2026-11-02 03:00",
    "url": "https://veritahire.com/j/72415851"
   },
   {
@@ -1917,7 +2214,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:18",
    "url": "https://veritahire.com/j/72408394"
   },
   {
@@ -1928,7 +2225,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:04",
+   "last_confirmed": "2026-11-01 18:15",
    "url": "https://veritahire.com/j/72402482"
   },
   {
@@ -1939,7 +2236,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:39",
+   "last_confirmed": "2026-11-02 02:45",
    "url": "https://veritahire.com/j/72393361"
   },
   {
@@ -1950,7 +2247,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:40",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72389686"
   },
   {
@@ -1961,7 +2258,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72389268"
   },
   {
@@ -1972,7 +2269,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72389165"
   },
   {
@@ -1983,7 +2280,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:35",
+   "last_confirmed": "2026-11-01 17:45",
    "url": "https://veritahire.com/j/72374841"
   },
   {
@@ -1994,7 +2291,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:21",
+   "last_confirmed": "2026-11-02 02:21",
    "url": "https://veritahire.com/j/72371205"
   },
   {
@@ -2005,7 +2302,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:53",
+   "last_confirmed": "2026-11-01 18:18",
    "url": "https://veritahire.com/j/72361214"
   },
   {
@@ -2016,7 +2313,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:52",
+   "last_confirmed": "2026-11-01 17:05",
    "url": "https://veritahire.com/j/72320379"
   },
   {
@@ -2027,7 +2324,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:52",
+   "last_confirmed": "2026-11-01 17:02",
    "url": "https://veritahire.com/j/72319863"
   },
   {
@@ -2038,7 +2335,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:49",
+   "last_confirmed": "2026-11-01 20:02",
    "url": "https://veritahire.com/j/72316291"
   },
   {
@@ -2049,7 +2346,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:30",
+   "last_confirmed": "2026-11-02 05:38",
    "url": "https://veritahire.com/j/72315622"
   },
   {
@@ -2060,7 +2357,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:30",
+   "last_confirmed": "2026-11-02 05:37",
    "url": "https://veritahire.com/j/72305353"
   },
   {
@@ -2071,7 +2368,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:51",
+   "last_confirmed": "2026-11-02 01:35",
    "url": "https://veritahire.com/j/72302272"
   },
   {
@@ -2082,7 +2379,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:51",
+   "last_confirmed": "2026-11-02 01:34",
    "url": "https://veritahire.com/j/72301650"
   },
   {
@@ -2093,7 +2390,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:08",
+   "last_confirmed": "2026-11-02 05:20",
    "url": "https://veritahire.com/j/72290817"
   },
   {
@@ -2104,7 +2401,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:08",
+   "last_confirmed": "2026-11-02 05:20",
    "url": "https://veritahire.com/j/72290815"
   },
   {
@@ -2115,7 +2412,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:08",
+   "last_confirmed": "2026-11-02 05:20",
    "url": "https://veritahire.com/j/72290813"
   },
   {
@@ -2126,7 +2423,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:58",
+   "last_confirmed": "2026-11-02 05:07",
    "url": "https://veritahire.com/j/72290502"
   },
   {
@@ -2137,7 +2434,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 03:08",
+   "last_confirmed": "2026-11-02 05:17",
    "url": "https://veritahire.com/j/72285476"
   },
   {
@@ -2148,7 +2445,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:47",
+   "last_confirmed": "2026-11-02 05:02",
    "url": "https://veritahire.com/j/72275841"
   },
   {
@@ -2159,7 +2456,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:54",
+   "last_confirmed": "2026-11-02 05:05",
    "url": "https://veritahire.com/j/72269981"
   },
   {
@@ -2170,7 +2467,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:54",
+   "last_confirmed": "2026-11-02 05:05",
    "url": "https://veritahire.com/j/72269907"
   },
   {
@@ -2181,7 +2478,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:54",
+   "last_confirmed": "2026-11-02 05:05",
    "url": "https://veritahire.com/j/72269905"
   },
   {
@@ -2192,7 +2489,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:54",
+   "last_confirmed": "2026-11-02 05:05",
    "url": "https://veritahire.com/j/72269903"
   },
   {
@@ -2203,7 +2500,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:54",
+   "last_confirmed": "2026-11-02 05:05",
    "url": "https://veritahire.com/j/72269746"
   },
   {
@@ -2214,7 +2511,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:54",
+   "last_confirmed": "2026-11-02 05:05",
    "url": "https://veritahire.com/j/72269739"
   },
   {
@@ -2225,7 +2522,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:45",
+   "last_confirmed": "2026-11-02 04:55",
    "url": "https://veritahire.com/j/72267787"
   },
   {
@@ -2236,7 +2533,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:45",
+   "last_confirmed": "2026-11-02 04:54",
    "url": "https://veritahire.com/j/72267541"
   },
   {
@@ -2247,7 +2544,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:45",
+   "last_confirmed": "2026-11-02 04:54",
    "url": "https://veritahire.com/j/72267150"
   },
   {
@@ -2258,7 +2555,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 00:30",
+   "last_confirmed": "2026-11-02 00:45",
    "url": "https://veritahire.com/j/72262295"
   },
   {
@@ -2269,7 +2566,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:47",
+   "last_confirmed": "2026-11-02 05:03",
    "url": "https://veritahire.com/j/72261076"
   },
   {
@@ -2280,7 +2577,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:47",
+   "last_confirmed": "2026-11-02 05:03",
    "url": "https://veritahire.com/j/72261065"
   },
   {
@@ -2291,8 +2588,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 02:57",
+   "last_confirmed": "2026-11-02 05:15",
    "url": "https://veritahire.com/j/72257571"
+  },
+  {
+   "title": "AI Foundations - Research Co-Op",
+   "employer": "IBM",
+   "location": "Yorktown Heights",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-31",
+   "last_confirmed": "2026-11-02 00:27",
+   "url": "https://veritahire.com/j/72698016"
   },
   {
    "title": "Marketing Intern, Mass Retail - The Toro Company",
@@ -2302,7 +2610,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20–$24/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:05",
+   "last_confirmed": "2026-11-02 04:13",
    "url": "https://veritahire.com/j/72249486"
   },
   {
@@ -2313,7 +2621,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22–$28/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:05",
+   "last_confirmed": "2026-11-02 04:13",
    "url": "https://veritahire.com/j/72249484"
   },
   {
@@ -2324,7 +2632,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22–$28/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:05",
+   "last_confirmed": "2026-11-02 04:13",
    "url": "https://veritahire.com/j/72249482"
   },
   {
@@ -2335,7 +2643,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$29.00 to $32.00 an hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:00",
+   "last_confirmed": "2026-11-02 04:13",
    "url": "https://veritahire.com/j/72244296"
   },
   {
@@ -2346,7 +2654,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$8.33–$18.05/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:07",
+   "last_confirmed": "2026-11-02 04:20",
    "url": "https://veritahire.com/j/72236771"
   },
   {
@@ -2357,7 +2665,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$8.33–$18.05/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:07",
+   "last_confirmed": "2026-11-02 04:20",
    "url": "https://veritahire.com/j/72236769"
   },
   {
@@ -2368,7 +2676,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$8.33–$18.05/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:07",
+   "last_confirmed": "2026-11-02 04:20",
    "url": "https://veritahire.com/j/72236766"
   },
   {
@@ -2379,7 +2687,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$121K–$121K",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:59",
+   "last_confirmed": "2026-11-02 04:18",
    "url": "https://veritahire.com/j/72224640"
   },
   {
@@ -2390,7 +2698,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25.08/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:45",
+   "last_confirmed": "2026-11-02 04:02",
    "url": "https://veritahire.com/j/72222200"
   },
   {
@@ -2401,7 +2709,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28.23/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:45",
+   "last_confirmed": "2026-11-02 04:02",
    "url": "https://veritahire.com/j/72222195"
   },
   {
@@ -2412,7 +2720,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25.08/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:45",
+   "last_confirmed": "2026-11-02 04:02",
    "url": "https://veritahire.com/j/72222191"
   },
   {
@@ -2423,7 +2731,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.50-$24.50 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:27",
+   "last_confirmed": "2026-11-02 03:42",
    "url": "https://veritahire.com/j/72209482"
   },
   {
@@ -2434,7 +2742,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:01",
+   "last_confirmed": "2026-11-02 03:43",
    "url": "https://veritahire.com/j/72199753"
   },
   {
@@ -2445,19 +2753,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$23/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:01",
+   "last_confirmed": "2026-11-02 03:43",
    "url": "https://veritahire.com/j/72199723"
-  },
-  {
-   "title": "Process Engineer 1 - Intern to Full-Time Conversion",
-   "employer": "Marathon Petroleum Corporation",
-   "location": "Texas City, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$93K–$140K",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:54",
-   "url": "https://veritahire.com/j/72188750"
   },
   {
    "title": "Computer Science Intern, Summer 2027",
@@ -2467,7 +2764,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$50K–$69K",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:57",
+   "last_confirmed": "2026-11-02 03:13",
    "url": "https://veritahire.com/j/72186329"
   },
   {
@@ -2478,7 +2775,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$15.00 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:26",
+   "last_confirmed": "2026-11-01 22:37",
    "url": "https://veritahire.com/j/72183932"
   },
   {
@@ -2489,7 +2786,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22–$26/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:57",
+   "last_confirmed": "2026-11-02 03:24",
    "url": "https://veritahire.com/j/72183882"
   },
   {
@@ -2500,7 +2797,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:50",
+   "last_confirmed": "2026-11-02 02:59",
    "url": "https://veritahire.com/j/72182724"
   },
   {
@@ -2511,7 +2808,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$29–$33/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:35",
+   "last_confirmed": "2026-11-02 02:41",
    "url": "https://veritahire.com/j/72176533"
   },
   {
@@ -2522,7 +2819,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$41K–$66K",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:33",
+   "last_confirmed": "2026-11-02 02:40",
    "url": "https://veritahire.com/j/72169019"
   },
   {
@@ -2533,7 +2830,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$41K–$66K",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:33",
+   "last_confirmed": "2026-11-02 02:40",
    "url": "https://veritahire.com/j/72169017"
   },
   {
@@ -2544,7 +2841,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20.00 - $22.00 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:02",
+   "last_confirmed": "2026-11-01 23:26",
    "url": "https://veritahire.com/j/72163179"
   },
   {
@@ -2555,7 +2852,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23to $28 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:15",
+   "last_confirmed": "2026-11-02 02:32",
    "url": "https://veritahire.com/j/72156943"
   },
   {
@@ -2566,7 +2863,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23to $28 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:15",
+   "last_confirmed": "2026-11-02 02:32",
    "url": "https://veritahire.com/j/72156935"
   },
   {
@@ -2577,7 +2874,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$13–$18.50/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:04",
+   "last_confirmed": "2026-11-02 02:19",
    "url": "https://veritahire.com/j/72146368"
   },
   {
@@ -2588,7 +2885,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$28–$42/hr",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:03",
+   "last_confirmed": "2026-11-02 02:22",
    "url": "https://veritahire.com/j/72138217"
   },
   {
@@ -2599,7 +2896,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20.91 - $56.97 / hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:41",
+   "last_confirmed": "2026-11-02 02:22",
    "url": "https://veritahire.com/j/72137679"
   },
   {
@@ -2610,7 +2907,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$21.00 - $25.00 an hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:53",
+   "last_confirmed": "2026-11-02 02:00",
    "url": "https://veritahire.com/j/72132958"
   },
   {
@@ -2621,140 +2918,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$24.25 - $33.00 per hour",
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:53",
+   "last_confirmed": "2026-11-02 01:59",
    "url": "https://veritahire.com/j/72132236"
-  },
-  {
-   "title": "Automation Engineering Intern",
-   "employer": "SEL",
-   "location": "ID",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$24.25 - $33.00 per hour",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:53",
-   "url": "https://veritahire.com/j/72132233"
-  },
-  {
-   "title": "Electrical Engineering Intern",
-   "employer": "Hobart Ground Power - Itw Gse Group",
-   "location": "MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$19-29/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:01",
-   "url": "https://veritahire.com/j/72130970"
-  },
-  {
-   "title": "ITW Warewash Electrical Engineering Co-Op",
-   "employer": "Hobart Ground Power - Itw Gse Group",
-   "location": "MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$24–$27/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:01",
-   "url": "https://veritahire.com/j/72130966"
-  },
-  {
-   "title": "FPGA Design Intern",
-   "employer": "Keysight Technologies",
-   "location": "Calabasas, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$38.31–$41.25/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:14",
-   "url": "https://veritahire.com/j/72129139"
-  },
-  {
-   "title": "Risk Control Intern",
-   "employer": "Travelers",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25–$26/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:43",
-   "url": "https://veritahire.com/j/72126377"
-  },
-  {
-   "title": "Summer 2027 Strategic Sourcing Internship",
-   "employer": "T-Mobile",
-   "location": "Frisco, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$27–$50/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:23",
-   "url": "https://veritahire.com/j/72113661"
-  },
-  {
-   "title": "Veterinary Intern (Full-Time)",
-   "employer": "Jacksonville Zoo and Gardens",
-   "location": "Jacksonville, FL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$48K",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:11",
-   "url": "https://veritahire.com/j/72110074"
-  },
-  {
-   "title": "US Medical Affairs Digital Innovation & Medical Communications Intern (PharmD)",
-   "employer": "Alexion Pharmaceuticals, Inc.",
-   "location": "Boston, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$48 per hour",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:11",
-   "url": "https://veritahire.com/j/72109742"
-  },
-  {
-   "title": "Music Therapy Intern",
-   "employer": "Intermountain Health",
-   "location": "UT",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$7.25/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:12",
-   "url": "https://veritahire.com/j/72104497"
-  },
-  {
-   "title": "Rec Therapy Intern",
-   "employer": "Intermountain Health",
-   "location": "UT",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$7.25/hr",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:12",
-   "url": "https://veritahire.com/j/72104495"
-  },
-  {
-   "title": "Internship - Environmental Focus - Engineering or Geology (Hybrid)",
-   "employer": "Barr Engineering Co.",
-   "location": "Ann Arbor, MI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22.66-$28.90 hourly",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:51",
-   "url": "https://veritahire.com/j/72098669"
-  },
-  {
-   "title": "Field Engineer Internship - Summer 2027",
-   "employer": "Mastec Communications Group",
-   "location": "Rockford, IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20-$21 /hour",
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:02",
-   "url": "https://veritahire.com/j/72097277"
   },
   {
    "title": "Safety Intern",
@@ -2764,7 +2929,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:49",
+   "last_confirmed": "2026-11-02 00:44",
    "url": "https://veritahire.com/j/72244490"
   },
   {
@@ -2775,7 +2940,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:48",
+   "last_confirmed": "2026-11-02 00:43",
    "url": "https://veritahire.com/j/72242730"
   },
   {
@@ -2786,7 +2951,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:51",
+   "last_confirmed": "2026-11-02 04:11",
    "url": "https://veritahire.com/j/72241228"
   },
   {
@@ -2797,7 +2962,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:51",
+   "last_confirmed": "2026-11-02 04:11",
    "url": "https://veritahire.com/j/72241224"
   },
   {
@@ -2808,7 +2973,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:51",
+   "last_confirmed": "2026-11-02 04:11",
    "url": "https://veritahire.com/j/72241219"
   },
   {
@@ -2819,7 +2984,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:06",
+   "last_confirmed": "2026-11-02 04:14",
    "url": "https://veritahire.com/j/72240438"
   },
   {
@@ -2830,7 +2995,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:16",
+   "last_confirmed": "2026-11-02 04:24",
    "url": "https://veritahire.com/j/72237768"
   },
   {
@@ -2841,7 +3006,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 02:08",
+   "last_confirmed": "2026-11-02 04:20",
    "url": "https://veritahire.com/j/72237277"
   },
   {
@@ -2852,7 +3017,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:59",
+   "last_confirmed": "2026-11-02 04:20",
    "url": "https://veritahire.com/j/72235758"
   },
   {
@@ -2863,7 +3028,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:57",
+   "last_confirmed": "2026-11-02 04:05",
    "url": "https://veritahire.com/j/72224890"
   },
   {
@@ -2874,7 +3039,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:57",
+   "last_confirmed": "2026-11-02 04:05",
    "url": "https://veritahire.com/j/72224849"
   },
   {
@@ -2885,7 +3050,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:57",
+   "last_confirmed": "2026-11-02 04:05",
    "url": "https://veritahire.com/j/72224785"
   },
   {
@@ -2896,7 +3061,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:46",
+   "last_confirmed": "2026-11-02 04:05",
    "url": "https://veritahire.com/j/72224109"
   },
   {
@@ -2907,7 +3072,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:35",
+   "last_confirmed": "2026-11-02 03:43",
    "url": "https://veritahire.com/j/72221532"
   },
   {
@@ -2918,7 +3083,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:35",
+   "last_confirmed": "2026-11-02 03:43",
    "url": "https://veritahire.com/j/72220050"
   },
   {
@@ -2929,7 +3094,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:17",
+   "last_confirmed": "2026-11-02 03:31",
    "url": "https://veritahire.com/j/72200453"
   },
   {
@@ -2940,7 +3105,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 01:18",
+   "last_confirmed": "2026-11-02 03:44",
    "url": "https://veritahire.com/j/72194431"
   },
   {
@@ -2951,7 +3116,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:54",
+   "last_confirmed": "2026-11-02 03:04",
    "url": "https://veritahire.com/j/72188759"
   },
   {
@@ -2962,7 +3127,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:56",
+   "last_confirmed": "2026-11-02 03:11",
    "url": "https://veritahire.com/j/72186943"
   },
   {
@@ -2973,7 +3138,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:49",
+   "last_confirmed": "2026-11-02 02:58",
    "url": "https://veritahire.com/j/72184416"
   },
   {
@@ -2984,7 +3149,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:40",
+   "last_confirmed": "2026-11-02 02:49",
    "url": "https://veritahire.com/j/72181757"
   },
   {
@@ -2995,7 +3160,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:39",
+   "last_confirmed": "2026-11-02 02:49",
    "url": "https://veritahire.com/j/72181511"
   },
   {
@@ -3006,7 +3171,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:39",
+   "last_confirmed": "2026-11-02 02:49",
    "url": "https://veritahire.com/j/72181507"
   },
   {
@@ -3017,7 +3182,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:39",
+   "last_confirmed": "2026-11-02 02:49",
    "url": "https://veritahire.com/j/72181506"
   },
   {
@@ -3028,7 +3193,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:35",
+   "last_confirmed": "2026-11-02 02:41",
    "url": "https://veritahire.com/j/72177991"
   },
   {
@@ -3039,7 +3204,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:23",
+   "last_confirmed": "2026-11-02 02:30",
    "url": "https://veritahire.com/j/72168657"
   },
   {
@@ -3050,7 +3215,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:13",
+   "last_confirmed": "2026-11-02 02:22",
    "url": "https://veritahire.com/j/72162163"
   },
   {
@@ -3061,30 +3226,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:13",
+   "last_confirmed": "2026-11-02 02:22",
    "url": "https://veritahire.com/j/72162140"
-  },
-  {
-   "title": "INTERN - SOCIAL WORK (MSW)",
-   "employer": "Universal Health Services",
-   "location": "ATLANTA, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-30 21:54",
-   "url": "https://veritahire.com/j/72154764"
-  },
-  {
-   "title": "Operational Excellence (OPEX) Co-Op (January 2027) (Onsite)",
-   "employer": "Raytheon",
-   "location": "santa isabel, PR",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 03:08",
-   "url": "https://veritahire.com/j/72144774"
   },
   {
    "title": "2027 High School Intern",
@@ -3094,7 +3237,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 03:08",
+   "last_confirmed": "2026-11-02 05:17",
    "url": "https://veritahire.com/j/72143340"
   },
   {
@@ -3105,7 +3248,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 00:04",
+   "last_confirmed": "2026-11-02 02:22",
    "url": "https://veritahire.com/j/72139913"
   },
   {
@@ -3116,7 +3259,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 21:46",
+   "last_confirmed": "2026-11-01 23:05",
    "url": "https://veritahire.com/j/72138169"
   },
   {
@@ -3127,7 +3270,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:53",
+   "last_confirmed": "2026-11-02 02:00",
    "url": "https://veritahire.com/j/72132960"
   },
   {
@@ -3138,7 +3281,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:53",
+   "last_confirmed": "2026-11-02 02:00",
    "url": "https://veritahire.com/j/72132956"
   },
   {
@@ -3149,7 +3292,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:52",
+   "last_confirmed": "2026-11-02 01:59",
    "url": "https://veritahire.com/j/72132426"
   },
   {
@@ -3160,151 +3303,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:52",
+   "last_confirmed": "2026-11-02 01:59",
    "url": "https://veritahire.com/j/72132399"
-  },
-  {
-   "title": "Solutions Engineering, Intern",
-   "employer": "Keysight Technologies",
-   "location": "Santa Clara, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:14",
-   "url": "https://veritahire.com/j/72129141"
-  },
-  {
-   "title": "Quality Engineer Intern",
-   "employer": "Keysight Technologies",
-   "location": "Roseville, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:14",
-   "url": "https://veritahire.com/j/72129137"
-  },
-  {
-   "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
-   "employer": "Applied Materials",
-   "location": "Gloucester, MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:53",
-   "url": "https://veritahire.com/j/72125806"
-  },
-  {
-   "title": "HR Intern",
-   "employer": "BorgWarner",
-   "location": "NC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:22",
-   "url": "https://veritahire.com/j/72117383"
-  },
-  {
-   "title": "Product Management & Market Intelligence Intern",
-   "employer": "Mann+Hummel",
-   "location": "NC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 23:26",
-   "url": "https://veritahire.com/j/72116646"
-  },
-  {
-   "title": "Operations Intern",
-   "employer": "Kimball Electronics",
-   "location": "IN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:51",
-   "url": "https://veritahire.com/j/72098965"
-  },
-  {
-   "title": "Manufacturing Engineer Intern",
-   "employer": "Kimball Electronics",
-   "location": "IN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:51",
-   "url": "https://veritahire.com/j/72098935"
-  },
-  {
-   "title": "Automation Engineer Intern",
-   "employer": "Kimball Electronics",
-   "location": "IN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:51",
-   "url": "https://veritahire.com/j/72098920"
-  },
-  {
-   "title": "2027 Financial Advisory Services Winter Intern - Forensics, Litigation and Valuation Services",
-   "employer": "EisnerAmper",
-   "location": "FL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:58",
-   "url": "https://veritahire.com/j/72098464"
-  },
-  {
-   "title": "Safety Intern",
-   "employer": "Mastec Communications Group",
-   "location": "Louisville, CO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:02",
-   "url": "https://veritahire.com/j/72097905"
-  },
-  {
-   "title": "Quality Intern",
-   "employer": "Mastec Communications Group",
-   "location": "Louisville, CO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-11-01 05:02",
-   "url": "https://veritahire.com/j/72097343"
-  },
-  {
-   "title": "Manufacturing Engineer Intern (Summer 2027)",
-   "employer": "Sierra Nevada Corporation",
-   "location": "Sparks, NV",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:41",
-   "url": "https://veritahire.com/j/72092666"
-  },
-  {
-   "title": "Quality Engineer Intern (Summer 2027)",
-   "employer": "Sierra Nevada Corporation",
-   "location": "Dayton, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-30",
-   "last_confirmed": "2026-10-31 22:41",
-   "url": "https://veritahire.com/j/72092616"
   }
  ]
 }
