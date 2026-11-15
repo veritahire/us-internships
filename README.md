@@ -17,36 +17,116 @@ around 2.9 million live jobs free at [veritahire.com](https://veritahire.com/sea
 Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritahire/us-entry-level-jobs) · [Remote Jobs in the US](https://github.com/veritahire/remote-jobs-us) · [US Nursing Jobs (RN, LPN/LVN, NP, CNA)](https://github.com/veritahire/nursing-jobs-us) · [US Jobs That Post Their Pay](https://github.com/veritahire/jobs-with-pay-us)
 
 <!-- jobs:start -->
-**300 jobs**, updated 2026-11-14. Every one was confirmed on the employer's own career site in the last 3 days.
+**300 jobs**, updated 2026-11-15. Every one was confirmed on the employer's own career site in the last 3 days.
 
 | Role | Employer | Location | Pay (as posted) | Type | Posted | |
 |---|---|---|---|---|---|---|
+| Engineering Co-op | Flowserve Corporation | Rancho Dominguez, CA | $17.47 - $26.20 per hour | Part-time | 2026-11-15 | [View](https://veritahire.com/j/90053669) |
+| Flight Test and Integration Summer Intern | Leidos | Huntsville, AL | $48K–$87K | Internship | 2026-11-15 | [View](https://veritahire.com/j/90000097) |
+| Engineering Internship | Conagra Brands | Russellville, AR | $20/hr | Internship | 2026-11-15 | [View](https://veritahire.com/j/90000039) |
+| Corporate & Institutional Banking Undergraduate Intern - Business Credit | PNC Bank | IL | $18–$35/hr | Internship | 2026-11-15 | [View](https://veritahire.com/j/89980008) |
+| Technology Intern | USAA | AZ | $27–$36/hr | Internship | 2026-11-15 | [View](https://veritahire.com/j/89960577) |
+| Pharmacy Intern | CVS Health | Salem, VA | $20–$23.75/hr | Internship | 2026-11-15 | [View](https://veritahire.com/j/89908128) |
+| Advanced Manufacturing Engineering Co-Op | Boston Dynamics | MA | $32 to $37 per hour | - | 2026-11-15 | [View](https://veritahire.com/j/90057019) |
+| Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027) | Raytheon | burnsville, MN | - | Full-time | 2026-11-15 | [View](https://veritahire.com/j/90105679) |
+| Composite Engineering Intern (Summer 2027)(Onsite) | Raytheon | middletown, CT | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/90105680) |
+| Talent Management Co-Op (Spring/Summer 2027) | Raytheon | windsor locks, CT | - | Full-time | 2026-11-15 | [View](https://veritahire.com/j/90105655) |
+| Summer 2027 Internship - Phoenix, AZ - Preferred Banking | Western Alliance Bank | Phoenix, AZ | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/90054792) |
+| R & D Intern - Computer & Data Science | Corteva Agriscience | Indianapolis, IN | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/90044602) |
+| Software Engineering Intern (Summer 2027) | Bridgecrest | Tempe, AZ | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/89980856) |
+| Data Science Intern (Summer 2027) | Bridgecrest | Tempe, AZ | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/89980809) |
+| Analyst Intern (Summer 2027) | Bridgecrest | Tempe, AZ | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/89980777) |
+| Systems Engineer Intern | Sierra Nevada Corporation | Southern Pines, NC | - | Internship | 2026-11-15 | [View](https://veritahire.com/j/89886372) |
+| Intern - Cybersecurity Operations | Altice USA | NY | $25.00 /hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89751651) |
+| Business Process Internal Audit Intern (Summer 2027) | PTC | Boston, MA | $25–$27/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89749264) |
+| Systems Engineer - Intern | Lockheed Martin | Orlando, FL | $20.14 - $28.15 | Internship | 2026-11-14 | [View](https://veritahire.com/j/89726635) |
+| Intern - Lab | Labcorp | OH | $17.75-22/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89683636) |
+| Co-Op - Winter/Spring PhD Co-op Optical Interconnect System Architecture & Link Optimizatio | Skyworks Solutions | CA | $29.00 - $49.00 per hour | Full-time | 2026-11-14 | [View](https://veritahire.com/j/89666540) |
+| Internal Audit Work Experience Program - Internship - Corporate | MGM Resorts | NV | $17.00 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/89598155) |
+| Accelerate - IT Engineering Intern | Avis Budget Group | NJ | $35 an hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89555031) |
+| Legal, Public Affairs and Compliance (LPAC) Intern - Summer 2027 | Elevance Health | NY | $20.64–$38.32/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89528126) |
+| Summer 2027 - IoT Product Strategy Intern (Master's) | SAS | NC | $15 to $30 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89504830) |
+| Summer 2027 - Software Developer Intern (Go/Golang Experience) | SAS | NC | $15 to $30 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89504833) |
+| Returning Part-Time Intern Engineer- Winter 2026/2027- Ohio Office (For Current/Former HNTB interns only) | Its Florida | Blue Ash, OH | $21.07–$31.60/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89504435) |
+| Assembly Associate Co-op | GE Vernova | OH | $17/hr | Part-time | 2026-11-14 | [View](https://veritahire.com/j/89503139) |
+| GE Vernova Materials Management Internship - Summer 2027 | GE Vernova | NC | $52K–$104K | Internship | 2026-11-14 | [View](https://veritahire.com/j/89503148) |
+| Quality Intern | Thermo Fisher Scientific | Carlsbad, CA | $18.50–$28.75/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89500463) |
+| Electrical Engineering Intern / Independence, OH | IMEG | Cleveland, OH | $22–$24/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89497769) |
+| NEU Patient Care Tech Co-op | Beth Israel Lahey Health | MA | $19/hr | Part-time | 2026-11-14 | [View](https://veritahire.com/j/89491457) |
+| Summer 2027 Corporate Strategy Internship | T-Mobile | Bellevue, WA | $27–$50/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89487729) |
+| Pharmacy Intern | Oak Street Health | La Mesa, CA | $20.10–$23.10/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89475841) |
+| *IMMEDIATE NEED* Automotive Technician Specialist - Paid Internship to Full-Time Opportunity | AutoNation | TX | $22.00 - $25.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89468690) |
+| Summer 2027 Commercial Middle Market Internship - Costa Mesa | Fifth Third Bank | Newport Beach, CA | $70K | Internship | 2026-11-14 | [View](https://veritahire.com/j/89457880) |
+| Intern, Engineering | Moog | Torrance, CA | $28.79-$34.29 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/89451289) |
+| Intern, Electrical Engineering | Moog | Buffalo, NY | $25.50-$31.00 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/89451295) |
+| Pharmacy Intern | Walgreens | Dunn, NC | $19.50 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89424697) |
+| 2027 Materials & Process Engineering Intern - Northridge CA | Northrop Grumman | CA | $26.75–$39/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89404291) |
+| 2027 Manufacturing Engineering Intern - Sunnyvale CA | Northrop Grumman | CA | $21.50 to $39.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89404239) |
+| 2027 Future Talent Program - Modeling & Informatics - Co-op | Merck | MA | $40K–$111K | Internship | 2026-11-14 | [View](https://veritahire.com/j/89384628) |
+| 2027 Future Talent Program - Global Safety & Environment - Intern | Merck | NJ | $40K–$111K | Internship | 2026-11-14 | [View](https://veritahire.com/j/89384630) |
+| Product Engineering Intern | Entegris | Chaska, MN | $20-$30/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89377000) |
+| Automation and Controls Interns | Entegris | Colorado Springs, CO | $20-$30/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89376872) |
+| Continuous Improvement Intern | Entegris | Bloomington, MN | $20-$30/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89376905) |
+| Pharmacy Student Intern | Albertsons | Fort Collins, CO | $28.50/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89376708) |
+| Customer Engagement Internship (Summer 2027) | Cardinal Health | OH | $22.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89375205) |
+| Intern, Automotive Design - Spring 2027 | BMW | Santa Monica, CA | $25.30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89374140) |
+| Process Development Engineering Intern | Bloom Energy | San Jose, CA | $36-50 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89316294) |
+| Structured Finance Summer Associate (MBA Intern) | Bloom Energy | San Jose, CA | $54.50–$61/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89316306) |
+| Energy Transition Solutions Intern | Bloom Energy | San Jose, CA | $36–$39/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89316320) |
+| 2027 Co-Op, Strategic Partnerships | Moderna | MA | $20–$60/hr | Full-time | 2026-11-14 | [View](https://veritahire.com/j/89271222) |
+| Data & Quantitative Sciences Statistical Programming Intern - Summer 2027 | Bristol Myers Squibb | CA | $32-$55/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89261169) |
+| Insider Risk Engineering Intern - Summer 2027 | CrowdStrike | USA - Sunnyvale, CA | $22–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89253839) |
+| Pharmacy Intern Grad | Walgreens | Searcy, AR | $33.50–$45.30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89243613) |
+| Patient Care Tech Intern - Float | Johns Hopkins Medicine | Bethesda, MD | $19/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89188707) |
+| Summer 2027 Internship - Product Analyst (Navigator) | Addepar | NY | $31.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/89169592) |
+| Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern | Walmart | AR | $21–$40/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89044183) |
+| Pharmacy Grad Intern (Hrly) | Walmart | OK | $18–$37/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89032170) |
+| Pharmacy Pre-Grad Intern | Walmart | Bridgeview, IL | $18–$28/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89029543) |
+| Housekeeping Operations and Analytics Intern | Carnival Corporation | Seattle, WA | $25–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89002637) |
+| Intern, Food & Beverage Product Development | Carnival Corporation | Seattle, WA | $25–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/89002638) |
+| Intern Post Undergraduate - Supply Chain Intern | Terumo Blood and Cell Technologies | Lakewood, CO | $35/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88993716) |
+| RF Wireless Testing Internship (PM Shift) | Ul Solutions | Fremont, CA | $21/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88973778) |
+| Intern, Hotel Refurbishment and ADA | Holland America Group | Seattle, WA | $25–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88971012) |
+| Sr Inbound Product Manager Intern (MBA Summer 2027) | ServiceNow | San Diego, CA | $55.46/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88968418) |
+| Strategic Operations Intern (Summer 2027 - Masters Degree) | ServiceNow | Santa Clara, CA | $33.87/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88968365) |
+| AI Identity Intern | ServiceNow | Kirkland, WA | $58.96/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88968356) |
+| Intern-Cook Gordon Ramsay | Caesars Entertainment | Danville, VA | $15.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88953981) |
+| Cybersecurity Master's Intern | Kaiser Permanente | Pasadena, CA | $31.05 - $40.13 / hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88944736) |
+| Rotational Accounting Internship - Summer 2027 - San Francisco | Frank, Rimerman + Co. LLP | San Francisco, CA | $45-$49 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88917108) |
+| PMIC Analog Intern | Idt - Integrated Device Technology, Inc.(acquired By Renesas) | San Jose, CA | $37.25–$47.75/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88900376) |
+| MEP Engineering Intern | Drmp, Inc. | NY | $24.00 - $27.00 / hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88873545) |
+| Networks NPI Intern | Ericsson | Bellevue, WA | $28–$44/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88863313) |
+| Quality Assurance Intern (74456) | Ventura Coastal, LLC | Tipton Plant - Tipton, CA | $19.00 - $19.00 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88860953) |
+| Field Project Management Interns | Otis Elevator Co. | MA | $22–$26/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88841675) |
+| Logistics Intern | American Standard Heating & Air Conditioning | Davidson, NC | $20.50–$28/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88836873) |
+| Product Management Engineering Co-op | American Standard Heating & Air Conditioning | Grand Rapids, MI | $25.50/hr | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88836154) |
+| ADMINISTRATIVE INTERN (NON-CAREER) - HUMAN RESOURCES | City of Long Beach | Long Beach, CA | $25.08/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88835717) |
+| Intern | Miyamoto International | Los Angeles, CA | $29.00-$32.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88827439) |
 | Accounts Payable Intern | Schreiber Foods | Green Bay, WI | $18.75/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88810198) |
-| Co-op: Manufacturing Engineer | Eaton | TX | $22.15 - $27.69 per hour | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88808671) |
 | Co-op: Quality | Eaton | TX | $22.15 - $27.69 per hour | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88808661) |
+| Co-op: Manufacturing Engineer | Eaton | TX | $22.15 - $27.69 per hour | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88808671) |
 | Co-op: Continuous Improvement | Eaton | TX | $22.15 - $27.69 per hour | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88808651) |
-| CA Building Group Intern - Engineer | Sundt Construction | Irvine, CA | $18.00 - $30.00 hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88799512) |
 | CA Building Group Intern - Estimating | Sundt Construction | Irvine, CA | $18-$30 hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88799494) |
+| CA Building Group Intern - Engineer | Sundt Construction | Irvine, CA | $18.00 - $30.00 hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88799512) |
 | Intern - Credit Solutions | City National Bank | Los Angeles, CA | $25/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88786481) |
 | Strategic Operations Intern, Summer 2027 | BAE Systems | Arlington, VA | $23.25–$30.75/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88785168) |
 | Programmer Analyst Intern - Summer 2027 | BAE Systems | Fort Wayne, IN | $42K–$56K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88785167) |
 | Customer Analyst Intern - Summer 2027 | BAE Systems | Fort Wayne, IN | $37K–$49K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88785165) |
 | Architectural Summer Intern | Ambient Energy | Denver, CO | $18–$25/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88783066) |
-| General IT Intern | International Paint and Akzonobel - West Africa | Lisle, IL | $27-$32 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88766230) |
 | Digital & AI Intern for Service Solutions | International Paint and Akzonobel - West Africa | Lisle, IL | $27-$32 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88766227) |
-| 2027 Internship - Mechanical Engineering Intern | The Johns Hopkins University Applied Physics Laboratory | Laurel, MD | $22.60 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758534) |
+| General IT Intern | International Paint and Akzonobel - West Africa | Lisle, IL | $27-$32 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88766230) |
 | 2027 Internship - Mechanical Fabrication Intern | The Johns Hopkins University Applied Physics Laboratory | Laurel, MD | $22.60 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758532) |
-| Branch Operations Intern | Republic Finance | Pearl, MS | $15.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758518) |
-| Summer Intern 2027, Process Chemistry | Vertex Pharmaceuticals | Boston, MA | $23–$32/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758020) |
-| Summer Intern 2027, Process Chemistry, MSAT - PhD | Vertex Pharmaceuticals | Boston, MA | $30–$50/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88757995) |
+| 2027 Internship - Mechanical Engineering Intern | The Johns Hopkins University Applied Physics Laboratory | Laurel, MD | $22.60 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758534) |
+| Branch Operations Intern | Republic Finance | Attalla, AL | $15.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758513) |
+| Summer Intern 2027, OSD Process Data Analytics | Vertex Pharmaceuticals | Boston, MA | $23–$32/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88757931) |
 | Summer Intern 2027, Material Science | Vertex Pharmaceuticals | Boston, MA | $23–$32/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88757962) |
+| Summer Intern 2027, Process Chemistry, MSAT - PhD | Vertex Pharmaceuticals | Boston, MA | $30–$50/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88757995) |
 | ComEd Innovation Intern | Exelon | OAKBROOK TERRACE, IL | $20.00/Hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88751325) |
 | ComEd Emergency Preparedness & Resiliency Intern | Exelon | Joliet, IL | $20.00/Hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88751324) |
 | Mechanical Engineering Intern | Molex Connected Enterprise Solutions | Eden Prarie, MN | $27–$28/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88750046) |
 | Talent Acquisition Intern | Rollins, Inc. | Logan, UT | $18.00 to $20.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88746274) |
-| Packaging Engineering Co-Op | CooperCompanies | Victor, NY | $25.00 per hour | Part-time | 2026-11-14 | [View](https://veritahire.com/j/88745445) |
+| Packaging Engineering Co-Op | CooperCompanies | Victor, NY | $25.00 per hour | Part-time | 2026-11-14 | [View](https://veritahire.com/j/88745442) |
 | Sales Enablement Intern | Schneider Electric | Raleigh, NC | $23.00 - $27.50 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88743946) |
-| Pharmacy Intern | Oak Street Health | Nassau Bay, TX | $20–$23.75/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88741917) |
 | Pharmacy Intern, Hillman Center Retail Pharmacy | UPMC | Pittsburgh, PA | $ 19.8-30.4 USD | Internship | 2026-11-14 | [View](https://veritahire.com/j/88734898) |
 | Site Support Intern | AstraZeneca | MD | $25 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88732956) |
 | Configuration Control/Data Management Co-op - Spring & Summer 2027 | Caci International Inc | Danbury, CT | $46K–$92K | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88719273) |
@@ -55,8 +135,8 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 | Engineering/Technical Documentation Intern | Valence Surface Technologies | Tempe, AZ | $18.50/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88712245) |
 | Tax Accountant Intern | Munich Re | Princeton, NJ | $20 - $23 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88710905) |
 | Safety Data Analytics Intern | Piedmont Airlines | Charlotte, NC | $19.50/Hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88698111) |
-| 2027 Spring Intern - Population Health Engagement Activation and Operations | Roche | CA | $24.00-$50.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88686761) |
 | 2027 Summer Intern - Translational Pharmacokinetics & Pharmacodynamics (tPKPD): QSP Modeling in Cardiovascular, Renal and Metabolic Diseases | Roche | CA | $52.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88686757) |
+| 2027 Spring Intern - Population Health Engagement Activation and Operations | Roche | CA | $24.00-$50.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88686761) |
 | Co-Op Branch Teller (Students Only) | Belco Community Credit Union | Newville, PA | $15/hr | Part-time | 2026-11-14 | [View](https://veritahire.com/j/88683918) |
 | 2027 Fund Accounting Intern | Schonfeld | NY | $100K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88683912) |
 | Safety Intern | Flexco | Grand Rapids, MI | $18 an hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88682648) |
@@ -69,44 +149,93 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 | Counselor Intern - John Brooks Recovery Center - Mays Landing - Full-time Days | AtlantiCare | Mays Landing, NJ | $20.04–$29.07/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88672524) |
 | 2027 Summer Intern - Computational Science | Ventana Medical Systems | Santa Clara, CA | $47.00-$52.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88667890) |
 | ATE Test Engineer Intern | Rambus | San Jose, CA | $25.80–$47.80/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88661764) |
-| Mixed-Signal Design Intern | Rambus | San Jose, CA | $32.20–$59.80/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88661762) |
+| Indirect Procurement Intern | Rambus | San Jose, CA | $25.80–$47.80/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88661761) |
 | Athletics Intern (Sports Nutrition - Football) | University of Mississippi | University, MS | $14–$21/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88661551) |
 | 2027 Summer Intern: Engineering (Firmware) - Farmington, CT | Hubbell | CT | $22.50 to $29.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88660802) |
-| Intern Ops - Engineering | American Water | IL | $22.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88658873) |
 | Intern Operations | American Water | IA | $30–$34/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88658872) |
-| Internship - Mechatronics Engineer | ASML | Wilton, CT | $18.00 to $48.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88657848) |
+| Intern Ops - Engineering | American Water | IL | $22.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88658873) |
 | Internship - Engineer (Defectivity, Materials & Contamination Analysis) | ASML | Wilton, CT | $18.00 to $48.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88657847) |
-| Engineering Internship | Conagra Brands | Russellville, AR | $20/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88654605) |
-| Civil Engineering Intern- Summer 2027 | Zephyr Environmental Corporation | Morristown, NJ | $19–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88652895) |
+| Internship - Mechatronics Engineer | ASML | Wilton, CT | $18.00 to $48.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88657848) |
 | Civil Engineering Intern - Winter 2027 | Zephyr Environmental Corporation | Los Angeles, CA | $19–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88652894) |
-| MEP Engineering Intern - Summer 2027 | Zephyr Environmental Corporation | Los Angeles, CA | $23.90–$32.22/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88652893) |
-| Data & Quantitative Sciences Statistical Programming Intern - Summer 2027 | Bristol Myers Squibb | NJ | $32-$55/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88652879) |
-| Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Amazon (corporate) | Umatilla, OR | $102K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650772) |
+| Civil Engineering Intern- Summer 2027 | Zephyr Environmental Corporation | Morristown, NJ | $19–$30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88652895) |
+| Transportation Planning Intern - Summer 2027 | Zephyr Environmental Corporation | Boston, MA | $20.87 - $30.53 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88652891) |
 | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Amazon (corporate) | Herndon, VA | $102K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650771) |
+| Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Amazon (corporate) | Umatilla, OR | $102K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650772) |
 | Summer Buying & Planning Internship | Tapestry | NY | $20/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650740) |
-| Summer eCommerce & Digital Internship | Tapestry | NY | $20/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650739) |
-| Summer Corporate Communications, Talent Acquisition, & Human Resources Internship | Tapestry | NY | $20/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650738) |
+| Summer Finance Internship | Tapestry | NY | $20/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650736) |
+| Summer ESG, Sustainability, & Trade Compliance Internship | Tapestry | NY | $20/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650737) |
 | Product Management Intern - Summer 2027 - IntelliScript | Milliman | Brookfield, WI | $19–$43/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88641733) |
 | Process Engineering Intern | H.B. Fuller | Fridley, MN | $22-$25 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88641561) |
 | Student Intern - Naval Architect (Summer 2027) | General Dynamics Nassco | CA | $35.38/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88640816) |
-| Pharmacy Intern Grad | Walgreens | Flowood, MS | $60.90–$82.30/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88640784) |
 | Community Management Intern | Walgreens | Saint Helens, OR | $17.00 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88640536) |
 | Systems & Controls Technician Intern | Farmers Union Industries, LLC | Performance Pet Products - Mitchell, SD | $26.00 Hourly | Internship | 2026-11-14 | [View](https://veritahire.com/j/88634592) |
-| R&D Intern, Polymer Composite Formulation & Processing | AZEK Company | Wilmington, OH | $20 to $25 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88621758) |
-| 2027 SARC/ACL R&D Internship Program - Multiple Engineering Teams | Samsung Semiconductor | San Jose, CA | $38.40–$63.60/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88619642) |
+| 2027 SARC/ACL R&D Internship Program - Multiple Engineering Teams | Samsung Semiconductor | Austin, TX | $38.40–$63.60/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88619641) |
+| PHARMACY/PHARMCST-INTERN | Kroger | Rincon, GA | $28.25–$31.50/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88619305) |
 | University - Summer 27, Contracts Intern | Booz Allen Hamilton | McLean, VA | $48K–$98K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88619045) |
 | University - Summer 2027, Procurement and Global Supply Chain Intern | Booz Allen Hamilton | McLean, VA | $48K–$98K | Internship | 2026-11-14 | [View](https://veritahire.com/j/88619023) |
 | 2027 Summer Intern Finance (IOPS) | Regeneron Pharmaceuticals | IN | $17.90-$25.50 per hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88614850) |
 | Quality Intern | Patheon | Carlsbad, CA | $18.50–$28.75/hr | Internship | 2026-11-14 | [View](https://veritahire.com/j/88612536) |
-| Intern | Merakey | Coraopolis, PA | $15/hour | Internship | 2026-11-14 | [View](https://veritahire.com/j/88609375) |
+| Intern, Campus Visits & Outreach | The Texas A&M University System | San Antonio, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89725006) |
+| Finance Intern - Summer 2027 | California State University-east Bay | Green Bay, WI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89720743) |
+| Intern | Terracon | Cincinnati, OH | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89711146) |
+| Summer 2027 Intern - Building Planning - RBOPS | American Sentinel University | This role is in Washington, DC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89646105) |
+| Management Internship | Menards | KANSAS CITY, MO | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89598911) |
+| Retail Tech/AP Intern | Little Caesars | Detroit, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89581321) |
+| Finance Intern | Little Caesars | Detroit, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89581323) |
+| Research & Development/Quality Assurance Intern | Little Caesars | Detroit, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89581310) |
+| intern, beverage | Genencor International | South Brunswick, NJ | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89570767) |
+| Intern - Frozen and Dairy | Genencor International | KS (Lab), KS | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89570770) |
+| Intern, Beverage Design | Genencor International | Tastepoint South, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89570765) |
+| Technology Business Management Planning Intern | HUB | Chicago, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89526754) |
+| Business Lending Internship | Mountain America Credit Union | Sandy, UT | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89517459) |
+| Controls Tech Intern | BD | NE | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89504814) |
+| Sales Intern (Paid) | UR | Abilene, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89466132) |
+| Internal Communications Intern - Summer 2027 | Rocket Companies | Detroit, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89453183) |
+| Post Closing Audit Intern - Summer 2027 | Rocket Companies | Detroit, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89453196) |
+| Final Docs Intern - Summer 2027 | Rocket Companies | Detroit, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89453215) |
+| Intern, Campus Visits & Outreach | Texas A&m University-san Antonio | San Antonio, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89315622) |
+| 2027 Tax Summer Intern - Private Client Services (PCS) | EisnerAmper | IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89272013) |
+| AI Intern | Hyperion Materials & Technologies | OH | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89271826) |
+| Intelligence Launch Intern - Summer 2027 | CrowdStrike | USA - Arlington, VA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89253828) |
+| HR Intern | Mann+Hummel | NC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89249546) |
+| Human Resources Intern | Vermeer Corporation | IA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89248973) |
+| Food & Beverage Internship 2027 | Wilderness Resort In Wisconsin Dells | Wisconsin Dells, WI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89145551) |
+| Accounting Internship Summer 2027 | Wilderness Resort In Wisconsin Dells | Wisconsin Dells, WI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89145554) |
+| Aquatics Internship Summer 2027 | Wilderness Resort In Wisconsin Dells | Wisconsin Dells, WI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89145555) |
+| Feature Integration Intern [Summer 2027] | Zoox | Foster City, CA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89100373) |
+| Industrial Design Intern [Summer 2027] | Zoox | Foster City, CA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89100382) |
+| Technology Business Management Planning Intern | Hub International | Chicago, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89084876) |
+| Pharmacist Intern, Casual - Inpatient Hospital | Hennepin Ems | Minneapolis, MN | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89024871) |
+| Engineering Intern | Alliance Technical Group | Baton Rouge, LA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89016753) |
+| Software Power Systems Engineering Intern | Electric Power Engineers | Austin, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89008035) |
+| Intern, Commercial Marketing | Carnival Corporation | Miami, FL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/89002636) |
+| Intern, Commercial Marketing | Holland America Group | Miami, FL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88971018) |
+| Intern, Ecommerce Engineering | Holland America Group | Fort Lauderdale, FL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88971021) |
+| Biochemistry Intern | Eurofins | Lancaster, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88968666) |
+| Employee Concierge Intern, Summer 2027 | Children's Healthcare of Atlanta | Brookhaven, GA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88922594) |
+| Work Life Event Planning Intern, Summer 2027 | Children's Healthcare of Atlanta | Brookhaven, GA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88922590) |
+| Child Advocacy Programs Intern | Children's Healthcare of Atlanta | Brookhaven, GA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88922567) |
+| Software Dev Engineer Intern | The Sygma Network | Houston, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88898063) |
+| Leasing Community Intern | Cardinal Group Companies | Berkeley, CA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88893377) |
+| AI Security Intern | Camping World | Chicago, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88880729) |
+| IT Support Intern | Camping World | Chicago, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88880730) |
+| Data Engineering Intern | Camping World | Chicago, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88880690) |
+| 2027 Summer Internship: Software Developer | Paccar | TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88876645) |
+| Landscape Architecture Intern | Drmp, Inc. | Rockford, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88873549) |
+| HR Intern | Carmeuse | PITTSBURGH, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88873408) |
+| AI Software Engineer Intern | Ericsson | Plano, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88863310) |
+| Intern | Clublife Management | Jacksonville, FL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88861636) |
+| Intern, Intelligent Operations Technology | TC Energy | Spokane, WA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88833883) |
+| Life Sciences Marketing Intern | Ni (national Instruments) | Round Rock, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88824958) |
+| Clinical Intern | Connections Wellness Group | Plano, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88818586) |
 | January 2027 Partial Hospitalization Internship | Universal Health Services | WOBURN, MA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88811515) |
-| Consulting Services Intern | AECOM | Chicago, IL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88811497) |
+| Consulting Services Intern | AECOM | Los Angeles, CA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88811489) |
 | Landscape Architecture Design Intern | AECOM | NY | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88811447) |
 | Pharmacist Intern | Tenet Healthcare | Memphis, TN | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88790261) |
 | 2027 BNY Summer Internship Program - Client Coverage (Berwyn, PA) | BNY Mellon | Berwyn, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88789047) |
 | Electrical Engineering INTERN (PhD) | Microsoft | WA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88787065) |
-| Research Intern - AI Coding Agents | Microsoft | WA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88787056) |
 | Research Intern - MSR Software-Hardware Co-design | Microsoft | WA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88787050) |
+| Research Intern - AI Coding Agents | Microsoft | WA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88787056) |
 | NDT-Intern | Standardaero | Cincinnati, OH | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88782800) |
 | Summer 2027 Electrical Engineering Intern | The Haskell Company | Charlotte, NC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88772707) |
 | Summer 2027 Engineering Intern - Handley, TX | Constellation | Fort Worth, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88758961) |
@@ -115,8 +244,8 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 | Analytics and AI Business Analyst Co-op | Fresenius Medical Care | Lawrence, MA | - | Full-time | 2026-11-14 | [View](https://veritahire.com/j/88744004) |
 | Heathcare+ Finance Intern | Aramark | PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88743683) |
 | Intern - ERP | Itc Holdings Corp. | Novi, MI | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88735717) |
-| Summer 2027 Sales & Marketing Research Intern | Mcgrath Rentcorp | Dallas, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88735464) |
 | Summer 2027 Construction Project Engineer Intern | Mcgrath Rentcorp | Arcade, GA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88735463) |
+| Summer 2027 Sales & Marketing Research Intern | Mcgrath Rentcorp | Dallas, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88735464) |
 | Summer 2027 Transportation Analyst Intern | Mcgrath Rentcorp | Pasadena, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88735462) |
 | Campus Marketing Intern | Sodexo | CLARKSVILLE, TN | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88732877) |
 | Sales Event Intern | Hershey Entertainment & Resorts Company | Hershey, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88732672) |
@@ -126,28 +255,25 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 | GIS Intern | Hays County | San Marcos, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88712172) |
 | Application Support Intern | Munich Re | Amelia, OH | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88710873) |
 | ATSU - Summer Research Intern, ATSRI (Missouri Campus) | A.T. Still University | Kirksville, MO | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88698868) |
-| Cyber AI Engineering Intern (Spring 2027) | Cert Division At the Software Engineering Institute | Pittsburgh, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88696309) |
 | Cybersecurity Engineer Intern (Spring 2027) | Cert Division At the Software Engineering Institute | Pittsburgh, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88696308) |
+| Cyber AI Engineering Intern (Spring 2027) | Cert Division At the Software Engineering Institute | Pittsburgh, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88696309) |
 | Applied AI Research Intern - R&D Internship - 2027 - YORKTOWN HEIGHTS | IBM | Yorktown Heights | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88695868) |
 | Intern/Aide - Part-time | Baylor College of Medicine | Houston, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88686381) |
 | Intern - Sales | Instaclustr | NC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88678927) |
-| Intern - Customer Success & Services Intern | Instaclustr | NC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88678924) |
-| Intern - Finance | Instaclustr | NC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88678923) |
+| Intern - Software Engineer (Systems) | Instaclustr | CA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88678916) |
+| Intern - Software Engineer (Cloud) | Instaclustr | CA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88678919) |
 | Mixed Signal EMIR Intern | Rambus | Morrisville, NC | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88661763) |
 | EHS Intern | Global Tungsten & Powders | Towanda, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88660801) |
 | Internship - EUV Data Science and Analytics | ASML | Austin, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88657851) |
 | HR Intern | St. Tammany Health System | Covington, LA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88655316) |
-| Social Work Intern | University Health | San Antonio, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650715) |
+| Social Work Intern | University Health | San Antonio, TX | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88650713) |
 | Paid Legislative Intern Financial Regulation - Temporary | State of Vermont | Montpelier, VT | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88647316) |
 | Summer 2027 Insurance Intern | Dairy Farmers of America | Kansas City, KS | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88636432) |
 | IT Intern | Rockland Trust | Rockland, MA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88628927) |
-| Pharmacy Student Intern | Albertsons | Missoula, MT | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88628709) |
-| Cyber AI Engineering Intern (Spring 2027) | Carnegie Mellon University | Pittsburgh, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88622029) |
 | Cybersecurity Engineer Intern (Spring 2027) | Carnegie Mellon University | Pittsburgh, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88622028) |
+| Cyber AI Engineering Intern (Spring 2027) | Carnegie Mellon University | Pittsburgh, PA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88622029) |
 | Unpaid Counselor Internship | Behavioral Health Group - Bhg | Staunton, VA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88621819) |
-| PHARMACY/PHARMCST-INTERN | Kroger | Rincon, GA | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88619305) |
-| Mortgage Loan Analyst - Internship | The Standard | Portland, OR | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88612185) |
-| IT Accounting Internship | The Standard | Remote (OR) | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88612075) |
+| Mortgage Loan Analyst - Internship | The Standard | Hillsboro, OR | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88612184) |
 | Summer Intern - Technical | Nextera Energy, Inc. | FL | - | Internship | 2026-11-14 | [View](https://veritahire.com/j/88611427) |
 | COOK Medical Summer 2027 R&D, iMRI Engineering Co-op | Cook Medical | Bloomington, IN | - | - | 2026-11-14 | [View](https://veritahire.com/j/88604751) |
 | Electrical Engineering Co-op | Synqor | Salem, NH | - | - | 2026-11-14 | [View](https://veritahire.com/j/88600170) |
@@ -156,18 +282,18 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 | PMIC Analog Intern | Renesas Electronics | San Jose, CA | $37.25–$47.75/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88592037) |
 | Student Intern, Food Services | Management & Training Corporation | New Orleans, LA | $17.75 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88586442) |
 | Intern, Design (Summer 2027) | Southern Poverty Law Center | GA | $18.40 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88583528) |
-| 2027 Summer Internship - Data & Digital Finance Business Partner | Kaufman Hall | Chicago, IL | $25 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88581934) |
 | 2027 Summer Internship - Kaufman Hall Marketing Team | Kaufman Hall | Chicago, IL | $25 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88581932) |
+| 2027 Summer Internship - Data & Digital Finance Business Partner | Kaufman Hall | Chicago, IL | $25 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88581934) |
 | COOK INTERN | Shamin Hotels | Richmond, VA | $13.00 - $15.00 Hourly | Internship | 2026-11-13 | [View](https://veritahire.com/j/88574248) |
-| Physical Design, Intern (Summer 2027) | Lightmatter | Boston, MA | $50–$55/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88569128) |
 | Hardware Test Engineering, Intern (Summer 2027) | Lightmatter | Mountain View, CA | $43–$47/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88569126) |
+| Physical Design, Intern (Summer 2027) | Lightmatter | Boston, MA | $50–$55/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88569128) |
 | Legal Intern - Winter 2027 | Triedge Investments | Remote (New York city, NY) | $30 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88568955) |
 | 2027 Summer Ballistics Analyst Intern | Ursa Major | Berthoud, CO | $30.00/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88568932) |
 | Embedded Software Engineer Intern - Lidar | Aurora | Remote (Bozeman, MT) | $52.00 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88568495) |
 | Fund Management Summer 2027 Analyst Intern | Northmarq | NY | $17.00 to $22.00 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564615) |
-| Transportation Civil Engineering Rotational Intern | Ecm A Jmt Division | DC | $22–$27/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564481) |
-| Mechanical Engineering Intern | Ecm A Jmt Division | Hunt Valley, MD | $22–$27/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564479) |
 | Buildings and Facilities Engineering Rotational Intern | Ecm A Jmt Division | Hunt Valley, MD | $22–$27/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564478) |
+| Mechanical Engineering Intern | Ecm A Jmt Division | Hunt Valley, MD | $22–$27/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564479) |
+| Transportation Civil Engineering Rotational Intern | Ecm A Jmt Division | Hunt Valley, MD | $22–$27/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564480) |
 | Wealth Management Intern | Heartland Bank and Trust Company | Normal, IL | $18/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88546624) |
 | 2027 Corporate Intern - Commercial Banking | Associated Bank | NE | $17.00 - $26.71 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88544460) |
 | Intern - Civil | Matrix Design Group, Inc. | San Antonio, TX | $22.00 to $24.00 Hourly | Internship | 2026-11-13 | [View](https://veritahire.com/j/88541205) |
@@ -175,152 +301,26 @@ Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritah
 | Commercial Lines Intern - Summer 2027 | IMA Financial Group | Dallas, TX | $18–$22/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88539667) |
 | Corporate Finance Intern (Summer 2027) | Robinhood | NY | $33/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88538610) |
 | Security Intern | Trace3 | Irvine, CA | $18–$28/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88538577) |
-| Pharmacy Intern | CVS Health | Princeton, NJ | $20–$23.75/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88534536) |
-| Civil Engineering, Hydropower Intern - MN, WI | Xcel Energy | WI | $21.20 to $24.60 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88517296) |
-| Project Engineer Intern | The Boldt Company | Eau Claire, WI | $ 21 to $25 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88515683) |
-| Finance Intern | Cirrus | MN | $23.00/Hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88514367) |
-| Clinical Intern | The Resource Group, Spend Management Solutions | Murfreesboro, TN | $16.89 - $19.82 an hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88501192) |
-| Embedded Software Engineer Intern - Lidar | Aurora Innovation | Bozeman, MT | $52.00 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88500995) |
-| Legal Intern | Menlo Security | Mountain View, CA | $30 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88500206) |
-| Events Intern | Chicago Sun-Times | Chicago, IL | $20/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88500154) |
-| High School Intern | Hatzel and Buehler, Inc | Sharpsburg, PA | $15.00 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88499076) |
-| Accounting Intern | Dual North America | MN | $22.00/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88491195) |
-| Operations Intern | Dual North America | CA | $22.00/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88491193) |
-| Law Clerk Internship, Summer 2027 | Cheyenne International | Arden Hills, MN | $25.00/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88490724) |
-| Spring 2027 Visual Merchandising Internship | tarte cosmetics | NY | $21/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88490301) |
-| Spring 2027 Supply Chain Internship | tarte cosmetics | NY | $21/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88490300) |
-| Spring 2027 Social Media Intern to Founder & CEO | tarte cosmetics | NY | $21/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88490299) |
-| Capital Improvement Program Delivery Intern (Water Resources) | Gwinnett County Sheriff's Office | Gwinnett, GA | $20.36 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88489373) |
-| Corporate Tax Intern - CSL | Carlisle Construction Materials | Scottsdale, AZ | $22-$23/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88488286) |
-| Summer 2027: Mechanical Engineering Intern, Ninja (May to August) | SharkNinja | Needham, MA | $30–$36/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88485945) |
-| Spring 2027: Talent Acceleration Co-op (January to June) | SharkNinja | Needham, MA | $27–$33/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88485944) |
-| Spring 2027: Early Talent Access CO-OP (January to June) | SharkNinja | Needham, MA | $27–$33/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88485943) |
-| Site Support Intern | Astra Zeneca LP US | Rockville, MD | $25 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88477718) |
-| Intern - Marketing (Summer 2027) | Ocean Casino Resort | Atlantic City, NJ | $18.00/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88474305) |
-| Summer 2027 Intern: Account Management | Assurant | GA | $25/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88473980) |
-| Summer 2027: Marketing Operations Project Analyst Intern | Assurant | Atlanta, GA | $20/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88473979) |
-| Summer 2027 Treasury Internship / Hybrid | Allianz Life | Minneapolis, MN | $20–$24/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88470981) |
-| Mobile Crisis Internship-Spring - Summer 2027 | Access Services | Plymouth Meeting, PA | $15/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88460322) |
-| Tax Intern, Transfer Pricing - Summer 2027 (Atlanta) | BDO USA | Atlanta, GA | $40–$45/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88425229) |
-| Marketing Intern | Belden | IN | $27-30/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88421252) |
-| IT Internal Audit Intern (Summer 2027) | PTC | Boston, MA | $25–$27/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88405785) |
-| Digital Systems Engineering Intern - Bohemia, NY - Summer 2027 | GE Aerospace | NY | $24/hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88397255) |
-| Research Intern - AI-Enabled Atomistic and Multi-Scale Materials Simulation | Seagate Technology | Bloomington, MN | $35 - $43/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88385150) |
-| Advanced Data Storage Device Physics Intern | Seagate Technology | Bloomington, MN | $35 - $43/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88385148) |
-| Intern - Embedded Firmware in Seagate Research Group | Seagate Technology | Shakopee, MN | $22 - $30/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88385144) |
-| Paralegal Intern | Delaware, County of (OH) | OH | $16–$18/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88383137) |
-| IT Developer Analyst Intern | Daimler Truck | Mount Holly, NC | $21 - $29 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88380607) |
-| Supply Chain Systems Digitalization Intern | Daimler Truck | Portland, OR | $21 - $29 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88380605) |
-| Manufacturing Engineering Intern - Thomas Built Bus | Daimler Truck | High Point, NC | $21 - $29 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88380602) |
-| Intern, Pool - B.R.A.S.S. Surgery Center | SCA Health | Baton Rouge, LA | $14.00/Hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88380430) |
-| Data Science/AI Intern / 2027 Summer Internship Program | Verisk | Lehi, UT | $35 - $37 an hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88352207) |
-| AI Security Engineer Intern | ServiceNow | San Diego, CA | $62.89/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88324089) |
-| Security Engineering & Automation Intern | ServiceNow | Kirkland, WA | $58.96/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88324087) |
-| Information Security Analyst Intern | ServiceNow | San Diego, CA | $45.79/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88324085) |
-| Process Engineering Intern | Skyworks Solutions | TX | $29.00 - $49.00 per hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88299500) |
-| High-Speed Optoelectronics Design Winter/Spring Co-Op (Jan-June '27) | Skyworks Solutions | CA | $29.00 - $49.00 per hour | Full-time | 2026-11-13 | [View](https://veritahire.com/j/88299484) |
-| Intern - TDS | TD | Houston, TX | $30–$45/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88298168) |
-| Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO) | The Cigna Group | St. Louis, MO | $35–$43/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88292849) |
-| Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | The Cigna Group | Morris Plains, NJ | $28.00 an hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88292835) |
-| Co-op Student - Urology Surgery | Mass General Brigham | MA | $17.71–$24.28/hr | Part-time | 2026-11-13 | [View](https://veritahire.com/j/88271842) |
-| Student Intern | Mass General Brigham | MA | $17.71 - $24.28/Hour | Internship | 2026-11-13 | [View](https://veritahire.com/j/88271840) |
-| Structural Intern | Walter P Moore | San Francisco, CA | $30-40/Hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88266894) |
-| Sustainability Intern | American Sentinel University | San Diego, CA | $22/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88266711) |
-| Underwriting Intern, Cyber | American Sentinel University | NY | $22.00/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88266709) |
-| Pharmacy Grad Intern (Hrly) | Walmart | KY | $18–$37/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88245629) |
-| Pharmacy Pre-Grad Intern | Walmart | MO | $20.50–$33.50/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88245619) |
-| AT&T Labs Internship - Advanced Degrees | Cricket Wireless | Bedminster, NJ | $87K–$131K | Internship | 2026-11-13 | [View](https://veritahire.com/j/88229618) |
-| LegalEdge Intern | Cricket Wireless | Dallas, TX | $119K–$178K | Internship | 2026-11-13 | [View](https://veritahire.com/j/88229577) |
-| Development Intern | Mortenson | US | $18/hr | Internship | 2026-11-13 | [View](https://veritahire.com/j/88170909) |
-| Product Development Co-Op | Watlow | Winona, MN | $28/hour | - | 2026-11-13 | [View](https://veritahire.com/j/88385729) |
-| Summer 2027 Industrial Engineering Co-Op | Schneider Electric | Red Oak, TX | $23.00-$29.50 per hour | - | 2026-11-13 | [View](https://veritahire.com/j/88342848) |
-| Product Development - Assembly and Tuning Summer/Fall Co-Op (June-Dec '27) | Skyworks Solutions | CA | $29.00 - $49.00 per hour | - | 2026-11-13 | [View](https://veritahire.com/j/88299470) |
-| R&D Mechanical Engineering Co-Op | Werfen | Bedford, MA | $22–$30/hr | - | 2026-11-13 | [View](https://veritahire.com/j/88250855) |
 | Summer 2027 - Operations Intern | Oak Farms Dairy | San Antonio, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88598788) |
 | Next Mission EVS Leadership Academy Internship | HHS | Augusta, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88594113) |
 | Supply Chain Intern | Barry-wehmiller | Green Bay, WI | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88592667) |
 | Mechanical Engineer Intern (Summer 2027) | Amrize | IL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88592110) |
 | Intern, Financial Planning- Sarasota, FL | Mariner | Sarasota, FL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88588524) |
 | Transportation Engineering Intern | Kci Technologies, Inc. | Duluth, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88586430) |
+| Intern, Engineering - Superior Tube Collegeville, Pa | AMETEK | PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88584440) |
 | Electrical Engineer Summer Intern | AMETEK | IL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88584443) |
-| Intern, Engineering - Superior Tube Collegeville, Pa | AMETEK | PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88584441) |
 | Accounting Intern - Superior Tube Collegeville, Pa | AMETEK | PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88584439) |
 | NIKE, Inc. Apparel Design Internship | Nike | Beaverton, OR | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88578212) |
-| NIKE, Inc. Footwear Design Internship | Nike | Beaverton, OR | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88578210) |
 | NIKE, Inc. Product Graphics Design Internship | Nike | Beaverton, OR | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88578208) |
+| NIKE, Inc. Footwear Design Internship | Nike | Beaverton, OR | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88578210) |
 | Accounting Intern - Windsor, CT (Spring 2027) | Myers and Stauffer Lc | Windsor, CT | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88571771) |
 | KIP Spring 2027 - Events Intern - R Street Institute | Standtogether | DC | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88571730) |
 | Industrial Engineering Intern | Jabil | St. Petersburg, FL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88567086) |
 | People Team: Software Engineer Intern (Winter 2027) | Cloudflare | TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88566008) |
-| Engineering Intern | Bloomberg Environment | Arlington, VA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564620) |
 | Marketing Intern | Bloomberg Environment | Arlington, VA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564619) |
+| Engineering Intern | Bloomberg Environment | Arlington, VA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88564620) |
 | Risk Strategy Intern | Ramp | Remote (New York City, NY) | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88545017) |
 | Spring 2027 For-Credit Warehouse Logistics Intern | Genesis Biotechnology Group | Hamilton Township, NJ | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88536991) |
-| Engineering Intern | Alliance | Baton Rouge, LA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88515462) |
-| Intern - Enterprise SSD Architecture | Micron Technology | Boise, ID | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88510307) |
-| Intern - AI Engineer Platform | Micron Technology | Boise, ID | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88510297) |
-| Summer Internship - Culinary | Sea World | FL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88501144) |
-| Summer Internship Opportunities | Kodiak Gas Services, Inc. | TX - The Woodlands, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88501106) |
-| General Internship Application | Olsson | AR; Loveland, CO | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88499489) |
-| Engineering Internship - Building Automation Systems | Olsson | Omaha, NE | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88499487) |
-| Design Research Intern | Haworth | MI | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88498295) |
-| Adult Education Intern (Unpaid) | IRC | Elizabeth, NJ | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88492244) |
-| Health and Wellness Intern | IRC | NY | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88492243) |
-| Legal Intern | Travel + Leisure Co. | FL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88490756) |
-| Manufacturing Engineer Intern- Summer 2027 | Shape Corp. | Trenton, OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88487306) |
-| Quality Engineer Intern- Summer 2027 | Shape Corp. | Trenton, OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88487299) |
-| Industrial Program Engineer Intern- Summer 2027 | Shape Corp. | Trenton, OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88487296) |
-| Intern- Ambulatory Pharmacy | HonorHealth | AZ | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88484436) |
-| Student at FPU Only - Marketing Intern, Spring 2027 | Franklin Pierce University | Rindge, NH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88483984) |
-| Intern, Document Control | Triumph | UT | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88474032) |
-| IT Cyber Security Intern | Midrex Technologies, Inc. | Corporate Office - Charlotte, NC | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88472686) |
-| Intern - Engineering: Mechanical Engineering | Midrex Technologies, Inc. | Corporate Office - Charlotte, NC | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88472657) |
-| Intern- Social Work | The Centers | Cleveland, OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88461903) |
-| Intern | MediaNews Group | Deerfield Beach, FL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88454687) |
-| Mechanical Engineering Intern | Salas O'Brien | Nashville, TN | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88446238) |
-| Partner Development Internship | Cerity Partners | Chicago, IL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88442457) |
-| 2027 Summer Intern - Future Concepts - 6539 | Shieldai | D.C., DC | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88440112) |
-| Summer 2027 Environmental Engineering Intern | Flint Hills Resources | Corpus Christi, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88439994) |
-| Operations Excellence Intern | Janis Research | NJ | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88439332) |
-| Energy and Utilities Engineering Co-Op (May - December 2027) | Farnsworth Group | St. Louis, MO | - | Full-time | 2026-11-13 | [View](https://veritahire.com/j/88438938) |
-| Energy and Utilities Engineering Co-Op (Jan - Aug 2027) | Farnsworth Group | St. Louis, MO | - | Full-time | 2026-11-13 | [View](https://veritahire.com/j/88438937) |
-| Intern | Tellus Equipment Solutions | Fredericksburg, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88438341) |
-| DC INTERN | Dollar General | San Antonio, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88418371) |
-| Industrial Engineering Intern | Nypro, A Jabil Company | St. Petersburg/Tampa, FL | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88408577) |
-| Archives Intern | Cincinnati Children's | Cincinnati, OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88400445) |
-| Research & Design Intern | Minitab | State College, PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88389804) |
-| Business Development Intern | Minitab | State College, PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88389803) |
-| Training & Development Intern - Spring 2027 | Slim Chickens | Fayetteville, AR | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88383210) |
-| Finance Intern - Spring 2027 | Slim Chickens | Fayetteville, AR | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88383207) |
-| Project Management Intern | Philadelphia Gas Works | Philadelphia, PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88383121) |
-| Facility Engineering Intern | Hl-ga Battery Company LLC | Ellabell, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88376110) |
-| Electrical Engineering Intern | Hl-ga Battery Company LLC | Ellabell, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88376071) |
-| Mechanical Engineering Intern | Hl-ga Battery Company LLC | Ellabell, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88376050) |
-| 2027 Summer Grid Ops Technology Intern (NH) | Eversource Energy | NH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88366889) |
-| 2027 Gas Systems Engineering Co-op | Eversource Energy | MA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88366878) |
-| 2027 Summer: Distribution Engineering Intern (Hooksett, NH-Hybrid Schedule) | Eversource Energy | NH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88366866) |
-| Intern - GEO | Terracon | Midland, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88354110) |
-| Intern - ENV | Terracon | Midland, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88354108) |
-| Intern - Environmental | Terracon | Lubbock, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88354106) |
-| Structural Engineering Intern - Summer 2027 | Hok | Atlanta, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88349357) |
-| Engineering Intern | ZF | Marysville, MI | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88327320) |
-| Clinical Research Intern | Intuitive | Sunnyvale, CA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88324072) |
-| Intern Consumer Connections (Summer 2027) | Hershey | Hershey, PA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88289563) |
-| Physician Practice Operations Intern | Children's Healthcare of Atlanta | Brookhaven, GA | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88278536) |
-| Physical Therapy and Occupational Therapy Intern | Labette Health | Parsons, KS | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88277726) |
-| Non-Profit and Community Garden Management Internship | American Sentinel University | Boulder, CO | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88266714) |
-| 2027 Summer Intern - Automotive Technician | General Motors | Milford, MI | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88247862) |
-| Actuarial Internship - Summer 2027 | AmTrust Financial | NY | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88243505) |
-| 2027 Summer Internship: Division Accounting | Paccar | TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88238185) |
-| Manufacturing Engineering Data Analytics Intern Summer 2027 | Paccar | MS | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88238183) |
-| Machining Intern Spring 2027 | Paccar | MS | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88238181) |
-| HIM Intern | Corewell Health | Grand Rapids, MI | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88236083) |
-| Management Internship | Menards | COLUMBUS, OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88223994) |
-| Finance Intern (Summer 2027) | Raytheon | mckinney, TX | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88208874) |
-| Pharmacy Intern | Encompass Health | Tucson, AZ | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88208861) |
-| Audit Intern | Bunge | MO | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88207696) |
-| Intern, Workforce Experience | Cencora | Remote (PA) | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88174602) |
-| Intern - Center of Excellence | Cintas | OH | - | Internship | 2026-11-13 | [View](https://veritahire.com/j/88171243) |
 <!-- jobs:end -->
 
 ## Data and reuse

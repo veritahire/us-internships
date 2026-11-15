@@ -1,11 +1,902 @@
 {
  "list": "us-internships",
  "title": "US internships and co-ops",
- "generated_at": "2026-11-14T05:50Z",
+ "generated_at": "2026-11-15T05:50Z",
  "count": 300,
  "source": "VeritaHire - live US jobs read straight from employers' own career sites, re-checked daily",
  "license": "CC BY 4.0 - credit \"VeritaHire (veritahire.com)\"",
  "jobs": [
+  {
+   "title": "Engineering Co-op",
+   "employer": "Flowserve Corporation",
+   "location": "Rancho Dominguez, CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$17.47 - $26.20 per hour",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 03:28",
+   "url": "https://veritahire.com/j/90053669"
+  },
+  {
+   "title": "Flight Test and Integration Summer Intern",
+   "employer": "Leidos",
+   "location": "Huntsville, AL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$48K–$87K",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:48",
+   "url": "https://veritahire.com/j/90000097"
+  },
+  {
+   "title": "Engineering Internship",
+   "employer": "Conagra Brands",
+   "location": "Russellville, AR",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20/hr",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:48",
+   "url": "https://veritahire.com/j/90000039"
+  },
+  {
+   "title": "Corporate & Institutional Banking Undergraduate Intern - Business Credit",
+   "employer": "PNC Bank",
+   "location": "IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18–$35/hr",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:23",
+   "url": "https://veritahire.com/j/89980008"
+  },
+  {
+   "title": "Technology Intern",
+   "employer": "USAA",
+   "location": "AZ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$27–$36/hr",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:05",
+   "url": "https://veritahire.com/j/89960577"
+  },
+  {
+   "title": "Pharmacy Intern",
+   "employer": "CVS Health",
+   "location": "Salem, VA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20–$23.75/hr",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 01:17",
+   "url": "https://veritahire.com/j/89908128"
+  },
+  {
+   "title": "Advanced Manufacturing Engineering Co-Op",
+   "employer": "Boston Dynamics",
+   "location": "MA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$32 to $37 per hour",
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 03:38",
+   "url": "https://veritahire.com/j/90057019"
+  },
+  {
+   "title": "Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)",
+   "employer": "Raytheon",
+   "location": "burnsville, MN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 05:19",
+   "url": "https://veritahire.com/j/90105679"
+  },
+  {
+   "title": "Composite Engineering Intern (Summer 2027)(Onsite)",
+   "employer": "Raytheon",
+   "location": "middletown, CT",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 05:19",
+   "url": "https://veritahire.com/j/90105680"
+  },
+  {
+   "title": "Talent Management Co-Op (Spring/Summer 2027)",
+   "employer": "Raytheon",
+   "location": "windsor locks, CT",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 05:19",
+   "url": "https://veritahire.com/j/90105655"
+  },
+  {
+   "title": "Summer 2027 Internship - Phoenix, AZ - Preferred Banking",
+   "employer": "Western Alliance Bank",
+   "location": "Phoenix, AZ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 03:36",
+   "url": "https://veritahire.com/j/90054792"
+  },
+  {
+   "title": "R & D Intern - Computer & Data Science",
+   "employer": "Corteva Agriscience",
+   "location": "Indianapolis, IN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 03:16",
+   "url": "https://veritahire.com/j/90044602"
+  },
+  {
+   "title": "Software Engineering Intern (Summer 2027)",
+   "employer": "Bridgecrest",
+   "location": "Tempe, AZ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:23",
+   "url": "https://veritahire.com/j/89980856"
+  },
+  {
+   "title": "Data Science Intern (Summer 2027)",
+   "employer": "Bridgecrest",
+   "location": "Tempe, AZ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:23",
+   "url": "https://veritahire.com/j/89980809"
+  },
+  {
+   "title": "Analyst Intern (Summer 2027)",
+   "employer": "Bridgecrest",
+   "location": "Tempe, AZ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 02:23",
+   "url": "https://veritahire.com/j/89980777"
+  },
+  {
+   "title": "Systems Engineer Intern",
+   "employer": "Sierra Nevada Corporation",
+   "location": "Southern Pines, NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-15",
+   "last_confirmed": "2026-11-15 00:54",
+   "url": "https://veritahire.com/j/89886372"
+  },
+  {
+   "title": "Intern - Cybersecurity Operations",
+   "employer": "Altice USA",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25.00 /hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:59",
+   "url": "https://veritahire.com/j/89751651"
+  },
+  {
+   "title": "Business Process Internal Audit Intern (Summer 2027)",
+   "employer": "PTC",
+   "location": "Boston, MA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25–$27/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:49",
+   "url": "https://veritahire.com/j/89749264"
+  },
+  {
+   "title": "Systems Engineer - Intern",
+   "employer": "Lockheed Martin",
+   "location": "Orlando, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20.14 - $28.15",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 02:52",
+   "url": "https://veritahire.com/j/89726635"
+  },
+  {
+   "title": "Intern - Lab",
+   "employer": "Labcorp",
+   "location": "OH",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$17.75-22/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:32",
+   "url": "https://veritahire.com/j/89683636"
+  },
+  {
+   "title": "Co-Op - Winter/Spring PhD Co-op Optical Interconnect System Architecture & Link Optimizatio",
+   "employer": "Skyworks Solutions",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$29.00 - $49.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:01",
+   "url": "https://veritahire.com/j/89666540"
+  },
+  {
+   "title": "Internal Audit Work Experience Program - Internship - Corporate",
+   "employer": "MGM Resorts",
+   "location": "NV",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$17.00 Hourly",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:54",
+   "url": "https://veritahire.com/j/89598155"
+  },
+  {
+   "title": "Accelerate - IT Engineering Intern",
+   "employer": "Avis Budget Group",
+   "location": "NJ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$35 an hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:02",
+   "url": "https://veritahire.com/j/89555031"
+  },
+  {
+   "title": "Legal, Public Affairs and Compliance (LPAC) Intern - Summer 2027",
+   "employer": "Elevance Health",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20.64–$38.32/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 18:33",
+   "url": "https://veritahire.com/j/89528126"
+  },
+  {
+   "title": "Summer 2027 - IoT Product Strategy Intern (Master's)",
+   "employer": "SAS",
+   "location": "NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$15 to $30 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:58",
+   "url": "https://veritahire.com/j/89504830"
+  },
+  {
+   "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
+   "employer": "SAS",
+   "location": "NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$15 to $30 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:58",
+   "url": "https://veritahire.com/j/89504833"
+  },
+  {
+   "title": "Returning Part-Time Intern Engineer- Winter 2026/2027- Ohio Office (For Current/Former HNTB interns only)",
+   "employer": "Its Florida",
+   "location": "Blue Ash, OH",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$21.07–$31.60/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:57",
+   "url": "https://veritahire.com/j/89504435"
+  },
+  {
+   "title": "Assembly Associate Co-op",
+   "employer": "GE Vernova",
+   "location": "OH",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$17/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:42",
+   "url": "https://veritahire.com/j/89503139"
+  },
+  {
+   "title": "GE Vernova Materials Management Internship - Summer 2027",
+   "employer": "GE Vernova",
+   "location": "NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$52K–$104K",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:42",
+   "url": "https://veritahire.com/j/89503148"
+  },
+  {
+   "title": "Quality Intern",
+   "employer": "Thermo Fisher Scientific",
+   "location": "Carlsbad, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18.50–$28.75/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:39",
+   "url": "https://veritahire.com/j/89500463"
+  },
+  {
+   "title": "Electrical Engineering Intern | Independence, OH",
+   "employer": "IMEG",
+   "location": "Cleveland, OH",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22–$24/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:36",
+   "url": "https://veritahire.com/j/89497769"
+  },
+  {
+   "title": "NEU Patient Care Tech Co-op",
+   "employer": "Beth Israel Lahey Health",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$19/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:30",
+   "url": "https://veritahire.com/j/89491457"
+  },
+  {
+   "title": "Summer 2027 Corporate Strategy Internship",
+   "employer": "T-Mobile",
+   "location": "Bellevue, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$27–$50/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:24",
+   "url": "https://veritahire.com/j/89487729"
+  },
+  {
+   "title": "Pharmacy Intern",
+   "employer": "Oak Street Health",
+   "location": "La Mesa, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20.10–$23.10/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:16",
+   "url": "https://veritahire.com/j/89475841"
+  },
+  {
+   "title": "*IMMEDIATE NEED* Automotive Technician Specialist - Paid Internship to Full-Time Opportunity",
+   "employer": "AutoNation",
+   "location": "TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22.00 - $25.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:11",
+   "url": "https://veritahire.com/j/89468690"
+  },
+  {
+   "title": "Summer 2027 Commercial Middle Market Internship - Costa Mesa",
+   "employer": "Fifth Third Bank",
+   "location": "Newport Beach, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$70K",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:07",
+   "url": "https://veritahire.com/j/89457880"
+  },
+  {
+   "title": "Intern, Engineering",
+   "employer": "Moog",
+   "location": "Torrance, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$28.79-$34.29 Hourly",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:06",
+   "url": "https://veritahire.com/j/89451289"
+  },
+  {
+   "title": "Intern, Electrical Engineering",
+   "employer": "Moog",
+   "location": "Buffalo, NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25.50-$31.00 Hourly",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:06",
+   "url": "https://veritahire.com/j/89451295"
+  },
+  {
+   "title": "Pharmacy Intern",
+   "employer": "Walgreens",
+   "location": "Dunn, NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$19.50 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 03:22",
+   "url": "https://veritahire.com/j/89424697"
+  },
+  {
+   "title": "2027 Materials & Process Engineering Intern - Northridge CA",
+   "employer": "Northrop Grumman",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$26.75–$39/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 16:54",
+   "url": "https://veritahire.com/j/89404291"
+  },
+  {
+   "title": "2027 Manufacturing Engineering Intern - Sunnyvale CA",
+   "employer": "Northrop Grumman",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$21.50 to $39.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 16:54",
+   "url": "https://veritahire.com/j/89404239"
+  },
+  {
+   "title": "2027 Future Talent Program - Modeling & Informatics - Co-op",
+   "employer": "Merck",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$40K–$111K",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 16:39",
+   "url": "https://veritahire.com/j/89384628"
+  },
+  {
+   "title": "2027 Future Talent Program - Global Safety & Environment - Intern",
+   "employer": "Merck",
+   "location": "NJ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$40K–$111K",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 16:39",
+   "url": "https://veritahire.com/j/89384630"
+  },
+  {
+   "title": "Product Engineering Intern",
+   "employer": "Entegris",
+   "location": "Chaska, MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20-$30/hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:46",
+   "url": "https://veritahire.com/j/89377000"
+  },
+  {
+   "title": "Automation and Controls Interns",
+   "employer": "Entegris",
+   "location": "Colorado Springs, CO",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20-$30/hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:46",
+   "url": "https://veritahire.com/j/89376872"
+  },
+  {
+   "title": "Continuous Improvement Intern",
+   "employer": "Entegris",
+   "location": "Bloomington, MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20-$30/hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:46",
+   "url": "https://veritahire.com/j/89376905"
+  },
+  {
+   "title": "Pharmacy Student Intern",
+   "employer": "Albertsons",
+   "location": "Fort Collins, CO",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$28.50/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 16:38",
+   "url": "https://veritahire.com/j/89376708"
+  },
+  {
+   "title": "Customer Engagement Internship (Summer 2027)",
+   "employer": "Cardinal Health",
+   "location": "OH",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:46",
+   "url": "https://veritahire.com/j/89375205"
+  },
+  {
+   "title": "Intern, Automotive Design - Spring 2027",
+   "employer": "BMW",
+   "location": "Santa Monica, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25.30/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:46",
+   "url": "https://veritahire.com/j/89374140"
+  },
+  {
+   "title": "Process Development Engineering Intern",
+   "employer": "Bloom Energy",
+   "location": "San Jose, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$36-50 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:18",
+   "url": "https://veritahire.com/j/89316294"
+  },
+  {
+   "title": "Structured Finance Summer Associate (MBA Intern)",
+   "employer": "Bloom Energy",
+   "location": "San Jose, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$54.50–$61/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:18",
+   "url": "https://veritahire.com/j/89316306"
+  },
+  {
+   "title": "Energy Transition Solutions Intern",
+   "employer": "Bloom Energy",
+   "location": "San Jose, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$36–$39/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:18",
+   "url": "https://veritahire.com/j/89316320"
+  },
+  {
+   "title": "2027 Co-Op, Strategic Partnerships",
+   "employer": "Moderna",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$20–$60/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 04:57",
+   "url": "https://veritahire.com/j/89271222"
+  },
+  {
+   "title": "Data & Quantitative Sciences Statistical Programming Intern - Summer 2027",
+   "employer": "Bristol Myers Squibb",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$32-$55/hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 04:34",
+   "url": "https://veritahire.com/j/89261169"
+  },
+  {
+   "title": "Insider Risk Engineering Intern - Summer 2027",
+   "employer": "CrowdStrike",
+   "location": "USA - Sunnyvale, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22–$30/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 04:07",
+   "url": "https://veritahire.com/j/89253839"
+  },
+  {
+   "title": "Pharmacy Intern Grad",
+   "employer": "Walgreens",
+   "location": "Searcy, AR",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$33.50–$45.30/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 03:22",
+   "url": "https://veritahire.com/j/89243613"
+  },
+  {
+   "title": "Patient Care Tech Intern - Float",
+   "employer": "Johns Hopkins Medicine",
+   "location": "Bethesda, MD",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$19/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 01:35",
+   "url": "https://veritahire.com/j/89188707"
+  },
+  {
+   "title": "Summer 2027 Internship - Product Analyst (Navigator)",
+   "employer": "Addepar",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$31.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 00:53",
+   "url": "https://veritahire.com/j/89169592"
+  },
+  {
+   "title": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
+   "employer": "Walmart",
+   "location": "AR",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$21–$40/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 02:24",
+   "url": "https://veritahire.com/j/89044183"
+  },
+  {
+   "title": "Pharmacy Grad Intern (Hrly)",
+   "employer": "Walmart",
+   "location": "OK",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18–$37/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 02:23",
+   "url": "https://veritahire.com/j/89032170"
+  },
+  {
+   "title": "Pharmacy Pre-Grad Intern",
+   "employer": "Walmart",
+   "location": "Bridgeview, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18–$28/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 02:23",
+   "url": "https://veritahire.com/j/89029543"
+  },
+  {
+   "title": "Housekeeping Operations and Analytics Intern",
+   "employer": "Carnival Corporation",
+   "location": "Seattle, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25–$30/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:17",
+   "url": "https://veritahire.com/j/89002637"
+  },
+  {
+   "title": "Intern, Food & Beverage Product Development",
+   "employer": "Carnival Corporation",
+   "location": "Seattle, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25–$30/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:17",
+   "url": "https://veritahire.com/j/89002638"
+  },
+  {
+   "title": "Intern Post Undergraduate - Supply Chain Intern",
+   "employer": "Terumo Blood and Cell Technologies",
+   "location": "Lakewood, CO",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$35/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:55",
+   "url": "https://veritahire.com/j/88993716"
+  },
+  {
+   "title": "RF Wireless Testing Internship (PM Shift)",
+   "employer": "Ul Solutions",
+   "location": "Fremont, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$21/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:36",
+   "url": "https://veritahire.com/j/88973778"
+  },
+  {
+   "title": "Intern, Hotel Refurbishment and ADA",
+   "employer": "Holland America Group",
+   "location": "Seattle, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25–$30/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:34",
+   "url": "https://veritahire.com/j/88971012"
+  },
+  {
+   "title": "Sr Inbound Product Manager Intern (MBA Summer 2027)",
+   "employer": "ServiceNow",
+   "location": "San Diego, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$55.46/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:36",
+   "url": "https://veritahire.com/j/88968418"
+  },
+  {
+   "title": "Strategic Operations Intern (Summer 2027 - Masters Degree)",
+   "employer": "ServiceNow",
+   "location": "Santa Clara, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$33.87/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:36",
+   "url": "https://veritahire.com/j/88968365"
+  },
+  {
+   "title": "AI Identity Intern",
+   "employer": "ServiceNow",
+   "location": "Kirkland, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$58.96/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:36",
+   "url": "https://veritahire.com/j/88968356"
+  },
+  {
+   "title": "Intern-Cook Gordon Ramsay",
+   "employer": "Caesars Entertainment",
+   "location": "Danville, VA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$15.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:28",
+   "url": "https://veritahire.com/j/88953981"
+  },
+  {
+   "title": "Cybersecurity Master's Intern",
+   "employer": "Kaiser Permanente",
+   "location": "Pasadena, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$31.05 - $40.13 / hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:05",
+   "url": "https://veritahire.com/j/88944736"
+  },
+  {
+   "title": "Rotational Accounting Internship - Summer 2027 - San Francisco",
+   "employer": "Frank, Rimerman + Co. LLP",
+   "location": "San Francisco, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$45-$49 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:33",
+   "url": "https://veritahire.com/j/88917108"
+  },
+  {
+   "title": "PMIC Analog Intern",
+   "employer": "Idt - Integrated Device Technology, Inc.(acquired By Renesas)",
+   "location": "San Jose, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$37.25–$47.75/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:23",
+   "url": "https://veritahire.com/j/88900376"
+  },
+  {
+   "title": "MEP Engineering Intern",
+   "employer": "Drmp, Inc.",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$24.00 - $27.00 / hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:10",
+   "url": "https://veritahire.com/j/88873545"
+  },
+  {
+   "title": "Networks NPI Intern",
+   "employer": "Ericsson",
+   "location": "Bellevue, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$28–$44/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:53",
+   "url": "https://veritahire.com/j/88863313"
+  },
+  {
+   "title": "Quality Assurance Intern (74456)",
+   "employer": "Ventura Coastal, LLC",
+   "location": "Tipton Plant - Tipton, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$19.00 - $19.00 Hourly",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:50",
+   "url": "https://veritahire.com/j/88860953"
+  },
+  {
+   "title": "Field Project Management Interns",
+   "employer": "Otis Elevator Co.",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22–$26/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:39",
+   "url": "https://veritahire.com/j/88841675"
+  },
+  {
+   "title": "Logistics Intern",
+   "employer": "American Standard Heating & Air Conditioning",
+   "location": "Davidson, NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$20.50–$28/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:24",
+   "url": "https://veritahire.com/j/88836873"
+  },
+  {
+   "title": "Product Management Engineering Co-op",
+   "employer": "American Standard Heating & Air Conditioning",
+   "location": "Grand Rapids, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$25.50/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:24",
+   "url": "https://veritahire.com/j/88836154"
+  },
+  {
+   "title": "ADMINISTRATIVE INTERN (NON-CAREER) - HUMAN RESOURCES",
+   "employer": "City of Long Beach",
+   "location": "Long Beach, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25.08/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:24",
+   "url": "https://veritahire.com/j/88835717"
+  },
+  {
+   "title": "Intern",
+   "employer": "Miyamoto International",
+   "location": "Los Angeles, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$29.00-$32.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:11",
+   "url": "https://veritahire.com/j/88827439"
+  },
   {
    "title": "Accounts Payable Intern",
    "employer": "Schreiber Foods",
@@ -14,19 +905,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.75/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:45",
+   "last_confirmed": "2026-11-14 19:05",
    "url": "https://veritahire.com/j/88810198"
-  },
-  {
-   "title": "Co-op: Manufacturing Engineer",
-   "employer": "Eaton",
-   "location": "TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$22.15 - $27.69 per hour",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:42",
-   "url": "https://veritahire.com/j/88808671"
   },
   {
    "title": "Co-op: Quality",
@@ -36,8 +916,19 @@
    "employment_type": "full_time",
    "pay_as_posted": "$22.15 - $27.69 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:42",
+   "last_confirmed": "2026-11-14 19:04",
    "url": "https://veritahire.com/j/88808661"
+  },
+  {
+   "title": "Co-op: Manufacturing Engineer",
+   "employer": "Eaton",
+   "location": "TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$22.15 - $27.69 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:04",
+   "url": "https://veritahire.com/j/88808671"
   },
   {
    "title": "Co-op: Continuous Improvement",
@@ -47,19 +938,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$22.15 - $27.69 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:42",
+   "last_confirmed": "2026-11-14 19:04",
    "url": "https://veritahire.com/j/88808651"
-  },
-  {
-   "title": "CA Building Group Intern - Engineer",
-   "employer": "Sundt Construction",
-   "location": "Irvine, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$18.00 - $30.00 hourly",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:35",
-   "url": "https://veritahire.com/j/88799512"
   },
   {
    "title": "CA Building Group Intern - Estimating",
@@ -69,8 +949,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$18-$30 hourly",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:35",
+   "last_confirmed": "2026-11-14 18:55",
    "url": "https://veritahire.com/j/88799494"
+  },
+  {
+   "title": "CA Building Group Intern - Engineer",
+   "employer": "Sundt Construction",
+   "location": "Irvine, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$18.00 - $30.00 hourly",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 18:55",
+   "url": "https://veritahire.com/j/88799512"
   },
   {
    "title": "Intern - Credit Solutions",
@@ -80,7 +971,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25/hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:18",
+   "last_confirmed": "2026-11-14 18:35",
    "url": "https://veritahire.com/j/88786481"
   },
   {
@@ -91,7 +982,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.25–$30.75/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:17",
+   "last_confirmed": "2026-11-14 18:33",
    "url": "https://veritahire.com/j/88785168"
   },
   {
@@ -102,7 +993,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$42K–$56K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:17",
+   "last_confirmed": "2026-11-14 18:33",
    "url": "https://veritahire.com/j/88785167"
   },
   {
@@ -113,7 +1004,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$37K–$49K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:17",
+   "last_confirmed": "2026-11-14 18:33",
    "url": "https://veritahire.com/j/88785165"
   },
   {
@@ -124,19 +1015,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$25/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:16",
+   "last_confirmed": "2026-11-15 05:33",
    "url": "https://veritahire.com/j/88783066"
-  },
-  {
-   "title": "General IT Intern",
-   "employer": "International Paint and Akzonobel - West Africa",
-   "location": "Lisle, IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$27-$32 per hour",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:48",
-   "url": "https://veritahire.com/j/88766230"
   },
   {
    "title": "Digital & AI Intern for Service Solutions",
@@ -146,19 +1026,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$27-$32 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:48",
+   "last_confirmed": "2026-11-14 20:24",
    "url": "https://veritahire.com/j/88766227"
   },
   {
-   "title": "2027 Internship - Mechanical Engineering Intern",
-   "employer": "The Johns Hopkins University Applied Physics Laboratory",
-   "location": "Laurel, MD",
+   "title": "General IT Intern",
+   "employer": "International Paint and Akzonobel - West Africa",
+   "location": "Lisle, IL",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$22.60 Hourly",
+   "pay_as_posted": "$27-$32 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:36",
-   "url": "https://veritahire.com/j/88758534"
+   "last_confirmed": "2026-11-14 20:24",
+   "url": "https://veritahire.com/j/88766230"
   },
   {
    "title": "2027 Internship - Mechanical Fabrication Intern",
@@ -168,41 +1048,41 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.60 Hourly",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:36",
+   "last_confirmed": "2026-11-14 19:30",
    "url": "https://veritahire.com/j/88758532"
+  },
+  {
+   "title": "2027 Internship - Mechanical Engineering Intern",
+   "employer": "The Johns Hopkins University Applied Physics Laboratory",
+   "location": "Laurel, MD",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22.60 Hourly",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:30",
+   "url": "https://veritahire.com/j/88758534"
   },
   {
    "title": "Branch Operations Intern",
    "employer": "Republic Finance",
-   "location": "Pearl, MS",
+   "location": "Attalla, AL",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": "$15.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:07",
-   "url": "https://veritahire.com/j/88758518"
+   "last_confirmed": "2026-11-14 17:48",
+   "url": "https://veritahire.com/j/88758513"
   },
   {
-   "title": "Summer Intern 2027, Process Chemistry",
+   "title": "Summer Intern 2027, OSD Process Data Analytics",
    "employer": "Vertex Pharmaceuticals",
    "location": "Boston, MA",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": "$23–$32/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:36",
-   "url": "https://veritahire.com/j/88758020"
-  },
-  {
-   "title": "Summer Intern 2027, Process Chemistry, MSAT - PhD",
-   "employer": "Vertex Pharmaceuticals",
-   "location": "Boston, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$30–$50/hr",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:36",
-   "url": "https://veritahire.com/j/88757995"
+   "last_confirmed": "2026-11-14 17:47",
+   "url": "https://veritahire.com/j/88757931"
   },
   {
    "title": "Summer Intern 2027, Material Science",
@@ -212,8 +1092,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$23–$32/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:36",
+   "last_confirmed": "2026-11-14 17:47",
    "url": "https://veritahire.com/j/88757962"
+  },
+  {
+   "title": "Summer Intern 2027, Process Chemistry, MSAT - PhD",
+   "employer": "Vertex Pharmaceuticals",
+   "location": "Boston, MA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$30–$50/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:47",
+   "url": "https://veritahire.com/j/88757995"
   },
   {
    "title": "ComEd Innovation Intern",
@@ -223,7 +1114,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20.00/Hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:29",
+   "last_confirmed": "2026-11-14 20:23",
    "url": "https://veritahire.com/j/88751325"
   },
   {
@@ -234,7 +1125,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20.00/Hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:29",
+   "last_confirmed": "2026-11-14 20:23",
    "url": "https://veritahire.com/j/88751324"
   },
   {
@@ -245,7 +1136,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27–$28/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:25",
+   "last_confirmed": "2026-11-14 17:46",
    "url": "https://veritahire.com/j/88750046"
   },
   {
@@ -256,7 +1147,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.00 to $20.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:15",
+   "last_confirmed": "2026-11-14 18:14",
    "url": "https://veritahire.com/j/88746274"
   },
   {
@@ -267,8 +1158,8 @@
    "employment_type": "part_time",
    "pay_as_posted": "$25.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:14",
-   "url": "https://veritahire.com/j/88745445"
+   "last_confirmed": "2026-11-14 17:32",
+   "url": "https://veritahire.com/j/88745442"
   },
   {
    "title": "Sales Enablement Intern",
@@ -278,19 +1169,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.00 - $27.50 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:12",
+   "last_confirmed": "2026-11-14 20:08",
    "url": "https://veritahire.com/j/88743946"
-  },
-  {
-   "title": "Pharmacy Intern",
-   "employer": "Oak Street Health",
-   "location": "Nassau Bay, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20–$23.75/hr",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:04",
-   "url": "https://veritahire.com/j/88741917"
   },
   {
    "title": "Pharmacy Intern, Hillman Center Retail Pharmacy",
@@ -300,7 +1180,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$ 19.8-30.4 USD",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:53",
+   "last_confirmed": "2026-11-14 17:11",
    "url": "https://veritahire.com/j/88734898"
   },
   {
@@ -311,7 +1191,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:49",
+   "last_confirmed": "2026-11-14 17:12",
    "url": "https://veritahire.com/j/88732956"
   },
   {
@@ -322,7 +1202,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$46K–$92K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:32",
+   "last_confirmed": "2026-11-14 16:47",
    "url": "https://veritahire.com/j/88719273"
   },
   {
@@ -333,7 +1213,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:25",
+   "last_confirmed": "2026-11-14 16:47",
    "url": "https://veritahire.com/j/88714198"
   },
   {
@@ -344,7 +1224,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$31/hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:25",
+   "last_confirmed": "2026-11-14 16:47",
    "url": "https://veritahire.com/j/88714187"
   },
   {
@@ -355,7 +1235,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.50/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:24",
+   "last_confirmed": "2026-11-15 05:39",
    "url": "https://veritahire.com/j/88712245"
   },
   {
@@ -366,7 +1246,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20 - $23 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:23",
+   "last_confirmed": "2026-11-15 05:30",
    "url": "https://veritahire.com/j/88710905"
   },
   {
@@ -377,19 +1257,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$19.50/Hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:18",
+   "last_confirmed": "2026-11-15 05:29",
    "url": "https://veritahire.com/j/88698111"
-  },
-  {
-   "title": "2027 Spring Intern - Population Health Engagement Activation and Operations",
-   "employer": "Roche",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$24.00-$50.00 per hour",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:48",
-   "url": "https://veritahire.com/j/88686761"
   },
   {
    "title": "2027 Summer Intern - Translational Pharmacokinetics & Pharmacodynamics (tPKPD): QSP Modeling in Cardiovascular, Renal and Metabolic Diseases",
@@ -399,8 +1268,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$52.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:48",
+   "last_confirmed": "2026-11-15 04:58",
    "url": "https://veritahire.com/j/88686757"
+  },
+  {
+   "title": "2027 Spring Intern - Population Health Engagement Activation and Operations",
+   "employer": "Roche",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$24.00-$50.00 per hour",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 04:58",
+   "url": "https://veritahire.com/j/88686761"
   },
   {
    "title": "Co-Op Branch Teller (Students Only)",
@@ -410,7 +1290,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$15/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:30",
+   "last_confirmed": "2026-11-15 05:39",
    "url": "https://veritahire.com/j/88683918"
   },
   {
@@ -421,7 +1301,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$100K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:30",
+   "last_confirmed": "2026-11-15 05:39",
    "url": "https://veritahire.com/j/88683912"
   },
   {
@@ -432,7 +1312,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18 an hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:27",
+   "last_confirmed": "2026-11-15 05:34",
    "url": "https://veritahire.com/j/88682648"
   },
   {
@@ -443,7 +1323,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$23.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:26",
+   "last_confirmed": "2026-11-15 04:38",
    "url": "https://veritahire.com/j/88681860"
   },
   {
@@ -454,7 +1334,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$94K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:26",
+   "last_confirmed": "2026-11-15 05:33",
    "url": "https://veritahire.com/j/88681300"
   },
   {
@@ -465,7 +1345,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$30 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:24",
+   "last_confirmed": "2026-11-15 05:32",
    "url": "https://veritahire.com/j/88679663"
   },
   {
@@ -476,7 +1356,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$25/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:23",
+   "last_confirmed": "2026-11-15 04:43",
    "url": "https://veritahire.com/j/88679180"
   },
   {
@@ -487,7 +1367,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$24–$40/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:22",
+   "last_confirmed": "2026-11-15 04:36",
    "url": "https://veritahire.com/j/88677976"
   },
   {
@@ -498,7 +1378,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$43K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:22",
+   "last_confirmed": "2026-11-15 04:40",
    "url": "https://veritahire.com/j/88677947"
   },
   {
@@ -509,7 +1389,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$20.04–$29.07/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:21",
+   "last_confirmed": "2026-11-15 04:34",
    "url": "https://veritahire.com/j/88672524"
   },
   {
@@ -520,7 +1400,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$47.00-$52.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:16",
+   "last_confirmed": "2026-11-15 04:34",
    "url": "https://veritahire.com/j/88667890"
   },
   {
@@ -531,19 +1411,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$25.80–$47.80/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:04",
+   "last_confirmed": "2026-11-15 04:28",
    "url": "https://veritahire.com/j/88661764"
   },
   {
-   "title": "Mixed-Signal Design Intern",
+   "title": "Indirect Procurement Intern",
    "employer": "Rambus",
    "location": "San Jose, CA",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$32.20–$59.80/hr",
+   "pay_as_posted": "$25.80–$47.80/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:04",
-   "url": "https://veritahire.com/j/88661762"
+   "last_confirmed": "2026-11-15 04:28",
+   "url": "https://veritahire.com/j/88661761"
   },
   {
    "title": "Athletics Intern (Sports Nutrition - Football)",
@@ -553,7 +1433,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$14–$21/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:04",
+   "last_confirmed": "2026-11-15 04:28",
    "url": "https://veritahire.com/j/88661551"
   },
   {
@@ -564,19 +1444,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.50 to $29.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:03",
+   "last_confirmed": "2026-11-15 04:28",
    "url": "https://veritahire.com/j/88660802"
-  },
-  {
-   "title": "Intern Ops - Engineering",
-   "employer": "American Water",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22.00 per hour",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:56",
-   "url": "https://veritahire.com/j/88658873"
   },
   {
    "title": "Intern Operations",
@@ -586,19 +1455,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$30–$34/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:56",
+   "last_confirmed": "2026-11-15 04:08",
    "url": "https://veritahire.com/j/88658872"
   },
   {
-   "title": "Internship - Mechatronics Engineer",
-   "employer": "ASML",
-   "location": "Wilton, CT",
+   "title": "Intern Ops - Engineering",
+   "employer": "American Water",
+   "location": "IL",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$18.00 to $48.00 per hour",
+   "pay_as_posted": "$22.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:51",
-   "url": "https://veritahire.com/j/88657848"
+   "last_confirmed": "2026-11-15 04:08",
+   "url": "https://veritahire.com/j/88658873"
   },
   {
    "title": "Internship - Engineer (Defectivity, Materials & Contamination Analysis)",
@@ -608,30 +1477,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.00 to $48.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:51",
+   "last_confirmed": "2026-11-15 04:08",
    "url": "https://veritahire.com/j/88657847"
   },
   {
-   "title": "Engineering Internship",
-   "employer": "Conagra Brands",
-   "location": "Russellville, AR",
+   "title": "Internship - Mechatronics Engineer",
+   "employer": "ASML",
+   "location": "Wilton, CT",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$20/hr",
+   "pay_as_posted": "$18.00 to $48.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:38",
-   "url": "https://veritahire.com/j/88654605"
-  },
-  {
-   "title": "Civil Engineering Intern- Summer 2027",
-   "employer": "Zephyr Environmental Corporation",
-   "location": "Morristown, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$19–$30/hr",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:30",
-   "url": "https://veritahire.com/j/88652895"
+   "last_confirmed": "2026-11-15 04:08",
+   "url": "https://veritahire.com/j/88657848"
   },
   {
    "title": "Civil Engineering Intern - Winter 2027",
@@ -641,41 +1499,30 @@
    "employment_type": "internship",
    "pay_as_posted": "$19–$30/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:30",
+   "last_confirmed": "2026-11-15 03:48",
    "url": "https://veritahire.com/j/88652894"
   },
   {
-   "title": "MEP Engineering Intern - Summer 2027",
+   "title": "Civil Engineering Intern- Summer 2027",
    "employer": "Zephyr Environmental Corporation",
-   "location": "Los Angeles, CA",
+   "location": "Morristown, NJ",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$23.90–$32.22/hr",
+   "pay_as_posted": "$19–$30/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:30",
-   "url": "https://veritahire.com/j/88652893"
+   "last_confirmed": "2026-11-15 03:48",
+   "url": "https://veritahire.com/j/88652895"
   },
   {
-   "title": "Data & Quantitative Sciences Statistical Programming Intern - Summer 2027",
-   "employer": "Bristol Myers Squibb",
-   "location": "NJ",
+   "title": "Transportation Planning Intern - Summer 2027",
+   "employer": "Zephyr Environmental Corporation",
+   "location": "Boston, MA",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$32-$55/hour",
+   "pay_as_posted": "$20.87 - $30.53 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:29",
-   "url": "https://veritahire.com/j/88652879"
-  },
-  {
-   "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
-   "employer": "Amazon (corporate)",
-   "location": "Umatilla, OR",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$102K",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:26",
-   "url": "https://veritahire.com/j/88650772"
+   "last_confirmed": "2026-11-15 03:48",
+   "url": "https://veritahire.com/j/88652891"
   },
   {
    "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
@@ -685,8 +1532,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$102K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:26",
+   "last_confirmed": "2026-11-15 05:26",
    "url": "https://veritahire.com/j/88650771"
+  },
+  {
+   "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+   "employer": "Amazon (corporate)",
+   "location": "Umatilla, OR",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$102K",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:26",
+   "url": "https://veritahire.com/j/88650772"
   },
   {
    "title": "Summer Buying & Planning Internship",
@@ -696,30 +1554,30 @@
    "employment_type": "internship",
    "pay_as_posted": "$20/hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:19",
+   "last_confirmed": "2026-11-15 03:27",
    "url": "https://veritahire.com/j/88650740"
   },
   {
-   "title": "Summer eCommerce & Digital Internship",
+   "title": "Summer Finance Internship",
    "employer": "Tapestry",
    "location": "NY",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": "$20/hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:19",
-   "url": "https://veritahire.com/j/88650739"
+   "last_confirmed": "2026-11-15 03:27",
+   "url": "https://veritahire.com/j/88650736"
   },
   {
-   "title": "Summer Corporate Communications, Talent Acquisition, & Human Resources Internship",
+   "title": "Summer ESG, Sustainability, & Trade Compliance Internship",
    "employer": "Tapestry",
    "location": "NY",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": "$20/hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:19",
-   "url": "https://veritahire.com/j/88650738"
+   "last_confirmed": "2026-11-15 03:27",
+   "url": "https://veritahire.com/j/88650737"
   },
   {
    "title": "Product Management Intern - Summer 2027 - IntelliScript",
@@ -729,7 +1587,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$19–$43/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:48",
+   "last_confirmed": "2026-11-15 03:08",
    "url": "https://veritahire.com/j/88641733"
   },
   {
@@ -740,7 +1598,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22-$25 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:47",
+   "last_confirmed": "2026-11-15 03:06",
    "url": "https://veritahire.com/j/88641561"
   },
   {
@@ -751,19 +1609,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$35.38/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:47",
+   "last_confirmed": "2026-11-15 03:10",
    "url": "https://veritahire.com/j/88640816"
-  },
-  {
-   "title": "Pharmacy Intern Grad",
-   "employer": "Walgreens",
-   "location": "Flowood, MS",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$60.90–$82.30/hr",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:52",
-   "url": "https://veritahire.com/j/88640784"
   },
   {
    "title": "Community Management Intern",
@@ -773,7 +1620,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$17.00 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:52",
+   "last_confirmed": "2026-11-15 03:22",
    "url": "https://veritahire.com/j/88640536"
   },
   {
@@ -784,30 +1631,30 @@
    "employment_type": "internship",
    "pay_as_posted": "$26.00 Hourly",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:34",
+   "last_confirmed": "2026-11-15 02:44",
    "url": "https://veritahire.com/j/88634592"
-  },
-  {
-   "title": "R&D Intern, Polymer Composite Formulation & Processing",
-   "employer": "AZEK Company",
-   "location": "Wilmington, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20 to $25 per hour",
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:28",
-   "url": "https://veritahire.com/j/88621758"
   },
   {
    "title": "2027 SARC/ACL R&D Internship Program - Multiple Engineering Teams",
    "employer": "Samsung Semiconductor",
-   "location": "San Jose, CA",
+   "location": "Austin, TX",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": "$38.40–$63.60/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:27",
-   "url": "https://veritahire.com/j/88619642"
+   "last_confirmed": "2026-11-15 02:37",
+   "url": "https://veritahire.com/j/88619641"
+  },
+  {
+   "title": "PHARMACY/PHARMCST-INTERN",
+   "employer": "Kroger",
+   "location": "Rincon, GA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$28.25–$31.50/hr",
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 04:30",
+   "url": "https://veritahire.com/j/88619305"
   },
   {
    "title": "University - Summer 27, Contracts Intern",
@@ -817,7 +1664,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$48K–$98K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:25",
+   "last_confirmed": "2026-11-15 02:38",
    "url": "https://veritahire.com/j/88619045"
   },
   {
@@ -828,7 +1675,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$48K–$98K",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:25",
+   "last_confirmed": "2026-11-15 02:38",
    "url": "https://veritahire.com/j/88619023"
   },
   {
@@ -839,7 +1686,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$17.90-$25.50 per hour",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:15",
+   "last_confirmed": "2026-11-15 02:29",
    "url": "https://veritahire.com/j/88614850"
   },
   {
@@ -850,19 +1697,591 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.50–$28.75/hr",
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:11",
+   "last_confirmed": "2026-11-15 02:31",
    "url": "https://veritahire.com/j/88612536"
   },
   {
-   "title": "Intern",
-   "employer": "Merakey",
-   "location": "Coraopolis, PA",
+   "title": "Intern, Campus Visits & Outreach",
+   "employer": "The Texas A&M University System",
+   "location": "San Antonio, TX",
    "remote": false,
    "employment_type": "internship",
-   "pay_as_posted": "$15/hour",
+   "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:08",
-   "url": "https://veritahire.com/j/88609375"
+   "last_confirmed": "2026-11-14 22:28",
+   "url": "https://veritahire.com/j/89725006"
+  },
+  {
+   "title": "Finance Intern - Summer 2027",
+   "employer": "California State University-east Bay",
+   "location": "Green Bay, WI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:20",
+   "url": "https://veritahire.com/j/89720743"
+  },
+  {
+   "title": "Intern",
+   "employer": "Terracon",
+   "location": "Cincinnati, OH",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:07",
+   "url": "https://veritahire.com/j/89711146"
+  },
+  {
+   "title": "Summer 2027 Intern - Building Planning - RBOPS",
+   "employer": "American Sentinel University",
+   "location": "This role is in Washington, DC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:31",
+   "url": "https://veritahire.com/j/89646105"
+  },
+  {
+   "title": "Management Internship",
+   "employer": "Menards",
+   "location": "KANSAS CITY, MO",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:02",
+   "url": "https://veritahire.com/j/89598911"
+  },
+  {
+   "title": "Retail Tech/AP Intern",
+   "employer": "Little Caesars",
+   "location": "Detroit, MI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:23",
+   "url": "https://veritahire.com/j/89581321"
+  },
+  {
+   "title": "Finance Intern",
+   "employer": "Little Caesars",
+   "location": "Detroit, MI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:23",
+   "url": "https://veritahire.com/j/89581323"
+  },
+  {
+   "title": "Research & Development/Quality Assurance Intern",
+   "employer": "Little Caesars",
+   "location": "Detroit, MI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:23",
+   "url": "https://veritahire.com/j/89581310"
+  },
+  {
+   "title": "intern, beverage",
+   "employer": "Genencor International",
+   "location": "South Brunswick, NJ",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:14",
+   "url": "https://veritahire.com/j/89570767"
+  },
+  {
+   "title": "Intern - Frozen and Dairy",
+   "employer": "Genencor International",
+   "location": "KS (Lab), KS",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:14",
+   "url": "https://veritahire.com/j/89570770"
+  },
+  {
+   "title": "Intern, Beverage Design",
+   "employer": "Genencor International",
+   "location": "Tastepoint South, PA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:14",
+   "url": "https://veritahire.com/j/89570765"
+  },
+  {
+   "title": "Technology Business Management Planning Intern",
+   "employer": "HUB",
+   "location": "Chicago, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 18:30",
+   "url": "https://veritahire.com/j/89526754"
+  },
+  {
+   "title": "Business Lending Internship",
+   "employer": "Mountain America Credit Union",
+   "location": "Sandy, UT",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 18:18",
+   "url": "https://veritahire.com/j/89517459"
+  },
+  {
+   "title": "Controls Tech Intern",
+   "employer": "BD",
+   "location": "NE",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:58",
+   "url": "https://veritahire.com/j/89504814"
+  },
+  {
+   "title": "Sales Intern (Paid)",
+   "employer": "UR",
+   "location": "Abilene, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:10",
+   "url": "https://veritahire.com/j/89466132"
+  },
+  {
+   "title": "Internal Communications Intern - Summer 2027",
+   "employer": "Rocket Companies",
+   "location": "Detroit, MI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:07",
+   "url": "https://veritahire.com/j/89453183"
+  },
+  {
+   "title": "Post Closing Audit Intern - Summer 2027",
+   "employer": "Rocket Companies",
+   "location": "Detroit, MI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:07",
+   "url": "https://veritahire.com/j/89453196"
+  },
+  {
+   "title": "Final Docs Intern - Summer 2027",
+   "employer": "Rocket Companies",
+   "location": "Detroit, MI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:07",
+   "url": "https://veritahire.com/j/89453215"
+  },
+  {
+   "title": "Intern, Campus Visits & Outreach",
+   "employer": "Texas A&m University-san Antonio",
+   "location": "San Antonio, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:21",
+   "url": "https://veritahire.com/j/89315622"
+  },
+  {
+   "title": "2027 Tax Summer Intern - Private Client Services (PCS)",
+   "employer": "EisnerAmper",
+   "location": "IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:08",
+   "url": "https://veritahire.com/j/89272013"
+  },
+  {
+   "title": "AI Intern",
+   "employer": "Hyperion Materials & Technologies",
+   "location": "OH",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:14",
+   "url": "https://veritahire.com/j/89271826"
+  },
+  {
+   "title": "Intelligence Launch Intern - Summer 2027",
+   "employer": "CrowdStrike",
+   "location": "USA - Arlington, VA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 04:07",
+   "url": "https://veritahire.com/j/89253828"
+  },
+  {
+   "title": "HR Intern",
+   "employer": "Mann+Hummel",
+   "location": "NC",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 03:47",
+   "url": "https://veritahire.com/j/89249546"
+  },
+  {
+   "title": "Human Resources Intern",
+   "employer": "Vermeer Corporation",
+   "location": "IA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 03:36",
+   "url": "https://veritahire.com/j/89248973"
+  },
+  {
+   "title": "Food & Beverage Internship 2027",
+   "employer": "Wilderness Resort In Wisconsin Dells",
+   "location": "Wisconsin Dells, WI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 00:23",
+   "url": "https://veritahire.com/j/89145551"
+  },
+  {
+   "title": "Accounting Internship Summer 2027",
+   "employer": "Wilderness Resort In Wisconsin Dells",
+   "location": "Wisconsin Dells, WI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 00:23",
+   "url": "https://veritahire.com/j/89145554"
+  },
+  {
+   "title": "Aquatics Internship Summer 2027",
+   "employer": "Wilderness Resort In Wisconsin Dells",
+   "location": "Wisconsin Dells, WI",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 00:23",
+   "url": "https://veritahire.com/j/89145555"
+  },
+  {
+   "title": "Feature Integration Intern [Summer 2027]",
+   "employer": "Zoox",
+   "location": "Foster City, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 23:52",
+   "url": "https://veritahire.com/j/89100373"
+  },
+  {
+   "title": "Industrial Design Intern [Summer 2027]",
+   "employer": "Zoox",
+   "location": "Foster City, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 23:52",
+   "url": "https://veritahire.com/j/89100382"
+  },
+  {
+   "title": "Technology Business Management Planning Intern",
+   "employer": "Hub International",
+   "location": "Chicago, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 23:51",
+   "url": "https://veritahire.com/j/89084876"
+  },
+  {
+   "title": "Pharmacist Intern, Casual - Inpatient Hospital",
+   "employer": "Hennepin Ems",
+   "location": "Minneapolis, MN",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:46",
+   "url": "https://veritahire.com/j/89024871"
+  },
+  {
+   "title": "Engineering Intern",
+   "employer": "Alliance Technical Group",
+   "location": "Baton Rouge, LA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:31",
+   "url": "https://veritahire.com/j/89016753"
+  },
+  {
+   "title": "Software Power Systems Engineering Intern",
+   "employer": "Electric Power Engineers",
+   "location": "Austin, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:19",
+   "url": "https://veritahire.com/j/89008035"
+  },
+  {
+   "title": "Intern, Commercial Marketing",
+   "employer": "Carnival Corporation",
+   "location": "Miami, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:17",
+   "url": "https://veritahire.com/j/89002636"
+  },
+  {
+   "title": "Intern, Commercial Marketing",
+   "employer": "Holland America Group",
+   "location": "Miami, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:34",
+   "url": "https://veritahire.com/j/88971018"
+  },
+  {
+   "title": "Intern, Ecommerce Engineering",
+   "employer": "Holland America Group",
+   "location": "Fort Lauderdale, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:34",
+   "url": "https://veritahire.com/j/88971021"
+  },
+  {
+   "title": "Biochemistry Intern",
+   "employer": "Eurofins",
+   "location": "Lancaster, PA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 21:37",
+   "url": "https://veritahire.com/j/88968666"
+  },
+  {
+   "title": "Employee Concierge Intern, Summer 2027",
+   "employer": "Children's Healthcare of Atlanta",
+   "location": "Brookhaven, GA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:41",
+   "url": "https://veritahire.com/j/88922594"
+  },
+  {
+   "title": "Work Life Event Planning Intern, Summer 2027",
+   "employer": "Children's Healthcare of Atlanta",
+   "location": "Brookhaven, GA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:41",
+   "url": "https://veritahire.com/j/88922590"
+  },
+  {
+   "title": "Child Advocacy Programs Intern",
+   "employer": "Children's Healthcare of Atlanta",
+   "location": "Brookhaven, GA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:41",
+   "url": "https://veritahire.com/j/88922567"
+  },
+  {
+   "title": "Software Dev Engineer Intern",
+   "employer": "The Sygma Network",
+   "location": "Houston, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:24",
+   "url": "https://veritahire.com/j/88898063"
+  },
+  {
+   "title": "Leasing Community Intern",
+   "employer": "Cardinal Group Companies",
+   "location": "Berkeley, CA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:19",
+   "url": "https://veritahire.com/j/88893377"
+  },
+  {
+   "title": "AI Security Intern",
+   "employer": "Camping World",
+   "location": "Chicago, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:14",
+   "url": "https://veritahire.com/j/88880729"
+  },
+  {
+   "title": "IT Support Intern",
+   "employer": "Camping World",
+   "location": "Chicago, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:14",
+   "url": "https://veritahire.com/j/88880730"
+  },
+  {
+   "title": "Data Engineering Intern",
+   "employer": "Camping World",
+   "location": "Chicago, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:14",
+   "url": "https://veritahire.com/j/88880690"
+  },
+  {
+   "title": "2027 Summer Internship: Software Developer",
+   "employer": "Paccar",
+   "location": "TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:12",
+   "url": "https://veritahire.com/j/88876645"
+  },
+  {
+   "title": "Landscape Architecture Intern",
+   "employer": "Drmp, Inc.",
+   "location": "Rockford, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:10",
+   "url": "https://veritahire.com/j/88873549"
+  },
+  {
+   "title": "HR Intern",
+   "employer": "Carmeuse",
+   "location": "PITTSBURGH, PA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 20:10",
+   "url": "https://veritahire.com/j/88873408"
+  },
+  {
+   "title": "AI Software Engineer Intern",
+   "employer": "Ericsson",
+   "location": "Plano, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:53",
+   "url": "https://veritahire.com/j/88863310"
+  },
+  {
+   "title": "Intern",
+   "employer": "Clublife Management",
+   "location": "Jacksonville, FL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:52",
+   "url": "https://veritahire.com/j/88861636"
+  },
+  {
+   "title": "Intern, Intelligent Operations Technology",
+   "employer": "TC Energy",
+   "location": "Spokane, WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:22",
+   "url": "https://veritahire.com/j/88833883"
+  },
+  {
+   "title": "Life Sciences Marketing Intern",
+   "employer": "Ni (national Instruments)",
+   "location": "Round Rock, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:12",
+   "url": "https://veritahire.com/j/88824958"
+  },
+  {
+   "title": "Clinical Intern",
+   "employer": "Connections Wellness Group",
+   "location": "Plano, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 19:09",
+   "url": "https://veritahire.com/j/88818586"
   },
   {
    "title": "January 2027 Partial Hospitalization Internship",
@@ -872,19 +2291,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:46",
+   "last_confirmed": "2026-11-15 05:28",
    "url": "https://veritahire.com/j/88811515"
   },
   {
    "title": "Consulting Services Intern",
    "employer": "AECOM",
-   "location": "Chicago, IL",
+   "location": "Los Angeles, CA",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:46",
-   "url": "https://veritahire.com/j/88811497"
+   "last_confirmed": "2026-11-14 19:07",
+   "url": "https://veritahire.com/j/88811489"
   },
   {
    "title": "Landscape Architecture Design Intern",
@@ -894,7 +2313,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:46",
+   "last_confirmed": "2026-11-14 19:07",
    "url": "https://veritahire.com/j/88811447"
   },
   {
@@ -905,7 +2324,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:28",
+   "last_confirmed": "2026-11-14 18:52",
    "url": "https://veritahire.com/j/88790261"
   },
   {
@@ -916,7 +2335,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:26",
+   "last_confirmed": "2026-11-14 18:42",
    "url": "https://veritahire.com/j/88789047"
   },
   {
@@ -927,19 +2346,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:23",
+   "last_confirmed": "2026-11-14 22:00",
    "url": "https://veritahire.com/j/88787065"
-  },
-  {
-   "title": "Research Intern - AI Coding Agents",
-   "employer": "Microsoft",
-   "location": "WA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:23",
-   "url": "https://veritahire.com/j/88787056"
   },
   {
    "title": "Research Intern - MSR Software-Hardware Co-design",
@@ -949,8 +2357,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:23",
+   "last_confirmed": "2026-11-14 22:00",
    "url": "https://veritahire.com/j/88787050"
+  },
+  {
+   "title": "Research Intern - AI Coding Agents",
+   "employer": "Microsoft",
+   "location": "WA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 22:00",
+   "url": "https://veritahire.com/j/88787056"
   },
   {
    "title": "NDT-Intern",
@@ -960,7 +2379,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 05:16",
+   "last_confirmed": "2026-11-14 18:21",
    "url": "https://veritahire.com/j/88782800"
   },
   {
@@ -971,7 +2390,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:55",
+   "last_confirmed": "2026-11-14 19:11",
    "url": "https://veritahire.com/j/88772707"
   },
   {
@@ -982,7 +2401,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:37",
+   "last_confirmed": "2026-11-14 20:22",
    "url": "https://veritahire.com/j/88758961"
   },
   {
@@ -993,7 +2412,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:37",
+   "last_confirmed": "2026-11-14 18:20",
    "url": "https://veritahire.com/j/88758869"
   },
   {
@@ -1004,7 +2423,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:25",
+   "last_confirmed": "2026-11-14 17:46",
    "url": "https://veritahire.com/j/88750047"
   },
   {
@@ -1015,7 +2434,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:12",
+   "last_confirmed": "2026-11-14 17:33",
    "url": "https://veritahire.com/j/88744004"
   },
   {
@@ -1026,7 +2445,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 04:09",
+   "last_confirmed": "2026-11-14 17:18",
    "url": "https://veritahire.com/j/88743683"
   },
   {
@@ -1037,19 +2456,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:55",
+   "last_confirmed": "2026-11-14 17:08",
    "url": "https://veritahire.com/j/88735717"
-  },
-  {
-   "title": "Summer 2027 Sales & Marketing Research Intern",
-   "employer": "Mcgrath Rentcorp",
-   "location": "Dallas, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:55",
-   "url": "https://veritahire.com/j/88735464"
   },
   {
    "title": "Summer 2027 Construction Project Engineer Intern",
@@ -1059,8 +2467,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:55",
+   "last_confirmed": "2026-11-14 17:07",
    "url": "https://veritahire.com/j/88735463"
+  },
+  {
+   "title": "Summer 2027 Sales & Marketing Research Intern",
+   "employer": "Mcgrath Rentcorp",
+   "location": "Dallas, TX",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-14 17:07",
+   "url": "https://veritahire.com/j/88735464"
   },
   {
    "title": "Summer 2027 Transportation Analyst Intern",
@@ -1070,7 +2489,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:55",
+   "last_confirmed": "2026-11-14 17:07",
    "url": "https://veritahire.com/j/88735462"
   },
   {
@@ -1081,7 +2500,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:48",
+   "last_confirmed": "2026-11-14 17:12",
    "url": "https://veritahire.com/j/88732877"
   },
   {
@@ -1092,7 +2511,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:48",
+   "last_confirmed": "2026-11-14 16:57",
    "url": "https://veritahire.com/j/88732672"
   },
   {
@@ -1103,7 +2522,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:34",
+   "last_confirmed": "2026-11-14 16:43",
    "url": "https://veritahire.com/j/88720539"
   },
   {
@@ -1114,7 +2533,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:25",
+   "last_confirmed": "2026-11-14 16:47",
    "url": "https://veritahire.com/j/88713886"
   },
   {
@@ -1125,7 +2544,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:25",
+   "last_confirmed": "2026-11-14 16:47",
    "url": "https://veritahire.com/j/88713322"
   },
   {
@@ -1136,7 +2555,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:24",
+   "last_confirmed": "2026-11-15 05:44",
    "url": "https://veritahire.com/j/88712172"
   },
   {
@@ -1147,7 +2566,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:23",
+   "last_confirmed": "2026-11-15 05:30",
    "url": "https://veritahire.com/j/88710873"
   },
   {
@@ -1158,19 +2577,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:20",
+   "last_confirmed": "2026-11-15 05:30",
    "url": "https://veritahire.com/j/88698868"
-  },
-  {
-   "title": "Cyber AI Engineering Intern (Spring 2027)",
-   "employer": "Cert Division At the Software Engineering Institute",
-   "location": "Pittsburgh, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:04",
-   "url": "https://veritahire.com/j/88696309"
   },
   {
    "title": "Cybersecurity Engineer Intern (Spring 2027)",
@@ -1180,8 +2588,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:04",
+   "last_confirmed": "2026-11-15 05:21",
    "url": "https://veritahire.com/j/88696308"
+  },
+  {
+   "title": "Cyber AI Engineering Intern (Spring 2027)",
+   "employer": "Cert Division At the Software Engineering Institute",
+   "location": "Pittsburgh, PA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 05:21",
+   "url": "https://veritahire.com/j/88696309"
   },
   {
    "title": "Applied AI Research Intern - R&D Internship - 2027 - YORKTOWN HEIGHTS",
@@ -1191,7 +2610,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 03:04",
+   "last_confirmed": "2026-11-15 05:21",
    "url": "https://veritahire.com/j/88695868"
   },
   {
@@ -1202,7 +2621,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:43",
+   "last_confirmed": "2026-11-15 04:53",
    "url": "https://veritahire.com/j/88686381"
   },
   {
@@ -1213,30 +2632,30 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:22",
+   "last_confirmed": "2026-11-15 04:41",
    "url": "https://veritahire.com/j/88678927"
   },
   {
-   "title": "Intern - Customer Success & Services Intern",
+   "title": "Intern - Software Engineer (Systems)",
    "employer": "Instaclustr",
-   "location": "NC",
+   "location": "CA",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:22",
-   "url": "https://veritahire.com/j/88678924"
+   "last_confirmed": "2026-11-15 04:41",
+   "url": "https://veritahire.com/j/88678916"
   },
   {
-   "title": "Intern - Finance",
+   "title": "Intern - Software Engineer (Cloud)",
    "employer": "Instaclustr",
-   "location": "NC",
+   "location": "CA",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:22",
-   "url": "https://veritahire.com/j/88678923"
+   "last_confirmed": "2026-11-15 04:41",
+   "url": "https://veritahire.com/j/88678919"
   },
   {
    "title": "Mixed Signal EMIR Intern",
@@ -1246,7 +2665,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:04",
+   "last_confirmed": "2026-11-15 04:28",
    "url": "https://veritahire.com/j/88661763"
   },
   {
@@ -1257,7 +2676,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 02:03",
+   "last_confirmed": "2026-11-15 04:28",
    "url": "https://veritahire.com/j/88660801"
   },
   {
@@ -1268,7 +2687,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:51",
+   "last_confirmed": "2026-11-15 04:08",
    "url": "https://veritahire.com/j/88657851"
   },
   {
@@ -1279,7 +2698,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:38",
+   "last_confirmed": "2026-11-15 03:49",
    "url": "https://veritahire.com/j/88655316"
   },
   {
@@ -1290,8 +2709,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:18",
-   "url": "https://veritahire.com/j/88650715"
+   "last_confirmed": "2026-11-15 03:25",
+   "url": "https://veritahire.com/j/88650713"
   },
   {
    "title": "Paid Legislative Intern Financial Regulation - Temporary",
@@ -1301,7 +2720,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 01:04",
+   "last_confirmed": "2026-11-15 03:16",
    "url": "https://veritahire.com/j/88647316"
   },
   {
@@ -1312,7 +2731,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:35",
+   "last_confirmed": "2026-11-15 02:59",
    "url": "https://veritahire.com/j/88636432"
   },
   {
@@ -1323,30 +2742,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:31",
+   "last_confirmed": "2026-11-15 03:02",
    "url": "https://veritahire.com/j/88628927"
-  },
-  {
-   "title": "Pharmacy Student Intern",
-   "employer": "Albertsons",
-   "location": "Missoula, MT",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:31",
-   "url": "https://veritahire.com/j/88628709"
-  },
-  {
-   "title": "Cyber AI Engineering Intern (Spring 2027)",
-   "employer": "Carnegie Mellon University",
-   "location": "Pittsburgh, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:29",
-   "url": "https://veritahire.com/j/88622029"
   },
   {
    "title": "Cybersecurity Engineer Intern (Spring 2027)",
@@ -1356,8 +2753,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:29",
+   "last_confirmed": "2026-11-15 02:56",
    "url": "https://veritahire.com/j/88622028"
+  },
+  {
+   "title": "Cyber AI Engineering Intern (Spring 2027)",
+   "employer": "Carnegie Mellon University",
+   "location": "Pittsburgh, PA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-14",
+   "last_confirmed": "2026-11-15 02:56",
+   "url": "https://veritahire.com/j/88622029"
   },
   {
    "title": "Unpaid Counselor Internship",
@@ -1367,41 +2775,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:28",
+   "last_confirmed": "2026-11-15 03:03",
    "url": "https://veritahire.com/j/88621819"
-  },
-  {
-   "title": "PHARMACY/PHARMCST-INTERN",
-   "employer": "Kroger",
-   "location": "Rincon, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:26",
-   "url": "https://veritahire.com/j/88619305"
   },
   {
    "title": "Mortgage Loan Analyst - Internship",
    "employer": "The Standard",
-   "location": "Portland, OR",
+   "location": "Hillsboro, OR",
    "remote": false,
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:11",
-   "url": "https://veritahire.com/j/88612185"
-  },
-  {
-   "title": "IT Accounting Internship",
-   "employer": "The Standard",
-   "location": "Remote (OR)",
-   "remote": true,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:11",
-   "url": "https://veritahire.com/j/88612075"
+   "last_confirmed": "2026-11-15 02:26",
+   "url": "https://veritahire.com/j/88612184"
   },
   {
    "title": "Summer Intern - Technical",
@@ -1411,7 +2797,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:10",
+   "last_confirmed": "2026-11-15 02:30",
    "url": "https://veritahire.com/j/88611427"
   },
   {
@@ -1422,7 +2808,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:02",
+   "last_confirmed": "2026-11-15 02:23",
    "url": "https://veritahire.com/j/88604751"
   },
   {
@@ -1433,7 +2819,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-14",
-   "last_confirmed": "2026-11-14 00:01",
+   "last_confirmed": "2026-11-15 02:19",
    "url": "https://veritahire.com/j/88600170"
   },
   {
@@ -1444,7 +2830,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$30 - $32 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:45",
+   "last_confirmed": "2026-11-15 02:01",
    "url": "https://veritahire.com/j/88592214"
   },
   {
@@ -1455,7 +2841,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$25–$32.45/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:43",
+   "last_confirmed": "2026-11-15 02:01",
    "url": "https://veritahire.com/j/88592165"
   },
   {
@@ -1466,7 +2852,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$37.25–$47.75/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:43",
+   "last_confirmed": "2026-11-15 02:00",
    "url": "https://veritahire.com/j/88592037"
   },
   {
@@ -1477,7 +2863,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$17.75 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:39",
+   "last_confirmed": "2026-11-15 01:58",
    "url": "https://veritahire.com/j/88586442"
   },
   {
@@ -1488,19 +2874,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$18.40 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:31",
+   "last_confirmed": "2026-11-15 01:43",
    "url": "https://veritahire.com/j/88583528"
-  },
-  {
-   "title": "2027 Summer Internship - Data & Digital Finance Business Partner",
-   "employer": "Kaufman Hall",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:25",
-   "url": "https://veritahire.com/j/88581934"
   },
   {
    "title": "2027 Summer Internship - Kaufman Hall Marketing Team",
@@ -1510,8 +2885,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$25 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:25",
+   "last_confirmed": "2026-11-15 01:35",
    "url": "https://veritahire.com/j/88581932"
+  },
+  {
+   "title": "2027 Summer Internship - Data & Digital Finance Business Partner",
+   "employer": "Kaufman Hall",
+   "location": "Chicago, IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$25 per hour",
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:35",
+   "url": "https://veritahire.com/j/88581934"
   },
   {
    "title": "COOK INTERN",
@@ -1521,19 +2907,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$13.00 - $15.00 Hourly",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:15",
+   "last_confirmed": "2026-11-15 01:24",
    "url": "https://veritahire.com/j/88574248"
-  },
-  {
-   "title": "Physical Design, Intern (Summer 2027)",
-   "employer": "Lightmatter",
-   "location": "Boston, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$50–$55/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:10",
-   "url": "https://veritahire.com/j/88569128"
   },
   {
    "title": "Hardware Test Engineering, Intern (Summer 2027)",
@@ -1543,8 +2918,19 @@
    "employment_type": "internship",
    "pay_as_posted": "$43–$47/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:10",
+   "last_confirmed": "2026-11-15 01:23",
    "url": "https://veritahire.com/j/88569126"
+  },
+  {
+   "title": "Physical Design, Intern (Summer 2027)",
+   "employer": "Lightmatter",
+   "location": "Boston, MA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$50–$55/hr",
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:23",
+   "url": "https://veritahire.com/j/88569128"
   },
   {
    "title": "Legal Intern - Winter 2027",
@@ -1554,7 +2940,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$30 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:10",
+   "last_confirmed": "2026-11-15 01:23",
    "url": "https://veritahire.com/j/88568955"
   },
   {
@@ -1565,7 +2951,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$30.00/hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:10",
+   "last_confirmed": "2026-11-15 01:23",
    "url": "https://veritahire.com/j/88568932"
   },
   {
@@ -1576,7 +2962,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$52.00 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:09",
+   "last_confirmed": "2026-11-15 01:22",
    "url": "https://veritahire.com/j/88568495"
   },
   {
@@ -1587,30 +2973,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$17.00 to $22.00 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:06",
+   "last_confirmed": "2026-11-15 01:24",
    "url": "https://veritahire.com/j/88564615"
-  },
-  {
-   "title": "Transportation Civil Engineering Rotational Intern",
-   "employer": "Ecm A Jmt Division",
-   "location": "DC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22–$27/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:05",
-   "url": "https://veritahire.com/j/88564481"
-  },
-  {
-   "title": "Mechanical Engineering Intern",
-   "employer": "Ecm A Jmt Division",
-   "location": "Hunt Valley, MD",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22–$27/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:05",
-   "url": "https://veritahire.com/j/88564479"
   },
   {
    "title": "Buildings and Facilities Engineering Rotational Intern",
@@ -1620,8 +2984,30 @@
    "employment_type": "internship",
    "pay_as_posted": "$22–$27/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:05",
+   "last_confirmed": "2026-11-15 01:17",
    "url": "https://veritahire.com/j/88564478"
+  },
+  {
+   "title": "Mechanical Engineering Intern",
+   "employer": "Ecm A Jmt Division",
+   "location": "Hunt Valley, MD",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22–$27/hr",
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:17",
+   "url": "https://veritahire.com/j/88564479"
+  },
+  {
+   "title": "Transportation Civil Engineering Rotational Intern",
+   "employer": "Ecm A Jmt Division",
+   "location": "Hunt Valley, MD",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": "$22–$27/hr",
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:17",
+   "url": "https://veritahire.com/j/88564480"
   },
   {
    "title": "Wealth Management Intern",
@@ -1631,7 +3017,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:00",
+   "last_confirmed": "2026-11-15 01:13",
    "url": "https://veritahire.com/j/88546624"
   },
   {
@@ -1642,7 +3028,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$17.00 - $26.71 per hour",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:58",
+   "last_confirmed": "2026-11-15 01:14",
    "url": "https://veritahire.com/j/88544460"
   },
   {
@@ -1653,7 +3039,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$22.00 to $24.00 Hourly",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:55",
+   "last_confirmed": "2026-11-15 01:14",
    "url": "https://veritahire.com/j/88541205"
   },
   {
@@ -1664,7 +3050,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$17.02 - $17.02 Hourly",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:54",
+   "last_confirmed": "2026-11-15 01:02",
    "url": "https://veritahire.com/j/88540495"
   },
   {
@@ -1675,7 +3061,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$22/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:53",
+   "last_confirmed": "2026-11-15 01:05",
    "url": "https://veritahire.com/j/88539667"
   },
   {
@@ -1686,7 +3072,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$33/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:52",
+   "last_confirmed": "2026-11-15 01:03",
    "url": "https://veritahire.com/j/88538610"
   },
   {
@@ -1697,679 +3083,8 @@
    "employment_type": "internship",
    "pay_as_posted": "$18–$28/hr",
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:51",
+   "last_confirmed": "2026-11-15 01:03",
    "url": "https://veritahire.com/j/88538577"
-  },
-  {
-   "title": "Pharmacy Intern",
-   "employer": "CVS Health",
-   "location": "Princeton, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20–$23.75/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:48",
-   "url": "https://veritahire.com/j/88534536"
-  },
-  {
-   "title": "Civil Engineering, Hydropower Intern - MN, WI",
-   "employer": "Xcel Energy",
-   "location": "WI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21.20 to $24.60 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:43",
-   "url": "https://veritahire.com/j/88517296"
-  },
-  {
-   "title": "Project Engineer Intern",
-   "employer": "The Boldt Company",
-   "location": "Eau Claire, WI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$ 21 to $25 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:42",
-   "url": "https://veritahire.com/j/88515683"
-  },
-  {
-   "title": "Finance Intern",
-   "employer": "Cirrus",
-   "location": "MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$23.00/Hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:41",
-   "url": "https://veritahire.com/j/88514367"
-  },
-  {
-   "title": "Clinical Intern",
-   "employer": "The Resource Group, Spend Management Solutions",
-   "location": "Murfreesboro, TN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$16.89 - $19.82 an hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:24",
-   "url": "https://veritahire.com/j/88501192"
-  },
-  {
-   "title": "Embedded Software Engineer Intern - Lidar",
-   "employer": "Aurora Innovation",
-   "location": "Bozeman, MT",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$52.00 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:17",
-   "url": "https://veritahire.com/j/88500995"
-  },
-  {
-   "title": "Legal Intern",
-   "employer": "Menlo Security",
-   "location": "Mountain View, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$30 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:13",
-   "url": "https://veritahire.com/j/88500206"
-  },
-  {
-   "title": "Events Intern",
-   "employer": "Chicago Sun-Times",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:13",
-   "url": "https://veritahire.com/j/88500154"
-  },
-  {
-   "title": "High School Intern",
-   "employer": "Hatzel and Buehler, Inc",
-   "location": "Sharpsburg, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$15.00 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:12",
-   "url": "https://veritahire.com/j/88499076"
-  },
-  {
-   "title": "Accounting Intern",
-   "employer": "Dual North America",
-   "location": "MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22.00/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:03",
-   "url": "https://veritahire.com/j/88491195"
-  },
-  {
-   "title": "Operations Intern",
-   "employer": "Dual North America",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22.00/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:03",
-   "url": "https://veritahire.com/j/88491193"
-  },
-  {
-   "title": "Law Clerk Internship, Summer 2027",
-   "employer": "Cheyenne International",
-   "location": "Arden Hills, MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25.00/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:02",
-   "url": "https://veritahire.com/j/88490724"
-  },
-  {
-   "title": "Spring 2027 Visual Merchandising Internship",
-   "employer": "tarte cosmetics",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:02",
-   "url": "https://veritahire.com/j/88490301"
-  },
-  {
-   "title": "Spring 2027 Supply Chain Internship",
-   "employer": "tarte cosmetics",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:02",
-   "url": "https://veritahire.com/j/88490300"
-  },
-  {
-   "title": "Spring 2027 Social Media Intern to Founder & CEO",
-   "employer": "tarte cosmetics",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:02",
-   "url": "https://veritahire.com/j/88490299"
-  },
-  {
-   "title": "Capital Improvement Program Delivery Intern (Water Resources)",
-   "employer": "Gwinnett County Sheriff's Office",
-   "location": "Gwinnett, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20.36 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:01",
-   "url": "https://veritahire.com/j/88489373"
-  },
-  {
-   "title": "Corporate Tax Intern - CSL",
-   "employer": "Carlisle Construction Materials",
-   "location": "Scottsdale, AZ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22-$23/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:59",
-   "url": "https://veritahire.com/j/88488286"
-  },
-  {
-   "title": "Summer 2027: Mechanical Engineering Intern, Ninja (May to August)",
-   "employer": "SharkNinja",
-   "location": "Needham, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$30–$36/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:56",
-   "url": "https://veritahire.com/j/88485945"
-  },
-  {
-   "title": "Spring 2027: Talent Acceleration Co-op (January to June)",
-   "employer": "SharkNinja",
-   "location": "Needham, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$27–$33/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:56",
-   "url": "https://veritahire.com/j/88485944"
-  },
-  {
-   "title": "Spring 2027: Early Talent Access CO-OP (January to June)",
-   "employer": "SharkNinja",
-   "location": "Needham, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$27–$33/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:56",
-   "url": "https://veritahire.com/j/88485943"
-  },
-  {
-   "title": "Site Support Intern",
-   "employer": "Astra Zeneca LP US",
-   "location": "Rockville, MD",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:50",
-   "url": "https://veritahire.com/j/88477718"
-  },
-  {
-   "title": "Intern - Marketing (Summer 2027)",
-   "employer": "Ocean Casino Resort",
-   "location": "Atlantic City, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$18.00/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:46",
-   "url": "https://veritahire.com/j/88474305"
-  },
-  {
-   "title": "Summer 2027 Intern: Account Management",
-   "employer": "Assurant",
-   "location": "GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:46",
-   "url": "https://veritahire.com/j/88473980"
-  },
-  {
-   "title": "Summer 2027: Marketing Operations Project Analyst Intern",
-   "employer": "Assurant",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:46",
-   "url": "https://veritahire.com/j/88473979"
-  },
-  {
-   "title": "Summer 2027 Treasury Internship | Hybrid",
-   "employer": "Allianz Life",
-   "location": "Minneapolis, MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20–$24/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:43",
-   "url": "https://veritahire.com/j/88470981"
-  },
-  {
-   "title": "Mobile Crisis Internship-Spring - Summer 2027",
-   "employer": "Access Services",
-   "location": "Plymouth Meeting, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$15/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:37",
-   "url": "https://veritahire.com/j/88460322"
-  },
-  {
-   "title": "Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)",
-   "employer": "BDO USA",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$40–$45/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:56",
-   "url": "https://veritahire.com/j/88425229"
-  },
-  {
-   "title": "Marketing Intern",
-   "employer": "Belden",
-   "location": "IN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$27-30/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:54",
-   "url": "https://veritahire.com/j/88421252"
-  },
-  {
-   "title": "IT Internal Audit Intern (Summer 2027)",
-   "employer": "PTC",
-   "location": "Boston, MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$25–$27/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:34",
-   "url": "https://veritahire.com/j/88405785"
-  },
-  {
-   "title": "Digital Systems Engineering Intern - Bohemia, NY - Summer 2027",
-   "employer": "GE Aerospace",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$24/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:25",
-   "url": "https://veritahire.com/j/88397255"
-  },
-  {
-   "title": "Research Intern - AI-Enabled Atomistic and Multi-Scale Materials Simulation",
-   "employer": "Seagate Technology",
-   "location": "Bloomington, MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$35 - $43/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:15",
-   "url": "https://veritahire.com/j/88385150"
-  },
-  {
-   "title": "Advanced Data Storage Device Physics Intern",
-   "employer": "Seagate Technology",
-   "location": "Bloomington, MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$35 - $43/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:15",
-   "url": "https://veritahire.com/j/88385148"
-  },
-  {
-   "title": "Intern - Embedded Firmware in Seagate Research Group",
-   "employer": "Seagate Technology",
-   "location": "Shakopee, MN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22 - $30/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:15",
-   "url": "https://veritahire.com/j/88385144"
-  },
-  {
-   "title": "Paralegal Intern",
-   "employer": "Delaware, County of (OH)",
-   "location": "OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$16–$18/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:13",
-   "url": "https://veritahire.com/j/88383137"
-  },
-  {
-   "title": "IT Developer Analyst Intern",
-   "employer": "Daimler Truck",
-   "location": "Mount Holly, NC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21 - $29 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:11",
-   "url": "https://veritahire.com/j/88380607"
-  },
-  {
-   "title": "Supply Chain Systems Digitalization Intern",
-   "employer": "Daimler Truck",
-   "location": "Portland, OR",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21 - $29 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:11",
-   "url": "https://veritahire.com/j/88380605"
-  },
-  {
-   "title": "Manufacturing Engineering Intern - Thomas Built Bus",
-   "employer": "Daimler Truck",
-   "location": "High Point, NC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$21 - $29 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:11",
-   "url": "https://veritahire.com/j/88380602"
-  },
-  {
-   "title": "Intern, Pool - B.R.A.S.S. Surgery Center",
-   "employer": "SCA Health",
-   "location": "Baton Rouge, LA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$14.00/Hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-14 04:17",
-   "url": "https://veritahire.com/j/88380430"
-  },
-  {
-   "title": "Data Science/AI Intern | 2027 Summer Internship Program",
-   "employer": "Verisk",
-   "location": "Lehi, UT",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$35 - $37 an hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:53",
-   "url": "https://veritahire.com/j/88352207"
-  },
-  {
-   "title": "AI Security Engineer Intern",
-   "employer": "ServiceNow",
-   "location": "San Diego, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$62.89/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:19",
-   "url": "https://veritahire.com/j/88324089"
-  },
-  {
-   "title": "Security Engineering & Automation Intern",
-   "employer": "ServiceNow",
-   "location": "Kirkland, WA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$58.96/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:19",
-   "url": "https://veritahire.com/j/88324087"
-  },
-  {
-   "title": "Information Security Analyst Intern",
-   "employer": "ServiceNow",
-   "location": "San Diego, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$45.79/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:19",
-   "url": "https://veritahire.com/j/88324085"
-  },
-  {
-   "title": "Process Engineering Intern",
-   "employer": "Skyworks Solutions",
-   "location": "TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$29.00 - $49.00 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:52",
-   "url": "https://veritahire.com/j/88299500"
-  },
-  {
-   "title": "High-Speed Optoelectronics Design Winter/Spring Co-Op (Jan-June '27)",
-   "employer": "Skyworks Solutions",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$29.00 - $49.00 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:52",
-   "url": "https://veritahire.com/j/88299484"
-  },
-  {
-   "title": "Intern - TDS",
-   "employer": "TD",
-   "location": "Houston, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$30–$45/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:49",
-   "url": "https://veritahire.com/j/88298168"
-  },
-  {
-   "title": "Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO)",
-   "employer": "The Cigna Group",
-   "location": "St. Louis, MO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$35–$43/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:44",
-   "url": "https://veritahire.com/j/88292849"
-  },
-  {
-   "title": "Healthcare Analytics Summer Intern - Start Date: May 24, 2027",
-   "employer": "The Cigna Group",
-   "location": "Morris Plains, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$28.00 an hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:44",
-   "url": "https://veritahire.com/j/88292835"
-  },
-  {
-   "title": "Co-op Student - Urology Surgery",
-   "employer": "Mass General Brigham",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$17.71–$24.28/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:24",
-   "url": "https://veritahire.com/j/88271842"
-  },
-  {
-   "title": "Student Intern",
-   "employer": "Mass General Brigham",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$17.71 - $24.28/Hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:24",
-   "url": "https://veritahire.com/j/88271840"
-  },
-  {
-   "title": "Structural Intern",
-   "employer": "Walter P Moore",
-   "location": "San Francisco, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$30-40/Hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:22",
-   "url": "https://veritahire.com/j/88266894"
-  },
-  {
-   "title": "Sustainability Intern",
-   "employer": "American Sentinel University",
-   "location": "San Diego, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:22",
-   "url": "https://veritahire.com/j/88266711"
-  },
-  {
-   "title": "Underwriting Intern, Cyber",
-   "employer": "American Sentinel University",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$22.00/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:22",
-   "url": "https://veritahire.com/j/88266709"
-  },
-  {
-   "title": "Pharmacy Grad Intern (Hrly)",
-   "employer": "Walmart",
-   "location": "KY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$18–$37/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:06",
-   "url": "https://veritahire.com/j/88245629"
-  },
-  {
-   "title": "Pharmacy Pre-Grad Intern",
-   "employer": "Walmart",
-   "location": "MO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$20.50–$33.50/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:06",
-   "url": "https://veritahire.com/j/88245619"
-  },
-  {
-   "title": "AT&T Labs Internship - Advanced Degrees",
-   "employer": "Cricket Wireless",
-   "location": "Bedminster, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$87K–$131K",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:00",
-   "url": "https://veritahire.com/j/88229618"
-  },
-  {
-   "title": "LegalEdge Intern",
-   "employer": "Cricket Wireless",
-   "location": "Dallas, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$119K–$178K",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:00",
-   "url": "https://veritahire.com/j/88229577"
-  },
-  {
-   "title": "Development Intern",
-   "employer": "Mortenson",
-   "location": "US",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": "$18/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 16:48",
-   "url": "https://veritahire.com/j/88170909"
-  },
-  {
-   "title": "Product Development Co-Op",
-   "employer": "Watlow",
-   "location": "Winona, MN",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$28/hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:16",
-   "url": "https://veritahire.com/j/88385729"
-  },
-  {
-   "title": "Summer 2027 Industrial Engineering Co-Op",
-   "employer": "Schneider Electric",
-   "location": "Red Oak, TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$23.00-$29.50 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-14 04:12",
-   "url": "https://veritahire.com/j/88342848"
-  },
-  {
-   "title": "Product Development - Assembly and Tuning Summer/Fall Co-Op (June-Dec '27)",
-   "employer": "Skyworks Solutions",
-   "location": "CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$29.00 - $49.00 per hour",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:52",
-   "url": "https://veritahire.com/j/88299470"
-  },
-  {
-   "title": "R&D Mechanical Engineering Co-Op",
-   "employer": "Werfen",
-   "location": "Bedford, MA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$22–$30/hr",
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:10",
-   "url": "https://veritahire.com/j/88250855"
   },
   {
    "title": "Summer 2027 - Operations Intern",
@@ -2379,7 +3094,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:59",
+   "last_confirmed": "2026-11-15 02:21",
    "url": "https://veritahire.com/j/88598788"
   },
   {
@@ -2390,7 +3105,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:57",
+   "last_confirmed": "2026-11-15 02:06",
    "url": "https://veritahire.com/j/88594113"
   },
   {
@@ -2401,7 +3116,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:47",
+   "last_confirmed": "2026-11-15 02:15",
    "url": "https://veritahire.com/j/88592667"
   },
   {
@@ -2412,7 +3127,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:43",
+   "last_confirmed": "2026-11-15 02:01",
    "url": "https://veritahire.com/j/88592110"
   },
   {
@@ -2423,7 +3138,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:41",
+   "last_confirmed": "2026-11-15 01:54",
    "url": "https://veritahire.com/j/88588524"
   },
   {
@@ -2434,19 +3149,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:38",
+   "last_confirmed": "2026-11-15 01:58",
    "url": "https://veritahire.com/j/88586430"
-  },
-  {
-   "title": "Electrical Engineer Summer Intern",
-   "employer": "AMETEK",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:37",
-   "url": "https://veritahire.com/j/88584443"
   },
   {
    "title": "Intern, Engineering - Superior Tube Collegeville, Pa",
@@ -2456,8 +3160,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:37",
-   "url": "https://veritahire.com/j/88584441"
+   "last_confirmed": "2026-11-15 01:58",
+   "url": "https://veritahire.com/j/88584440"
+  },
+  {
+   "title": "Electrical Engineer Summer Intern",
+   "employer": "AMETEK",
+   "location": "IL",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:58",
+   "url": "https://veritahire.com/j/88584443"
   },
   {
    "title": "Accounting Intern - Superior Tube Collegeville, Pa",
@@ -2467,7 +3182,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:37",
+   "last_confirmed": "2026-11-15 01:58",
    "url": "https://veritahire.com/j/88584439"
   },
   {
@@ -2478,19 +3193,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:19",
+   "last_confirmed": "2026-11-15 01:37",
    "url": "https://veritahire.com/j/88578212"
-  },
-  {
-   "title": "NIKE, Inc. Footwear Design Internship",
-   "employer": "Nike",
-   "location": "Beaverton, OR",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:19",
-   "url": "https://veritahire.com/j/88578210"
   },
   {
    "title": "NIKE, Inc. Product Graphics Design Internship",
@@ -2500,8 +3204,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:19",
+   "last_confirmed": "2026-11-15 01:37",
    "url": "https://veritahire.com/j/88578208"
+  },
+  {
+   "title": "NIKE, Inc. Footwear Design Internship",
+   "employer": "Nike",
+   "location": "Beaverton, OR",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:37",
+   "url": "https://veritahire.com/j/88578210"
   },
   {
    "title": "Accounting Intern - Windsor, CT (Spring 2027)",
@@ -2511,7 +3226,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:12",
+   "last_confirmed": "2026-11-15 01:22",
    "url": "https://veritahire.com/j/88571771"
   },
   {
@@ -2522,7 +3237,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:12",
+   "last_confirmed": "2026-11-15 01:22",
    "url": "https://veritahire.com/j/88571730"
   },
   {
@@ -2533,7 +3248,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:07",
+   "last_confirmed": "2026-11-15 01:25",
    "url": "https://veritahire.com/j/88567086"
   },
   {
@@ -2544,19 +3259,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:06",
+   "last_confirmed": "2026-11-15 01:25",
    "url": "https://veritahire.com/j/88566008"
-  },
-  {
-   "title": "Engineering Intern",
-   "employer": "Bloomberg Environment",
-   "location": "Arlington, VA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:06",
-   "url": "https://veritahire.com/j/88564620"
   },
   {
    "title": "Marketing Intern",
@@ -2566,8 +3270,19 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:06",
+   "last_confirmed": "2026-11-15 01:24",
    "url": "https://veritahire.com/j/88564619"
+  },
+  {
+   "title": "Engineering Intern",
+   "employer": "Bloomberg Environment",
+   "location": "Arlington, VA",
+   "remote": false,
+   "employment_type": "internship",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-13",
+   "last_confirmed": "2026-11-15 01:24",
+   "url": "https://veritahire.com/j/88564620"
   },
   {
    "title": "Risk Strategy Intern",
@@ -2577,7 +3292,7 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:00",
+   "last_confirmed": "2026-11-15 01:13",
    "url": "https://veritahire.com/j/88545017"
   },
   {
@@ -2588,723 +3303,8 @@
    "employment_type": "internship",
    "pay_as_posted": null,
    "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:50",
+   "last_confirmed": "2026-11-15 01:02",
    "url": "https://veritahire.com/j/88536991"
-  },
-  {
-   "title": "Engineering Intern",
-   "employer": "Alliance",
-   "location": "Baton Rouge, LA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:42",
-   "url": "https://veritahire.com/j/88515462"
-  },
-  {
-   "title": "Intern - Enterprise SSD Architecture",
-   "employer": "Micron Technology",
-   "location": "Boise, ID",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:38",
-   "url": "https://veritahire.com/j/88510307"
-  },
-  {
-   "title": "Intern - AI Engineer Platform",
-   "employer": "Micron Technology",
-   "location": "Boise, ID",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:38",
-   "url": "https://veritahire.com/j/88510297"
-  },
-  {
-   "title": "Summer Internship - Culinary",
-   "employer": "Sea World",
-   "location": "FL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:23",
-   "url": "https://veritahire.com/j/88501144"
-  },
-  {
-   "title": "Summer Internship Opportunities",
-   "employer": "Kodiak Gas Services, Inc.",
-   "location": "TX - The Woodlands, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:23",
-   "url": "https://veritahire.com/j/88501106"
-  },
-  {
-   "title": "General Internship Application",
-   "employer": "Olsson",
-   "location": "AR; Loveland, CO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:13",
-   "url": "https://veritahire.com/j/88499489"
-  },
-  {
-   "title": "Engineering Internship - Building Automation Systems",
-   "employer": "Olsson",
-   "location": "Omaha, NE",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:12",
-   "url": "https://veritahire.com/j/88499487"
-  },
-  {
-   "title": "Design Research Intern",
-   "employer": "Haworth",
-   "location": "MI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:11",
-   "url": "https://veritahire.com/j/88498295"
-  },
-  {
-   "title": "Adult Education Intern (Unpaid)",
-   "employer": "IRC",
-   "location": "Elizabeth, NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:04",
-   "url": "https://veritahire.com/j/88492244"
-  },
-  {
-   "title": "Health and Wellness Intern",
-   "employer": "IRC",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:04",
-   "url": "https://veritahire.com/j/88492243"
-  },
-  {
-   "title": "Legal Intern",
-   "employer": "Travel + Leisure Co.",
-   "location": "FL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 22:02",
-   "url": "https://veritahire.com/j/88490756"
-  },
-  {
-   "title": "Manufacturing Engineer Intern- Summer 2027",
-   "employer": "Shape Corp.",
-   "location": "Trenton, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:57",
-   "url": "https://veritahire.com/j/88487306"
-  },
-  {
-   "title": "Quality Engineer Intern- Summer 2027",
-   "employer": "Shape Corp.",
-   "location": "Trenton, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:57",
-   "url": "https://veritahire.com/j/88487299"
-  },
-  {
-   "title": "Industrial Program Engineer Intern- Summer 2027",
-   "employer": "Shape Corp.",
-   "location": "Trenton, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:57",
-   "url": "https://veritahire.com/j/88487296"
-  },
-  {
-   "title": "Intern- Ambulatory Pharmacy",
-   "employer": "HonorHealth",
-   "location": "AZ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:55",
-   "url": "https://veritahire.com/j/88484436"
-  },
-  {
-   "title": "Student at FPU Only - Marketing Intern, Spring 2027",
-   "employer": "Franklin Pierce University",
-   "location": "Rindge, NH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:55",
-   "url": "https://veritahire.com/j/88483984"
-  },
-  {
-   "title": "Intern, Document Control",
-   "employer": "Triumph",
-   "location": "UT",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:46",
-   "url": "https://veritahire.com/j/88474032"
-  },
-  {
-   "title": "IT Cyber Security Intern",
-   "employer": "Midrex Technologies, Inc.",
-   "location": "Corporate Office - Charlotte, NC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:45",
-   "url": "https://veritahire.com/j/88472686"
-  },
-  {
-   "title": "Intern - Engineering: Mechanical Engineering",
-   "employer": "Midrex Technologies, Inc.",
-   "location": "Corporate Office - Charlotte, NC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:45",
-   "url": "https://veritahire.com/j/88472657"
-  },
-  {
-   "title": "Intern- Social Work",
-   "employer": "The Centers",
-   "location": "Cleveland, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:37",
-   "url": "https://veritahire.com/j/88461903"
-  },
-  {
-   "title": "Intern",
-   "employer": "MediaNews Group",
-   "location": "Deerfield Beach, FL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:32",
-   "url": "https://veritahire.com/j/88454687"
-  },
-  {
-   "title": "Mechanical Engineering Intern",
-   "employer": "Salas O'Brien",
-   "location": "Nashville, TN",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:25",
-   "url": "https://veritahire.com/j/88446238"
-  },
-  {
-   "title": "Partner Development Internship",
-   "employer": "Cerity Partners",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:16",
-   "url": "https://veritahire.com/j/88442457"
-  },
-  {
-   "title": "2027 Summer Intern - Future Concepts - 6539",
-   "employer": "Shieldai",
-   "location": "D.C., DC",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:09",
-   "url": "https://veritahire.com/j/88440112"
-  },
-  {
-   "title": "Summer 2027 Environmental Engineering Intern",
-   "employer": "Flint Hills Resources",
-   "location": "Corpus Christi, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:09",
-   "url": "https://veritahire.com/j/88439994"
-  },
-  {
-   "title": "Operations Excellence Intern",
-   "employer": "Janis Research",
-   "location": "NJ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:08",
-   "url": "https://veritahire.com/j/88439332"
-  },
-  {
-   "title": "Energy and Utilities Engineering Co-Op (May - December 2027)",
-   "employer": "Farnsworth Group",
-   "location": "St. Louis, MO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:06",
-   "url": "https://veritahire.com/j/88438938"
-  },
-  {
-   "title": "Energy and Utilities Engineering Co-Op (Jan - Aug 2027)",
-   "employer": "Farnsworth Group",
-   "location": "St. Louis, MO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:06",
-   "url": "https://veritahire.com/j/88438937"
-  },
-  {
-   "title": "Intern",
-   "employer": "Tellus Equipment Solutions",
-   "location": "Fredericksburg, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 21:05",
-   "url": "https://veritahire.com/j/88438341"
-  },
-  {
-   "title": "DC INTERN",
-   "employer": "Dollar General",
-   "location": "San Antonio, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:50",
-   "url": "https://veritahire.com/j/88418371"
-  },
-  {
-   "title": "Industrial Engineering Intern",
-   "employer": "Nypro, A Jabil Company",
-   "location": "St. Petersburg/Tampa, FL",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:38",
-   "url": "https://veritahire.com/j/88408577"
-  },
-  {
-   "title": "Archives Intern",
-   "employer": "Cincinnati Children's",
-   "location": "Cincinnati, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:27",
-   "url": "https://veritahire.com/j/88400445"
-  },
-  {
-   "title": "Research & Design Intern",
-   "employer": "Minitab",
-   "location": "State College, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:19",
-   "url": "https://veritahire.com/j/88389804"
-  },
-  {
-   "title": "Business Development Intern",
-   "employer": "Minitab",
-   "location": "State College, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:19",
-   "url": "https://veritahire.com/j/88389803"
-  },
-  {
-   "title": "Training & Development Intern - Spring 2027",
-   "employer": "Slim Chickens",
-   "location": "Fayetteville, AR",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:14",
-   "url": "https://veritahire.com/j/88383210"
-  },
-  {
-   "title": "Finance Intern - Spring 2027",
-   "employer": "Slim Chickens",
-   "location": "Fayetteville, AR",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:14",
-   "url": "https://veritahire.com/j/88383207"
-  },
-  {
-   "title": "Project Management Intern",
-   "employer": "Philadelphia Gas Works",
-   "location": "Philadelphia, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:13",
-   "url": "https://veritahire.com/j/88383121"
-  },
-  {
-   "title": "Facility Engineering Intern",
-   "employer": "Hl-ga Battery Company LLC",
-   "location": "Ellabell, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:07",
-   "url": "https://veritahire.com/j/88376110"
-  },
-  {
-   "title": "Electrical Engineering Intern",
-   "employer": "Hl-ga Battery Company LLC",
-   "location": "Ellabell, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:07",
-   "url": "https://veritahire.com/j/88376071"
-  },
-  {
-   "title": "Mechanical Engineering Intern",
-   "employer": "Hl-ga Battery Company LLC",
-   "location": "Ellabell, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:07",
-   "url": "https://veritahire.com/j/88376050"
-  },
-  {
-   "title": "2027 Summer Grid Ops Technology Intern (NH)",
-   "employer": "Eversource Energy",
-   "location": "NH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:03",
-   "url": "https://veritahire.com/j/88366889"
-  },
-  {
-   "title": "2027 Gas Systems Engineering Co-op",
-   "employer": "Eversource Energy",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:03",
-   "url": "https://veritahire.com/j/88366878"
-  },
-  {
-   "title": "2027 Summer: Distribution Engineering Intern (Hooksett, NH-Hybrid Schedule)",
-   "employer": "Eversource Energy",
-   "location": "NH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 20:03",
-   "url": "https://veritahire.com/j/88366866"
-  },
-  {
-   "title": "Intern - GEO",
-   "employer": "Terracon",
-   "location": "Midland, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:53",
-   "url": "https://veritahire.com/j/88354110"
-  },
-  {
-   "title": "Intern - ENV",
-   "employer": "Terracon",
-   "location": "Midland, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:53",
-   "url": "https://veritahire.com/j/88354108"
-  },
-  {
-   "title": "Intern - Environmental",
-   "employer": "Terracon",
-   "location": "Lubbock, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:53",
-   "url": "https://veritahire.com/j/88354106"
-  },
-  {
-   "title": "Structural Engineering Intern - Summer 2027",
-   "employer": "Hok",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:47",
-   "url": "https://veritahire.com/j/88349357"
-  },
-  {
-   "title": "Engineering Intern",
-   "employer": "ZF",
-   "location": "Marysville, MI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:26",
-   "url": "https://veritahire.com/j/88327320"
-  },
-  {
-   "title": "Clinical Research Intern",
-   "employer": "Intuitive",
-   "location": "Sunnyvale, CA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:19",
-   "url": "https://veritahire.com/j/88324072"
-  },
-  {
-   "title": "Intern Consumer Connections (Summer 2027)",
-   "employer": "Hershey",
-   "location": "Hershey, PA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:42",
-   "url": "https://veritahire.com/j/88289563"
-  },
-  {
-   "title": "Physician Practice Operations Intern",
-   "employer": "Children's Healthcare of Atlanta",
-   "location": "Brookhaven, GA",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:32",
-   "url": "https://veritahire.com/j/88278536"
-  },
-  {
-   "title": "Physical Therapy and Occupational Therapy Intern",
-   "employer": "Labette Health",
-   "location": "Parsons, KS",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:32",
-   "url": "https://veritahire.com/j/88277726"
-  },
-  {
-   "title": "Non-Profit and Community Garden Management Internship",
-   "employer": "American Sentinel University",
-   "location": "Boulder, CO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:22",
-   "url": "https://veritahire.com/j/88266714"
-  },
-  {
-   "title": "2027 Summer Intern - Automotive Technician",
-   "employer": "General Motors",
-   "location": "Milford, MI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:07",
-   "url": "https://veritahire.com/j/88247862"
-  },
-  {
-   "title": "Actuarial Internship - Summer 2027",
-   "employer": "AmTrust Financial",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:05",
-   "url": "https://veritahire.com/j/88243505"
-  },
-  {
-   "title": "2027 Summer Internship: Division Accounting",
-   "employer": "Paccar",
-   "location": "TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:03",
-   "url": "https://veritahire.com/j/88238185"
-  },
-  {
-   "title": "Manufacturing Engineering Data Analytics Intern Summer 2027",
-   "employer": "Paccar",
-   "location": "MS",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:03",
-   "url": "https://veritahire.com/j/88238183"
-  },
-  {
-   "title": "Machining Intern Spring 2027",
-   "employer": "Paccar",
-   "location": "MS",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:03",
-   "url": "https://veritahire.com/j/88238181"
-  },
-  {
-   "title": "HIM Intern",
-   "employer": "Corewell Health",
-   "location": "Grand Rapids, MI",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 18:02",
-   "url": "https://veritahire.com/j/88236083"
-  },
-  {
-   "title": "Management Internship",
-   "employer": "Menards",
-   "location": "COLUMBUS, OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 17:51",
-   "url": "https://veritahire.com/j/88223994"
-  },
-  {
-   "title": "Finance Intern (Summer 2027)",
-   "employer": "Raytheon",
-   "location": "mckinney, TX",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-14 05:36",
-   "url": "https://veritahire.com/j/88208874"
-  },
-  {
-   "title": "Pharmacy Intern",
-   "employer": "Encompass Health",
-   "location": "Tucson, AZ",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 17:31",
-   "url": "https://veritahire.com/j/88208861"
-  },
-  {
-   "title": "Audit Intern",
-   "employer": "Bunge",
-   "location": "MO",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 19:36",
-   "url": "https://veritahire.com/j/88207696"
-  },
-  {
-   "title": "Intern, Workforce Experience",
-   "employer": "Cencora",
-   "location": "Remote (PA)",
-   "remote": true,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 16:51",
-   "url": "https://veritahire.com/j/88174602"
-  },
-  {
-   "title": "Intern - Center of Excellence",
-   "employer": "Cintas",
-   "location": "OH",
-   "remote": false,
-   "employment_type": "internship",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-13",
-   "last_confirmed": "2026-11-13 23:05",
-   "url": "https://veritahire.com/j/88171243"
   }
  ]
 }
